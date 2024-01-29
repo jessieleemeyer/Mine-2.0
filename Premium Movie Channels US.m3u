@@ -1,69 +1,69 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ext" tvg-name="MGM+ Drive-In (US)" tvg-logo="" group-title="Premium Movie Channels",MGM+ Drive-In
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/421449
-#EXTINF:-1 tvg-id="ext" tvg-name="5STARMAX (US)" tvg-logo="" group-title="Premium Movie Channels",5STARMAX
+#EXTINF:0,5STARMAX
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/457903
-#EXTINF:-1 tvg-id="ext" tvg-name="CINEMAX HD (US)" tvg-logo="" group-title="Premium Movie Channels",CINEMAX
+#EXTINF:0,CINEMAX
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12777
-#EXTINF:-1 tvg-id="ext" tvg-name="CINEMAX MOREMAX HD (US)" tvg-logo="" group-title="Premium Movie Channels",CINEMAX MOREMAX
+#EXTINF:0,CINEMAX MOREMAX
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12727
-#EXTINF:-1 tvg-id="ext" tvg-name="CINEMAX OUTERMAX HD (US) " tvg-logo="" group-title="Premium Movie Channels",CINEMAX OUTERMAX 
+#EXTINF:0,CINEMAX OUTERMAX 
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12776
-#EXTINF:-1 tvg-id="ext" tvg-name="CINEMAX THRILLER HD (US) " tvg-logo="" group-title="Premium Movie Channels",CINEMAX THRILLER 
+#EXTINF:0,CINEMAX THRILLER 
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12775
-#EXTINF:-1 tvg-id="ext" tvg-name="HBO 2 (US)" tvg-logo="" group-title="Premium Movie Channels",HBO 2
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12796
-#EXTINF:-1 tvg-id="ext" tvg-name="HBO COMEDY HD (US)" tvg-logo="" group-title="Premium Movie Channels",HBO COMEDY
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12739
-#EXTINF:-1 tvg-id="ext" tvg-name="HBO FAMILY HD (US)" tvg-logo="" group-title="Premium Movie Channels",HBO FAMILY
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12741
-#EXTINF:-1 tvg-id="ext" tvg-name="HBO HD (US)" tvg-logo="" group-title="Premium Movie Channels",HBO
+#EXTINF:0,HBO
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12743
-#EXTINF:-1 tvg-id="ext" tvg-name="HBO SIGNATURE HD (US)" tvg-logo="" group-title="Premium Movie Channels",HBO SIGNATURE
+#EXTINF:0,HBO 2
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12796
+#EXTINF:0,HBO COMEDY
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12739
+#EXTINF:0,HBO FAMILY
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12741
+#EXTINF:0,HBO SIGNATURE
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12740
-#EXTINF:-1 tvg-id="ext" tvg-name="HBO ZONE HD (US)" tvg-logo="" group-title="Premium Movie Channels",HBO ZONE
+#EXTINF:0,HBO ZONE
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12742
-#EXTINF:-1 tvg-id="ext" tvg-name="MOVIEMAX (US)" tvg-logo="" group-title="Premium Movie Channels",MOVIEMAX
+#EXTINF:0,MGM+ Drive-In
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/421449
+#EXTINF:0,MOVIEMAX
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/457904
-#EXTINF:-1 tvg-id="ext" tvg-name="SHOWTIME (US)" tvg-logo="" group-title="Premium Movie Channels",SHOWTIME
+#EXTINF:0,SHOWTIME
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12709
-#EXTINF:-1 tvg-id="ext" tvg-name="SHOWTIME 2 HD (US) " tvg-logo="" group-title="Premium Movie Channels",SHOWTIME 2 
+#EXTINF:0,SHOWTIME 2 
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12708
-#EXTINF:-1 tvg-id="ext" tvg-name="SHOWTIME EXTREME HD (US) " tvg-logo="" group-title="Premium Movie Channels",SHOWTIME EXTREME 
+#EXTINF:0,SHOWTIME EXTREME 
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12707
-#EXTINF:-1 tvg-id="ext" tvg-name="SHOWTIME FAMILY ZONE (US)" tvg-logo="" group-title="Premium Movie Channels",SHOWTIME FAMILY ZONE
+#EXTINF:0,SHOWTIME FAMILY ZONE
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/22636
-#EXTINF:-1 tvg-id="ext" tvg-name="SHOWTIME NEXT (US)" tvg-logo="" group-title="Premium Movie Channels",SHOWTIME NEXT
+#EXTINF:0,SHOWTIME NEXT
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/24861
-#EXTINF:-1 tvg-id="ext" tvg-name="SHOWTIME SHOWCASE (US)" tvg-logo="" group-title="Premium Movie Channels",SHOWTIME SHOWCASE
+#EXTINF:0,SHOWTIME SHOWCASE
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/421508
-#EXTINF:-1 tvg-id="ext" tvg-name="SHOWTIME WOMEN (US)" tvg-logo="" group-title="Premium Movie Channels",SHOWTIME WOMEN
+#EXTINF:0,SHOWTIME WOMEN
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/22635
-#EXTINF:-1 tvg-id="ext" tvg-name="SHOxBET (US)" tvg-logo="" group-title="Premium Movie Channels",SHOxBET
+#EXTINF:0,SHOxBET
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/487943
-#EXTINF:-1 tvg-id="ext" tvg-name="STARZ (US)" tvg-logo="" group-title="Premium Movie Channels",STARZ
+#EXTINF:0,STARZ
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12704
-#EXTINF:-1 tvg-id="ext" tvg-name="STARZ CINEMA (US)" tvg-logo="" group-title="Premium Movie Channels",STARZ CINEMA
+#EXTINF:0,STARZ CINEMA
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/421446
-#EXTINF:-1 tvg-id="ext" tvg-name="STARZ COMEDY (US)" tvg-logo="" group-title="Premium Movie Channels",STARZ COMEDY
+#EXTINF:0,STARZ COMEDY
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12703
-#EXTINF:-1 tvg-id="ext" tvg-name="STARZ EDGE (US)" tvg-logo="" group-title="Premium Movie Channels",STARZ EDGE
+#EXTINF:0,STARZ EDGE
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12702
-#EXTINF:-1 tvg-id="ext" tvg-name="STARZ ENCORE (US)" tvg-logo="" group-title="Premium Movie Channels",STARZ ENCORE
+#EXTINF:0,STARZ ENCORE
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/22639
-#EXTINF:-1 tvg-id="ext" tvg-name="STARZ ENCORE ACTION (US)" tvg-logo="" group-title="Premium Movie Channels",STARZ ENCORE ACTION
+#EXTINF:0,STARZ ENCORE ACTION
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/421503
-#EXTINF:-1 tvg-id="ext" tvg-name="STARZ ENCORE BLACK (US)" tvg-logo="" group-title="Premium Movie Channels",STARZ ENCORE BLACK
+#EXTINF:0,STARZ ENCORE BLACK
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/421450
-#EXTINF:-1 tvg-id="ext" tvg-name="STARZ ENCORE CLASSIC (US)" tvg-logo="" group-title="Premium Movie Channels",STARZ ENCORE CLASSIC
+#EXTINF:0,STARZ ENCORE CLASSIC
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/421452
-#EXTINF:-1 tvg-id="ext" tvg-name="STARZ ENCORE FAMILY (US)" tvg-logo="" group-title="Premium Movie Channels",STARZ ENCORE FAMILY
+#EXTINF:0,STARZ ENCORE FAMILY
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/421451
-#EXTINF:-1 tvg-id="ext" tvg-name="STARZ ENCORE SUSPENSE (US)" tvg-logo="" group-title="Premium Movie Channels",STARZ ENCORE SUSPENSE
+#EXTINF:0,STARZ ENCORE SUSPENSE
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/22638
-#EXTINF:-1 tvg-id="ext" tvg-name="STARZ ENCORE WESTERN (US) " tvg-logo="" group-title="Premium Movie Channels",STARZ ENCORE WESTERN 
+#EXTINF:0,STARZ ENCORE WESTERN 
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12701
-#EXTINF:-1 tvg-id="ext" tvg-name="STARZ IN BLACK (US) " tvg-logo="" group-title="Premium Movie Channels",STARZ IN BLACK 
+#EXTINF:0,STARZ IN BLACK 
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/22640
-#EXTINF:-1 tvg-id="ext" tvg-name="STARZ KIDS AND FAMILY (US) " tvg-logo="" group-title="Premium Movie Channels",STARZ KIDS AND FAMILY 
+#EXTINF:0,STARZ KIDS AND FAMILY 
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12699
