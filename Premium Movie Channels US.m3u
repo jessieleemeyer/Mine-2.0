@@ -1,97 +1,69 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ext" tvg-name="CINEMAX 5 STARMAX" tvg-logo="" group-title="Premium Movie Channels",CINEMAX 5 STARMAX
-http://supersonictv.live:8080/880771/489382/22878
-#EXTINF:-1 tvg-id="ext" tvg-name="Cinemax East" tvg-logo="" group-title="Premium Movie Channels",Cinemax East
-http://supersonictv.live:8080/880771/489382/22879
-#EXTINF:-1 tvg-id="ext" tvg-name="Cinemax West" tvg-logo="" group-title="Premium Movie Channels",Cinemax West
-http://supersonictv.live:8080/880771/489382/22880
-#EXTINF:-1 tvg-id="ext" tvg-name="CINEMAX ACTIONMAX" tvg-logo="" group-title="Premium Movie Channels",CINEMAX ACTIONMAX
-http://supersonictv.live:8080/880771/489382/22881
-#EXTINF:-1 tvg-id="ext" tvg-name="CINEMAX MORE MAX" tvg-logo="" group-title="Premium Movie Channels",CINEMAX MORE MAX
-http://supersonictv.live:8080/880771/489382/22882
-#EXTINF:-1 tvg-id="ext" tvg-name="CINEMAX MOVIE MAX" tvg-logo="" group-title="Premium Movie Channels",CINEMAX MOVIE MAX
-http://supersonictv.live:8080/880771/489382/22883
-#EXTINF:-1 tvg-id="ext" tvg-name="CINEMAX OUTER MAX" tvg-logo="" group-title="Premium Movie Channels",CINEMAX OUTER MAX
-http://supersonictv.live:8080/880771/489382/22884
-#EXTINF:-1 tvg-id="ext" tvg-name="CINEMAX THRILLER MAX" tvg-logo="" group-title="Premium Movie Channels",CINEMAX THRILLER MAX
-http://supersonictv.live:8080/880771/489382/22885
-#EXTINF:-1 tvg-id="ext" tvg-name="Epix" tvg-logo="" group-title="Premium Movie Channels",Epix
-http://supersonictv.live:8080/880771/489382/22886
-#EXTINF:-1 tvg-id="ext" tvg-name="EPIX2" tvg-logo="" group-title="Premium Movie Channels",EPIX2
-http://supersonictv.live:8080/880771/489382/22887
-#EXTINF:-1 tvg-id="ext" tvg-name="EPIX Drive-In" tvg-logo="" group-title="Premium Movie Channels",EPIX Drive-In
-http://supersonictv.live:8080/880771/489382/22888
-#EXTINF:-1 tvg-id="ext" tvg-name="Epix Hits" tvg-logo="" group-title="Premium Movie Channels",Epix Hits
-http://supersonictv.live:8080/880771/489382/22889
-#EXTINF:-1 tvg-id="ext" tvg-name="HBO East" tvg-logo="" group-title="Premium Movie Channels",HBO East
-http://supersonictv.live:8080/880771/489382/22894
-#EXTINF:-1 tvg-id="ext" tvg-name="HBO West" tvg-logo="" group-title="Premium Movie Channels",HBO West
-http://supersonictv.live:8080/880771/489382/22895
-#EXTINF:-1 tvg-id="ext" tvg-name="HBO 2 East" tvg-logo="" group-title="Premium Movie Channels",HBO 2 East
-http://supersonictv.live:8080/880771/489382/22896
-#EXTINF:-1 tvg-id="ext" tvg-name="HBO Comedy" tvg-logo="" group-title="Premium Movie Channels",HBO Comedy
-http://supersonictv.live:8080/880771/489382/22897
-#EXTINF:-1 tvg-id="ext" tvg-name="HBO Family" tvg-logo="" group-title="Premium Movie Channels",HBO Family
-http://supersonictv.live:8080/880771/489382/22898
-#EXTINF:-1 tvg-id="ext" tvg-name="HBO Pacific" tvg-logo="" group-title="Premium Movie Channels",HBO Pacific
-http://supersonictv.live:8080/880771/489382/22899
-#EXTINF:-1 tvg-id="ext" tvg-name="HBO Signature" tvg-logo="" group-title="Premium Movie Channels",HBO Signature
-http://supersonictv.live:8080/880771/489382/22900
-#EXTINF:-1 tvg-id="ext" tvg-name="HBO Zone" tvg-logo="" group-title="Premium Movie Channels",HBO Zone
-http://supersonictv.live:8080/880771/489382/22901
-#EXTINF:-1 tvg-id="ext" tvg-name="INDIEPLEX" tvg-logo="" group-title="Premium Movie Channels",INDIEPLEX
-http://supersonictv.live:8080/880771/489382/22903
-#EXTINF:-1 tvg-id="ext" tvg-name="Showtime East" tvg-logo="" group-title="Premium Movie Channels",Showtime East
-http://supersonictv.live:8080/880771/489382/22908
-#EXTINF:-1 tvg-id="ext" tvg-name="Showtime West" tvg-logo="" group-title="Premium Movie Channels",Showtime West
-http://supersonictv.live:8080/880771/489382/22909
-#EXTINF:-1 tvg-id="ext" tvg-name="Showtime 2" tvg-logo="" group-title="Premium Movie Channels",Showtime 2
-http://supersonictv.live:8080/880771/489382/22910
-#EXTINF:-1 tvg-id="ext" tvg-name="SHOxBET" tvg-logo="" group-title="Premium Movie Channels",SHOxBET
-http://supersonictv.live:8080/880771/489382/22911
-#EXTINF:-1 tvg-id="ext" tvg-name="Showtime Extreme" tvg-logo="" group-title="Premium Movie Channels",Showtime Extreme
-http://supersonictv.live:8080/880771/489382/22912
-#EXTINF:-1 tvg-id="ext" tvg-name="Showtime Family Zone" tvg-logo="" group-title="Premium Movie Channels",Showtime Family Zone
-http://supersonictv.live:8080/880771/489382/22913
-#EXTINF:-1 tvg-id="ext" tvg-name="Showtime Next" tvg-logo="" group-title="Premium Movie Channels",Showtime Next
-http://supersonictv.live:8080/880771/489382/22914
-#EXTINF:-1 tvg-id="ext" tvg-name="Showtime Showcase" tvg-logo="" group-title="Premium Movie Channels",Showtime Showcase
-http://supersonictv.live:8080/880771/489382/22915
-#EXTINF:-1 tvg-id="ext" tvg-name="Showtime Women" tvg-logo="" group-title="Premium Movie Channels",Showtime Women
-http://supersonictv.live:8080/880771/489382/22916
-#EXTINF:-1 tvg-id="ext" tvg-name="StarZ East" tvg-logo="" group-title="Premium Movie Channels",StarZ East
-http://supersonictv.live:8080/880771/489382/22918
-#EXTINF:-1 tvg-id="ext" tvg-name="Starz West" tvg-logo="" group-title="Premium Movie Channels",Starz West
-http://supersonictv.live:8080/880771/489382/22919
-#EXTINF:-1 tvg-id="ext" tvg-name="Starz Cinema" tvg-logo="" group-title="Premium Movie Channels",Starz Cinema
-http://supersonictv.live:8080/880771/489382/22920
-#EXTINF:-1 tvg-id="ext" tvg-name="Starz Comedy" tvg-logo="" group-title="Premium Movie Channels",Starz Comedy
-http://supersonictv.live:8080/880771/489382/22921
-#EXTINF:-1 tvg-id="ext" tvg-name="Starz Edge" tvg-logo="" group-title="Premium Movie Channels",Starz Edge
-http://supersonictv.live:8080/880771/489382/22922
-#EXTINF:-1 tvg-id="ext" tvg-name="Starz in Black" tvg-logo="" group-title="Premium Movie Channels",Starz in Black
-http://supersonictv.live:8080/880771/489382/22923
-#EXTINF:-1 tvg-id="ext" tvg-name="Starz Kids & Family" tvg-logo="" group-title="Premium Movie Channels",Starz Kids & Family
-http://supersonictv.live:8080/880771/489382/22924
-#EXTINF:-1 tvg-id="ext" tvg-name="Starz Encore East" tvg-logo="" group-title="Premium Movie Channels",Starz Encore East
-http://supersonictv.live:8080/880771/489382/22925
-#EXTINF:-1 tvg-id="ext" tvg-name="Starz Encore West" tvg-logo="" group-title="Premium Movie Channels",Starz Encore West
-http://supersonictv.live:8080/880771/489382/22926
-#EXTINF:-1 tvg-id="ext" tvg-name="Starz Encore Action" tvg-logo="" group-title="Premium Movie Channels",Starz Encore Action
-http://supersonictv.live:8080/880771/489382/22927
-#EXTINF:-1 tvg-id="ext" tvg-name="Starz Encore Black" tvg-logo="" group-title="Premium Movie Channels",Starz Encore Black
-http://supersonictv.live:8080/880771/489382/22928
-#EXTINF:-1 tvg-id="ext" tvg-name="Starz Encore Classic" tvg-logo="" group-title="Premium Movie Channels",Starz Encore Classic
-http://supersonictv.live:8080/880771/489382/22929
-#EXTINF:-1 tvg-id="ext" tvg-name="Starz Encore Family" tvg-logo="" group-title="Premium Movie Channels",Starz Encore Family
-http://supersonictv.live:8080/880771/489382/22930
-#EXTINF:-1 tvg-id="ext" tvg-name="Starz Encore Suspense" tvg-logo="" group-title="Premium Movie Channels",Starz Encore Suspense
-http://supersonictv.live:8080/880771/489382/22931
-#EXTINF:-1 tvg-id="ext" tvg-name="Starz Encore Westerns" tvg-logo="" group-title="Premium Movie Channels",Starz Encore Westerns
-http://supersonictv.live:8080/880771/489382/22932
-#EXTINF:-1 tvg-id="ext" tvg-name="CINEMAX ACTIONMAX WEST" tvg-logo="" group-title="Premium Movie Channels",CINEMAX ACTIONMAX WEST
-http://supersonictv.live:8080/880771/489382/61185
-#EXTINF:-1 tvg-id="ext" tvg-name="CINEMAX MOREMAX WEST" tvg-logo="" group-title="Premium Movie Channels",CINEMAX MOREMAX WEST
-http://supersonictv.live:8080/880771/489382/61186
-#EXTINF:-1 tvg-id="ext" tvg-name="CINEMAX THRILLERMAX WEST" tvg-logo="" group-title="Premium Movie Channels",CINEMAX THRILLERMAX WEST
-http://supersonictv.live:8080/880771/489382/61187
+#EXTINF:-1 tvg-id="ext" tvg-name="MGM+ Drive-In (US)" tvg-logo="" group-title="Premium Movie Channels",MGM+ Drive-In
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/421449
+#EXTINF:-1 tvg-id="ext" tvg-name="5STARMAX (US)" tvg-logo="" group-title="Premium Movie Channels",5STARMAX
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/457903
+#EXTINF:-1 tvg-id="ext" tvg-name="CINEMAX HD (US)" tvg-logo="" group-title="Premium Movie Channels",CINEMAX
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12777
+#EXTINF:-1 tvg-id="ext" tvg-name="CINEMAX MOREMAX HD (US)" tvg-logo="" group-title="Premium Movie Channels",CINEMAX MOREMAX
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12727
+#EXTINF:-1 tvg-id="ext" tvg-name="CINEMAX OUTERMAX HD (US) " tvg-logo="" group-title="Premium Movie Channels",CINEMAX OUTERMAX 
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12776
+#EXTINF:-1 tvg-id="ext" tvg-name="CINEMAX THRILLER HD (US) " tvg-logo="" group-title="Premium Movie Channels",CINEMAX THRILLER 
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12775
+#EXTINF:-1 tvg-id="ext" tvg-name="HBO 2 (US)" tvg-logo="" group-title="Premium Movie Channels",HBO 2
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12796
+#EXTINF:-1 tvg-id="ext" tvg-name="HBO COMEDY HD (US)" tvg-logo="" group-title="Premium Movie Channels",HBO COMEDY
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12739
+#EXTINF:-1 tvg-id="ext" tvg-name="HBO FAMILY HD (US)" tvg-logo="" group-title="Premium Movie Channels",HBO FAMILY
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12741
+#EXTINF:-1 tvg-id="ext" tvg-name="HBO HD (US)" tvg-logo="" group-title="Premium Movie Channels",HBO
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12743
+#EXTINF:-1 tvg-id="ext" tvg-name="HBO SIGNATURE HD (US)" tvg-logo="" group-title="Premium Movie Channels",HBO SIGNATURE
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12740
+#EXTINF:-1 tvg-id="ext" tvg-name="HBO ZONE HD (US)" tvg-logo="" group-title="Premium Movie Channels",HBO ZONE
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12742
+#EXTINF:-1 tvg-id="ext" tvg-name="MOVIEMAX (US)" tvg-logo="" group-title="Premium Movie Channels",MOVIEMAX
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/457904
+#EXTINF:-1 tvg-id="ext" tvg-name="SHOWTIME (US)" tvg-logo="" group-title="Premium Movie Channels",SHOWTIME
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12709
+#EXTINF:-1 tvg-id="ext" tvg-name="SHOWTIME 2 HD (US) " tvg-logo="" group-title="Premium Movie Channels",SHOWTIME 2 
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12708
+#EXTINF:-1 tvg-id="ext" tvg-name="SHOWTIME EXTREME HD (US) " tvg-logo="" group-title="Premium Movie Channels",SHOWTIME EXTREME 
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12707
+#EXTINF:-1 tvg-id="ext" tvg-name="SHOWTIME FAMILY ZONE (US)" tvg-logo="" group-title="Premium Movie Channels",SHOWTIME FAMILY ZONE
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/22636
+#EXTINF:-1 tvg-id="ext" tvg-name="SHOWTIME NEXT (US)" tvg-logo="" group-title="Premium Movie Channels",SHOWTIME NEXT
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/24861
+#EXTINF:-1 tvg-id="ext" tvg-name="SHOWTIME SHOWCASE (US)" tvg-logo="" group-title="Premium Movie Channels",SHOWTIME SHOWCASE
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/421508
+#EXTINF:-1 tvg-id="ext" tvg-name="SHOWTIME WOMEN (US)" tvg-logo="" group-title="Premium Movie Channels",SHOWTIME WOMEN
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/22635
+#EXTINF:-1 tvg-id="ext" tvg-name="SHOxBET (US)" tvg-logo="" group-title="Premium Movie Channels",SHOxBET
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/487943
+#EXTINF:-1 tvg-id="ext" tvg-name="STARZ (US)" tvg-logo="" group-title="Premium Movie Channels",STARZ
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12704
+#EXTINF:-1 tvg-id="ext" tvg-name="STARZ CINEMA (US)" tvg-logo="" group-title="Premium Movie Channels",STARZ CINEMA
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/421446
+#EXTINF:-1 tvg-id="ext" tvg-name="STARZ COMEDY (US)" tvg-logo="" group-title="Premium Movie Channels",STARZ COMEDY
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12703
+#EXTINF:-1 tvg-id="ext" tvg-name="STARZ EDGE (US)" tvg-logo="" group-title="Premium Movie Channels",STARZ EDGE
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12702
+#EXTINF:-1 tvg-id="ext" tvg-name="STARZ ENCORE (US)" tvg-logo="" group-title="Premium Movie Channels",STARZ ENCORE
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/22639
+#EXTINF:-1 tvg-id="ext" tvg-name="STARZ ENCORE ACTION (US)" tvg-logo="" group-title="Premium Movie Channels",STARZ ENCORE ACTION
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/421503
+#EXTINF:-1 tvg-id="ext" tvg-name="STARZ ENCORE BLACK (US)" tvg-logo="" group-title="Premium Movie Channels",STARZ ENCORE BLACK
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/421450
+#EXTINF:-1 tvg-id="ext" tvg-name="STARZ ENCORE CLASSIC (US)" tvg-logo="" group-title="Premium Movie Channels",STARZ ENCORE CLASSIC
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/421452
+#EXTINF:-1 tvg-id="ext" tvg-name="STARZ ENCORE FAMILY (US)" tvg-logo="" group-title="Premium Movie Channels",STARZ ENCORE FAMILY
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/421451
+#EXTINF:-1 tvg-id="ext" tvg-name="STARZ ENCORE SUSPENSE (US)" tvg-logo="" group-title="Premium Movie Channels",STARZ ENCORE SUSPENSE
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/22638
+#EXTINF:-1 tvg-id="ext" tvg-name="STARZ ENCORE WESTERN (US) " tvg-logo="" group-title="Premium Movie Channels",STARZ ENCORE WESTERN 
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12701
+#EXTINF:-1 tvg-id="ext" tvg-name="STARZ IN BLACK (US) " tvg-logo="" group-title="Premium Movie Channels",STARZ IN BLACK 
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/22640
+#EXTINF:-1 tvg-id="ext" tvg-name="STARZ KIDS AND FAMILY (US) " tvg-logo="" group-title="Premium Movie Channels",STARZ KIDS AND FAMILY 
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12699
