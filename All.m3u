@@ -1,935 +1,539 @@
 #EXTM3U
-#EXTINF:0,A&E
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://docdog.top/Logotv/countries/ae.png" group-title="Cable",A&E
 http://supersonictv.live:8080/611199/278562/22040
-#EXTINF:0,ABC News
+#EXTINF:-1 tvg-id="abcnews.us" tvg-name="ABC News" tvg-logo="https://docdog.top/Logotv/countries//abcnews.png" group-title="Cable",ABC News
 http://supersonictv.live:8080/611199/278562/21753
-#EXTINF:0,ABC WPLG
-http://supersonictv.live:8080/611199/278562/22041
-#EXTINF:0,AccuWeather
+#EXTINF:-1 tvg-id="accuweather.us" tvg-name="AccuWeather" tvg-logo="https://docdog.top/Logotv/countries//a.png" group-title="Cable",AccuWeather
 http://supersonictv.live:8080/611199/278562/47748
-#EXTINF:0,Afro TV
+#EXTINF:-1 tvg-id="afrotv.us" tvg-name="Afro TV" tvg-logo="https://docdog.top/Logotv/countries//a.png" group-title="Cable",Afro TV
 http://supersonictv.live:8080/611199/278562/86100
-#EXTINF:0,AMC
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://docdog.top/Logotv/countries/argentina/countrypic.png" group-title="Cable",AMC
 http://supersonictv.live:8080/611199/278562/22042
-#EXTINF:0,AMC Presents
+#EXTINF:-1 tvg-id="amcpresents.us" tvg-name="AMC Presents" tvg-logo="https://docdog.top/Logotv/countries//amc.png" group-title="Cable",AMC Presents
 http://supersonictv.live:8080/611199/278562/77253
-#EXTINF:0,AMC+
+#EXTINF:-1 tvg-id="amc+.us" tvg-name="AMC+" tvg-logo="https://docdog.top/Logotv/countries/amc.png" group-title="Cable",AMC+
 http://supersonictv.live:8080/611199/278562/77252
-#EXTINF:0,American Heroes
+#EXTINF:-1 tvg-id="americanheroes.us" tvg-name="American Heroes" tvg-logo="https://docdog.top/Logotv/countries//america.png" group-title="Cable",American Heroes
 http://supersonictv.live:8080/611199/278562/22044
-#EXTINF:0,Animal Planet East
+#EXTINF:-1 tvg-id="animalplaneteast.us" tvg-name="Animal Planet East" tvg-logo="https://docdog.top/Logotv/countries//animalplanet.png" group-title="Cable",Animal Planet East
 http://supersonictv.live:8080/611199/278562/22045
-#EXTINF:0,Animal Planet West
+#EXTINF:-1 tvg-id="animalplanetwest.us" tvg-name="Animal Planet West" tvg-logo="https://docdog.top/Logotv/countries//animalplanet.png" group-title="Cable",Animal Planet West
 http://supersonictv.live:8080/611199/278562/22046
-#EXTINF:0,ANTENNA TV
+#EXTINF:-1 tvg-id="antennatv.us" tvg-name="ANTENNA TV" tvg-logo="https://docdog.top/Logotv/countries/united-states/antenna-us.png" group-title="Cable",ANTENNA TV
 http://supersonictv.live:8080/611199/278562/22047
-#EXTINF:0,Aspire
+#EXTINF:-1 tvg-id="aspire.us" tvg-name="Aspire" tvg-logo="" group-title="Cable",Aspire
 http://supersonictv.live:8080/611199/278562/22048
-#EXTINF:0,AWE
+#EXTINF:-1 tvg-id="awe.us" tvg-name="AWE" tvg-logo="https://docdog.top/Logotv/countries/united-states/awe-us.png" group-title="Cable",AWE
 http://supersonictv.live:8080/611199/278562/22049
-#EXTINF:0,AXS TV
+#EXTINF:-1 tvg-id="axstv.us" tvg-name="AXS TV" tvg-logo="https://docdog.top/Logotv/countries/united-states/axs-tv-us.png" group-title="Cable",AXS TV
 http://supersonictv.live:8080/611199/278562/22050
-#EXTINF:0,Baby First
+#EXTINF:-1 tvg-id="babyfirst.us" tvg-name="Baby First" tvg-logo="https://docdog.top/Logotv/countries/babytv.png" group-title="Cable",Baby First
 http://supersonictv.live:8080/611199/278562/21789
-#EXTINF:0,BBC America
+#EXTINF:-1 tvg-id="bbcamerica.us" tvg-name="BBC America" tvg-logo="https://docdog.top/Logotv/countries/bbcamerica.png" group-title="Cable",BBC America
 http://supersonictv.live:8080/611199/278562/22051
-#EXTINF:0,BBC World News
+#EXTINF:-1 tvg-id="bbcworldnews.us" tvg-name="BBC World News" tvg-logo="https://docdog.top/Logotv/countries//bbcworldnews.png" group-title="Cable",BBC World News
 http://supersonictv.live:8080/611199/278562/21755
-#EXTINF:0,BET
+#EXTINF:-1 tvg-id="bet.us" tvg-name="BET" tvg-logo="https://docdog.top/Logotv/countries//bet.png" group-title="Cable",BET
 http://supersonictv.live:8080/611199/278562/22052
-#EXTINF:0,BET Gospel
+#EXTINF:-1 tvg-id="betgospel.us" tvg-name="BET Gospel" tvg-logo="https://docdog.top/Logotv/countries/france/bet-fr.png" group-title="Cable",BET Gospel
 http://supersonictv.live:8080/611199/278562/22056
-#EXTINF:0,BET HER
+#EXTINF:-1 tvg-id="bether.us" tvg-name="BET HER" tvg-logo="https://docdog.top/Logotv/countries/united-states/bet-us.png" group-title="Cable",BET HER
 http://supersonictv.live:8080/611199/278562/22053
-#EXTINF:0,BET Jams
+#EXTINF:-1 tvg-id="betjams.us" tvg-name="BET Jams" tvg-logo="https://docdog.top/Logotv/countries/united-states/bet-jams-us.png" group-title="Cable",BET Jams
 http://supersonictv.live:8080/611199/278562/22054
-#EXTINF:0,BET SOUL
+#EXTINF:-1 tvg-id="betsoul.us" tvg-name="BET SOUL" tvg-logo="https://docdog.top/Logotv/countries/united-states/bet-soul-us.png" group-title="Cable",BET SOUL
 http://supersonictv.live:8080/611199/278562/22055
-#EXTINF:0,BET West
+#EXTINF:-1 tvg-id="betwest.us" tvg-name="BET West" tvg-logo="https://docdog.top/Logotv/countries/united-states/bet-us.png" group-title="Cable",BET West
 http://supersonictv.live:8080/611199/278562/22057
-#EXTINF:0,Boomerang
+#EXTINF:-1 tvg-id="boomerang.us" tvg-name="Boomerang" tvg-logo="https://docdog.top/Logotv/countries/argentina/countrypic.png" group-title="Cable",Boomerang
 http://supersonictv.live:8080/611199/278562/21791
-#EXTINF:0,BOUNCE TV
+#EXTINF:-1 tvg-id="bouncetv.us" tvg-name="BOUNCE TV" tvg-logo="https://docdog.top/Logotv/countries/united-states/bounce-us.png" group-title="Cable",BOUNCE TV
 http://supersonictv.live:8080/611199/278562/22058
-#EXTINF:0,Bravo East
+#EXTINF:-1 tvg-id="bravoeast.us" tvg-name="Bravo East" tvg-logo="https://docdog.top/Logotv/countries/germany/br-de.png" group-title="Cable",Bravo East
 http://supersonictv.live:8080/611199/278562/22059
-#EXTINF:0,Bravo West
+#EXTINF:-1 tvg-id="bravowest.us" tvg-name="Bravo West" tvg-logo="https://docdog.top/Logotv/countries//bravo.png" group-title="Cable",Bravo West
 http://supersonictv.live:8080/611199/278562/22060
-#EXTINF:0,BUZZR
+#EXTINF:-1 tvg-id="buzzr.us" tvg-name="BUZZR" tvg-logo="https://docdog.top/Logotv/countries//buzzr.png" group-title="Cable",BUZZR
 http://supersonictv.live:8080/611199/278562/22061
-#EXTINF:0,C-SPAN
-http://supersonictv.live:8080/611199/278562/21757
-#EXTINF:0,CA CTV News Channel
+#EXTINF:-1 tvg-id="cactvnewschannel.us" tvg-name="CA CTV News Channel" tvg-logo="" group-title="Cable",CA CTV News Channel
 http://supersonictv.live:8080/611199/278562/40388
-#EXTINF:0,Cars TV
+#EXTINF:-1 tvg-id="carstv.us" tvg-name="Cars TV" tvg-logo="https://docdog.top/Logotv/countries//carstv.png" group-title="Cable",Cars TV
 http://supersonictv.live:8080/611199/278562/47729
-#EXTINF:0,Cartoon Network Pacific
+#EXTINF:-1 tvg-id="cartoonnetworkpacific.us" tvg-name="Cartoon Network Pacific" tvg-logo="https://docdog.top/Logotv/countries/argentina/countrypic.png" group-title="Cable",Cartoon Network Pacific
 http://supersonictv.live:8080/611199/278562/21794
-#EXTINF:0,Cartoon Network West
+#EXTINF:-1 tvg-id="cartoonnetworkwest.us" tvg-name="Cartoon Network West" tvg-logo="https://docdog.top/Logotv/countries//cartoonnetwork.png" group-title="Cable",Cartoon Network West
 http://supersonictv.live:8080/611199/278562/21793
-#EXTINF:0,Cheddar Business
+#EXTINF:-1 tvg-id="cheddarbusiness.us" tvg-name="Cheddar Business" tvg-logo="https://docdog.top/Logotv/countries//cheddar.png" group-title="Cable",Cheddar Business
 http://supersonictv.live:8080/611199/278562/21761
-#EXTINF:0,Cheddar News
+#EXTINF:-1 tvg-id="cheddarnews.us" tvg-name="Cheddar News" tvg-logo="https://docdog.top/Logotv/countries//cheddar.png" group-title="Cable",Cheddar News
 http://supersonictv.live:8080/611199/278562/21760
-#EXTINF:0,Cleo TV FHD
+#EXTINF:-1 tvg-id="cleotv.us" tvg-name="Cleo TV " tvg-logo="" group-title="Cable",Cleo TV FHD
 http://supersonictv.live:8080/611199/278562/86101
-#EXTINF:0,CMT
+#EXTINF:-1 tvg-id="cmt.us" tvg-name="CMT" tvg-logo="https://docdog.top/Logotv/countries/united-states/cmt-us.png" group-title="Cable",CMT
 http://supersonictv.live:8080/611199/278562/22063
-#EXTINF:0,CNBC
+#EXTINF:-1 tvg-id="cnbc.us" tvg-name="CNBC" tvg-logo="https://docdog.top/Logotv/countries//cnbc.png" group-title="Cable",CNBC
 http://supersonictv.live:8080/611199/278562/22064
-#EXTINF:0,CNBC
+#EXTINF:-1 tvg-id="cnbc.us" tvg-name="CNBC" tvg-logo="https://docdog.top/Logotv/countries//cnbc.png" group-title="Cable",CNBC
 http://supersonictv.live:8080/611199/278562/21762
-#EXTINF:0,CNBC World
+#EXTINF:-1 tvg-id="cnbcworld.us" tvg-name="CNBC World" tvg-logo="https://docdog.top/Logotv/countries//cnbcworld.png" group-title="Cable",CNBC World
 http://supersonictv.live:8080/611199/278562/21763
-#EXTINF:0,CNN
+#EXTINF:-1 tvg-id="cnn.us" tvg-name="CNN" tvg-logo="https://docdog.top/Logotv/countries/argentina/countrypic.png" group-title="Cable",CNN
 http://supersonictv.live:8080/611199/278562/21764
-#EXTINF:0,CNN Espanol
+#EXTINF:-1 tvg-id="cnnespanol.us" tvg-name="CNN Espanol" tvg-logo="https://docdog.top/Logotv/countries//cnn.png" group-title="Cable",CNN Espanol
 http://supersonictv.live:8080/611199/278562/21766
-#EXTINF:0,CNN INTERNATIONAL
+#EXTINF:-1 tvg-id="cnninternational.us" tvg-name="CNN INTERNATIONAL" tvg-logo="https://docdog.top/Logotv/countries//cnninternational.png" group-title="Cable",CNN INTERNATIONAL
 http://supersonictv.live:8080/611199/278562/21765
-#EXTINF:0,Comedy Central East
+#EXTINF:-1 tvg-id="comedycentraleast.us" tvg-name="Comedy Central East" tvg-logo="https://docdog.top/Logotv/countries/argentina/countrypic.png" group-title="Cable",Comedy Central East
 http://supersonictv.live:8080/611199/278562/22065
-#EXTINF:0,Comedy TV
+#EXTINF:-1 tvg-id="comedytv.us" tvg-name="Comedy TV" tvg-logo="https://docdog.top/Logotv/countries//comedy.png" group-title="Cable",Comedy TV
 http://supersonictv.live:8080/611199/278562/47730
-#EXTINF:0,Cooking Channel
+#EXTINF:-1 tvg-id="cookingchannel.us" tvg-name="Cooking Channel" tvg-logo="https://docdog.top/Logotv/countries//cookingchannel.png" group-title="Cable",Cooking Channel
 http://supersonictv.live:8080/611199/278562/22067
-#EXTINF:0,COURT TV
+#EXTINF:-1 tvg-id="courttv.us" tvg-name="COURT TV" tvg-logo="" group-title="Cable",COURT TV
 http://supersonictv.live:8080/611199/278562/22068
-#EXTINF:0,COZI TV
+#EXTINF:-1 tvg-id="cozitv.us" tvg-name="COZI TV" tvg-logo="https://docdog.top/Logotv/countries/united-states/cozi-tv-us.png" group-title="Cable",COZI TV
 http://supersonictv.live:8080/611199/278562/22070
-#EXTINF:0,DABL FHD
+#EXTINF:-1 tvg-id="cspan.us" tvg-name="C-SPAN" tvg-logo="" group-title="Cable",C-SPAN
+http://supersonictv.live:8080/611199/278562/21757
+#EXTINF:-1 tvg-id="dabl.us" tvg-name="DABL " tvg-logo="" group-title="Cable",DABL FHD
 http://supersonictv.live:8080/611199/278562/77556
-#EXTINF:0,Decades
+#EXTINF:-1 tvg-id="decades.us" tvg-name="Decades" tvg-logo="" group-title="Cable",Decades
 http://supersonictv.live:8080/611199/278562/82922
-#EXTINF:0,Destination America
+#EXTINF:-1 tvg-id="destinationamerica.us" tvg-name="Destination America" tvg-logo="https://docdog.top/Logotv/countries//destinationamerica.png" group-title="Cable",Destination America
 http://supersonictv.live:8080/611199/278562/22073
-#EXTINF:0,Discovery Channel
+#EXTINF:-1 tvg-id="discoverychannel.us" tvg-name="Discovery Channel" tvg-logo="https://docdog.top/Logotv/countries//discoverychannel.png" group-title="Cable",Discovery Channel
 http://supersonictv.live:8080/611199/278562/22074
-#EXTINF:0,Discovery Family
+#EXTINF:-1 tvg-id="DiscoveryFamilyChannel.us" tvg-name="Discovery Family" tvg-logo="https://docdog.top/Logotv/countries/discoveryfamily.png" group-title="Cable",Discovery Family
 http://supersonictv.live:8080/611199/278562/22076
-#EXTINF:0,Discovery Life
+#EXTINF:-1 tvg-id="DiscoveryLife.us" tvg-name="Discovery Life" tvg-logo="https://docdog.top/Logotv/countries//discoverylife.png" group-title="Cable",Discovery Life
 http://supersonictv.live:8080/611199/278562/22075
-#EXTINF:0,Discovery Science
+#EXTINF:-1 tvg-id="discoveryscience.us" tvg-name="Discovery Science" tvg-logo="https://docdog.top/Logotv/countries//discoveryscience.png" group-title="Cable",Discovery Science
 http://supersonictv.live:8080/611199/278562/22077
-#EXTINF:0,Discovery Velocity
+#EXTINF:-1 tvg-id="discoveryvelocity.us" tvg-name="Discovery Velocity" tvg-logo="" group-title="Cable",Discovery Velocity
 http://supersonictv.live:8080/611199/278562/22078
-#EXTINF:0,Discovery West
+#EXTINF:-1 tvg-id="discoverywest.us" tvg-name="Discovery West" tvg-logo="" group-title="Cable",Discovery West
 http://supersonictv.live:8080/611199/278562/22079
-#EXTINF:0,Disney Channel East
+#EXTINF:-1 tvg-id="DisneyChannelEast.us" tvg-name="Disney Channel East" tvg-logo="https://docdog.top/Logotv/countries/disneychannel.png" group-title="Cable",Disney Channel East
 http://supersonictv.live:8080/611199/278562/21795
-#EXTINF:0,Disney Channel Paficic
+#EXTINF:-1 tvg-id="disneychannelpaficic.us" tvg-name="Disney Channel Paficic" tvg-logo="https://docdog.top/Logotv/countries//disneychannel.png" group-title="Cable",Disney Channel Paficic
 http://supersonictv.live:8080/611199/278562/21797
-#EXTINF:0,Disney Channel West
+#EXTINF:-1 tvg-id="DisneyChannelWest.us" tvg-name="Disney Channel West" tvg-logo="https://docdog.top/Logotv/countries/germany/disney-channel-de.png" group-title="Cable",Disney Channel West
 http://supersonictv.live:8080/611199/278562/21796
-#EXTINF:0,Disney Junior
+#EXTINF:-1 tvg-id="DisneyJunior.us" tvg-name="Disney Junior" tvg-logo="https://docdog.top/Logotv/countries/disneyjunior.png" group-title="Cable",Disney Junior
 http://supersonictv.live:8080/611199/278562/21798
-#EXTINF:0,Disney Junior Pacific
+#EXTINF:-1 tvg-id="disneyjuniorpacific.us" tvg-name="Disney Junior Pacific" tvg-logo="https://docdog.top/Logotv/countries//disneyjunior.png" group-title="Cable",Disney Junior Pacific
 http://supersonictv.live:8080/611199/278562/21800
-#EXTINF:0,Disney Junior West
+#EXTINF:-1 tvg-id="disneyjuniorwest.us" tvg-name="Disney Junior West" tvg-logo="https://docdog.top/Logotv/countries/germany/disney-channel-de.png" group-title="Cable",Disney Junior West
 http://supersonictv.live:8080/611199/278562/21799
-#EXTINF:0,Disney XD
+#EXTINF:-1 tvg-id="DisneyXDHD.us" tvg-name="Disney XD" tvg-logo="https://docdog.top/Logotv/countries/disneyxd.png" group-title="Cable",Disney XD
 http://supersonictv.live:8080/611199/278562/21801
-#EXTINF:0,Disney XD Pacific
+#EXTINF:-1 tvg-id="disneyxdpacific.us" tvg-name="Disney XD Pacific" tvg-logo="https://docdog.top/Logotv/countries/disneyxd.png" group-title="Cable",Disney XD Pacific
 http://supersonictv.live:8080/611199/278562/21803
-#EXTINF:0,Disney XD West
+#EXTINF:-1 tvg-id="disneyxdwest.us" tvg-name="Disney XD West" tvg-logo="https://docdog.top/Logotv/countries//disneyxd.png" group-title="Cable",Disney XD West
 http://supersonictv.live:8080/611199/278562/21802
-#EXTINF:0,DIY Network
+#EXTINF:-1 tvg-id="DIYNetworkHD.us" tvg-name="DIY Network" tvg-logo="https://docdog.top/Logotv/countries//diynetwork.png" group-title="Cable",DIY Network
 http://supersonictv.live:8080/611199/278562/22080
-#EXTINF:0,Dog TV
+#EXTINF:-1 tvg-id="DogTV354.us" tvg-name="Dog TV" tvg-logo="https://docdog.top/Logotv/countries/united-states/dog-tv-us.png" group-title="Cable",Dog TV
 http://supersonictv.live:8080/611199/278562/47732
-#EXTINF:0,E! East
+#EXTINF:-1 tvg-id="E.us" tvg-name="E! East" tvg-logo="https://docdog.top/Logotv/countries/argentina/countrypic.png" group-title="Cable",E! East
 http://supersonictv.live:8080/611199/278562/22081
-#EXTINF:0,E! West
+#EXTINF:-1 tvg-id="e!west.us" tvg-name="E! West" tvg-logo="https://docdog.top/Logotv/countries//entertainment.png" group-title="Cable",E! West
 http://supersonictv.live:8080/611199/278562/22082
-#EXTINF:0,Epix
-http://supersonictv.live:8080/611199/278562/22886
-#EXTINF:0,EPIX Drive-In
-http://supersonictv.live:8080/611199/278562/22888
-#EXTINF:0,Epix Hits
-http://supersonictv.live:8080/611199/278562/22889
-#EXTINF:0,EPIX2
-http://supersonictv.live:8080/611199/278562/22887
-#EXTINF:0,ESPN News
+#EXTINF:-1 tvg-id="ESPNews.us" tvg-name="ESPN News" tvg-logo="https://docdog.top/Logotv/countries/argentina/espn-ar.png" group-title="Cable",ESPN News
 http://supersonictv.live:8080/611199/278562/21767
-#EXTINF:0,EWTN
+#EXTINF:-1 tvg-id="EWTN.us" tvg-name="EWTN" tvg-logo="" group-title="Cable",EWTN
 http://supersonictv.live:8080/611199/278562/67835
-#EXTINF:0,FETV
+#EXTINF:-1 tvg-id="fetv.us" tvg-name="FETV" tvg-logo="" group-title="Cable",FETV
 http://supersonictv.live:8080/611199/278562/86404
-#EXTINF:0,Beach TV Key West - Florida Keys
-http://supersonictv.live:8080/611199/278562/77550
-#EXTINF:0,Food Network East
+#EXTINF:-1 tvg-id="FoodNetwork.us" tvg-name="Food Network East" tvg-logo="https://docdog.top/Logotv/countries//foodnetwork.png" group-title="Cable",Food Network East
 http://supersonictv.live:8080/611199/278562/22084
-#EXTINF:0,Food Network West
+#EXTINF:-1 tvg-id="foodnetworkwest.us" tvg-name="Food Network West" tvg-logo="https://docdog.top/Logotv/countries//foodnetwork.png" group-title="Cable",Food Network West
 http://supersonictv.live:8080/611199/278562/22085
-#EXTINF:0,Fox
+#EXTINF:-1 tvg-id="fox.us" tvg-name="Fox" tvg-logo="https://docdog.top/Logotv/countries/australia/fox-one-au.png" group-title="Cable",Fox
 http://supersonictv.live:8080/611199/278562/22086
-#EXTINF:0,Fox Business
+#EXTINF:-1 tvg-id="FoxBusinessNetwork.us" tvg-name="Fox Business" tvg-logo="https://docdog.top/Logotv/countries/argentina/countrypic.png" group-title="Cable",Fox Business
 http://supersonictv.live:8080/611199/278562/21769
-#EXTINF:0,Fox Life Latin
+#EXTINF:-1 tvg-id="foxlifelatin.us" tvg-name="Fox Life Latin" tvg-logo="https://docdog.top/Logotv/countries//fox.png" group-title="Cable",Fox Life Latin
 http://supersonictv.live:8080/611199/278562/22087
-#EXTINF:0,Fox News
+#EXTINF:-1 tvg-id="FOXNewsChannel.us" tvg-name="Fox News" tvg-logo="https://docdog.top/Logotv/countries/argentina/countrypic.png" group-title="Cable",Fox News
 http://supersonictv.live:8080/611199/278562/21768
-#EXTINF:0,Freeform
+#EXTINF:-1 tvg-id="FreeformHD.us" tvg-name="Freeform" tvg-logo="" group-title="Cable",Freeform
 http://supersonictv.live:8080/611199/278562/21804
-#EXTINF:0,FREEFORM WEST
+#EXTINF:-1 tvg-id="freeformwest.us" tvg-name="FREEFORM WEST" tvg-logo="" group-title="Cable",FREEFORM WEST
 http://supersonictv.live:8080/611199/278562/21805
-#EXTINF:0,FX East
+#EXTINF:-1 tvg-id="FX.us" tvg-name="FX East" tvg-logo="https://docdog.top/Logotv/countries/argentina/fx-ar.png" group-title="Cable",FX East
 http://supersonictv.live:8080/611199/278562/22091
-#EXTINF:0,FX West
+#EXTINF:-1 tvg-id="fxwest.us" tvg-name="FX West" tvg-logo="https://docdog.top/Logotv/countries//fx.png" group-title="Cable",FX West
 http://supersonictv.live:8080/611199/278562/22092
-#EXTINF:0,FXM
+#EXTINF:-1 tvg-id="fxm.us" tvg-name="FXM" tvg-logo="https://docdog.top/Logotv/countries/fx.png" group-title="Cable",FXM
 http://supersonictv.live:8080/611199/278562/22093
-#EXTINF:0,FXX East
+#EXTINF:-1 tvg-id="fxxeast.us" tvg-name="FXX East" tvg-logo="https://docdog.top/Logotv/countries//fxx.png" group-title="Cable",FXX East
 http://supersonictv.live:8080/611199/278562/22094
-#EXTINF:0,FXX West
+#EXTINF:-1 tvg-id="fxxwest.us" tvg-name="FXX West" tvg-logo="https://docdog.top/Logotv/countries//fxx.png" group-title="Cable",FXX West
 http://supersonictv.live:8080/611199/278562/22095
-#EXTINF:0,FYI
+#EXTINF:-1 tvg-id="fyi.us" tvg-name="FYI" tvg-logo="" group-title="Cable",FYI
 http://supersonictv.live:8080/611199/278562/22096
-#EXTINF:0,Game Show Network
+#EXTINF:-1 tvg-id="gameshownetwork.us" tvg-name="Game Show Network" tvg-logo="https://docdog.top/Logotv/countries/united-states/game-show-network-us.png" group-title="Cable",Game Show Network
 http://supersonictv.live:8080/611199/278562/22098
-#EXTINF:0,GET TV
+#EXTINF:-1 tvg-id="gettv.us" tvg-name="GET TV" tvg-logo="" group-title="Cable",GET TV
 http://supersonictv.live:8080/611199/278562/22099
-#EXTINF:0,Grit TV
+#EXTINF:-1 tvg-id="grittv.us" tvg-name="Grit TV" tvg-logo="" group-title="Cable",Grit TV
 http://supersonictv.live:8080/611199/278562/22100
-#EXTINF:0,GSN
+#EXTINF:-1 tvg-id="gsn.us" tvg-name="GSN" tvg-logo="https://docdog.top/Logotv/countries//gsn.png" group-title="Cable",GSN
 http://supersonictv.live:8080/611199/278562/47733
-#EXTINF:0,GUSTO TV
+#EXTINF:-1 tvg-id="gustotv.us" tvg-name="GUSTO TV" tvg-logo="https://docdog.top/Logotv/countries/united-states/countrypic.png" group-title="Cable",GUSTO TV
 http://supersonictv.live:8080/611199/278562/77558
-#EXTINF:0,Hallmark Channel EAST
+#EXTINF:-1 tvg-id="hallmarkchanneleast.us" tvg-name="Hallmark Channel EAST" tvg-logo="https://docdog.top/Logotv/countries/united-states/hallmark-channel-us.png" group-title="Cable",Hallmark Channel EAST
 http://supersonictv.live:8080/611199/278562/22891
-#EXTINF:0,Hallmark Channel East.
+#EXTINF:-1 tvg-id="hallmarkchanneleast..us" tvg-name="Hallmark Channel East." tvg-logo="https://docdog.top/Logotv/countries/united-states/hallmark-channel-us.png" group-title="Cable",Hallmark Channel East.
 http://supersonictv.live:8080/611199/278562/22890
-#EXTINF:0,Hallmark Drama .UHD
+#EXTINF:-1 tvg-id="hallmarkdrama.uhd.us" tvg-name="Hallmark Drama ." tvg-logo="https://docdog.top/Logotv/countries/united-states/hallmark-drama-us.png" group-title="Cable",Hallmark Drama .UHD
 http://supersonictv.live:8080/611199/278562/22892
-#EXTINF:0,Hallmark Movies & Mysteries East
+#EXTINF:-1 tvg-id="hallmarkmoviesandmysterieseast.us" tvg-name="Hallmark Movies & Mysteries East" tvg-logo="" group-title="Cable",Hallmark Movies & Mysteries East
 http://supersonictv.live:8080/611199/278562/22893
-#EXTINF:0,Heroes & Icons
+#EXTINF:-1 tvg-id="heroesandicons.us" tvg-name="Heroes & Icons" tvg-logo="" group-title="Cable",Heroes & Icons
 http://supersonictv.live:8080/611199/278562/22102
-#EXTINF:0,HGTV East
+#EXTINF:-1 tvg-id="hgtveast.us" tvg-name="HGTV East" tvg-logo="https://docdog.top/Logotv/countries//hgtv.png" group-title="Cable",HGTV East
 http://supersonictv.live:8080/611199/278562/22101
-#EXTINF:0,HGTV West
+#EXTINF:-1 tvg-id="hgtvwest.us" tvg-name="HGTV West" tvg-logo="https://docdog.top/Logotv/countries//hgtv.png" group-title="Cable",HGTV West
 http://supersonictv.live:8080/611199/278562/22103
-#EXTINF:0,History
+#EXTINF:-1 tvg-id="history.us" tvg-name="History" tvg-logo="https://docdog.top/Logotv/countries/argentina/history-channel-ar.png" group-title="Cable",History
 http://supersonictv.live:8080/611199/278562/22104
-#EXTINF:0,HLN
+#EXTINF:-1 tvg-id="hln.us" tvg-name="HLN" tvg-logo="https://docdog.top/Logotv/countries//hln.png" group-title="Cable",HLN
 http://supersonictv.live:8080/611199/278562/22107
-#EXTINF:0,HLN
+#EXTINF:-1 tvg-id="hln.us" tvg-name="HLN" tvg-logo="https://docdog.top/Logotv/countries//hln.png" group-title="Cable",HLN
 http://supersonictv.live:8080/611199/278562/21771
-#EXTINF:0,HSN
+#EXTINF:-1 tvg-id="hsn.us" tvg-name="HSN" tvg-logo="https://docdog.top/Logotv/countries/united-states/hsn-us.png" group-title="Cable",HSN
 http://supersonictv.live:8080/611199/278562/78405
-#EXTINF:0,IFC
+#EXTINF:-1 tvg-id="ifc.us" tvg-name="IFC" tvg-logo="https://docdog.top/Logotv/countries//ifc.png" group-title="Cable",IFC
 http://supersonictv.live:8080/611199/278562/22108
-#EXTINF:0,INDIEPLEX
+#EXTINF:-1 tvg-id="indieplex.us" tvg-name="INDIEPLEX" tvg-logo="https://docdog.top/Logotv/countries//indieplex.png" group-title="Cable",INDIEPLEX
 http://supersonictv.live:8080/611199/278562/22903
-#EXTINF:0,Info Wars
+#EXTINF:-1 tvg-id="infowars.us" tvg-name="Info Wars" tvg-logo="" group-title="Cable",Info Wars
 http://supersonictv.live:8080/611199/278562/47735
-#EXTINF:0,INSP
+#EXTINF:-1 tvg-id="insp.us" tvg-name="INSP" tvg-logo="https://docdog.top/Logotv/countries/united-states/insp-us.png" group-title="Cable",INSP
 http://supersonictv.live:8080/611199/278562/22109
-#EXTINF:0,Investigation Discovery East
+#EXTINF:-1 tvg-id="investigationdiscoveryeast.us" tvg-name="Investigation Discovery East" tvg-logo="https://docdog.top/Logotv/countries//investigationdiscovery.png" group-title="Cable",Investigation Discovery East
 http://supersonictv.live:8080/611199/278562/22110
-#EXTINF:0,Investigation Discovery West
+#EXTINF:-1 tvg-id="investigationdiscoverywest.us" tvg-name="Investigation Discovery West" tvg-logo="https://docdog.top/Logotv/countries//investigationdiscovery.png" group-title="Cable",Investigation Discovery West
 http://supersonictv.live:8080/611199/278562/22111
-#EXTINF:0,ION TV
+#EXTINF:-1 tvg-id="iontv.us" tvg-name="ION TV" tvg-logo="https://docdog.top/Logotv/countries/united-states/countrypic.png" group-title="Cable",ION TV
 http://supersonictv.live:8080/611199/278562/77472
-#EXTINF:0,JUSTICE CENTRAL
+#EXTINF:-1 tvg-id="justicecentral.us" tvg-name="JUSTICE CENTRAL" tvg-logo="" group-title="Cable",JUSTICE CENTRAL
 http://supersonictv.live:8080/611199/278562/22112
-#EXTINF:0,LAFF
+#EXTINF:-1 tvg-id="laff.us" tvg-name="LAFF" tvg-logo="" group-title="Cable",LAFF
 http://supersonictv.live:8080/611199/278562/22113
-#EXTINF:0,Law And Crime
+#EXTINF:-1 tvg-id="lawandcrime.us" tvg-name="Law And Crime" tvg-logo="" group-title="Cable",Law And Crime
 http://supersonictv.live:8080/611199/278562/22114
-#EXTINF:0,Lifetime East
+#EXTINF:-1 tvg-id="lifetimeeast.us" tvg-name="Lifetime East" tvg-logo="https://docdog.top/Logotv/countries/argentina/lifetime-ar.png" group-title="Cable",Lifetime East
 http://supersonictv.live:8080/611199/278562/22115
-#EXTINF:0,Lifetime Movie Network East
+#EXTINF:-1 tvg-id="lifetimemovienetworkeast.us" tvg-name="Lifetime Movie Network East" tvg-logo="https://docdog.top/Logotv/countries//lifetime.png" group-title="Cable",Lifetime Movie Network East
 http://supersonictv.live:8080/611199/278562/22904
-#EXTINF:0,Lifetime Real Women
+#EXTINF:-1 tvg-id="lifetimerealwomen.us" tvg-name="Lifetime Real Women" tvg-logo="https://docdog.top/Logotv/countries//lifetime.png" group-title="Cable",Lifetime Real Women
 http://supersonictv.live:8080/611199/278562/47736
-#EXTINF:0,LOGO
+#EXTINF:-1 tvg-id="logo.us" tvg-name="LOGO" tvg-logo="https://docdog.top/Logotv/countries/united-states/logo-us.png" group-title="Cable",LOGO
 http://supersonictv.live:8080/611199/278562/22116
-#EXTINF:0,MAVTV
+#EXTINF:-1 tvg-id="mavtv.us" tvg-name="MAVTV" tvg-logo="https://docdog.top/Logotv/countries/united-states/mav-tv-us.png" group-title="Cable",MAVTV
 http://supersonictv.live:8080/611199/278562/22117
-#EXTINF:0,MC Video | Music Choice Max
-http://supersonictv.live:8080/611199/278562/13719
-#EXTINF:0,MC Video | Musica Urbana
-http://supersonictv.live:8080/611199/278562/13720
-#EXTINF:0,ME TV (KYAZ)
+#EXTINF:-1 tvg-id="metv.us" tvg-name="ME TV (KYAZ)" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png" group-title="Cable",ME TV (KYAZ)
 http://supersonictv.live:8080/611199/278562/22118
-#EXTINF:0,Military History
+#EXTINF:-1 tvg-id="militaryhistory.us" tvg-name="Military History" tvg-logo="" group-title="Cable",Military History
 http://supersonictv.live:8080/611199/278562/86202
-#EXTINF:0,MotorTrend
+#EXTINF:-1 tvg-id="motortrend.us" tvg-name="MotorTrend" tvg-logo="" group-title="Cable",MotorTrend
 http://supersonictv.live:8080/611199/278562/22119
-#EXTINF:0,MOVIEPLEX  HD
+#EXTINF:-1 tvg-id="movieplex.us" tvg-name="MOVIEPLEX " tvg-logo="https://docdog.top/Logotv/countries//movieplex.png" group-title="Cable",MOVIEPLEX  HD
 http://supersonictv.live:8080/611199/278562/22905
-#EXTINF:0,MSNBC
+#EXTINF:-1 tvg-id="msnbc.us" tvg-name="MSNBC" tvg-logo="https://docdog.top/Logotv/countries//msnbc.png" group-title="Cable",MSNBC
 http://supersonictv.live:8080/611199/278562/21773
-#EXTINF:0,MTV
+#EXTINF:-1 tvg-id="mtv.us" tvg-name="MTV" tvg-logo="https://docdog.top/Logotv/countries/argentina/mtv-ar.png" group-title="Cable",MTV
 http://supersonictv.live:8080/611199/278562/22120
-#EXTINF:0,MTV 2
+#EXTINF:-1 tvg-id="mtv2.us" tvg-name="MTV 2" tvg-logo="https://docdog.top/Logotv/countries//mtv.png" group-title="Cable",MTV 2
 http://supersonictv.live:8080/611199/278562/13750
-#EXTINF:0,MTV Live
+#EXTINF:-1 tvg-id="mtvlive.us" tvg-name="MTV Live" tvg-logo="https://docdog.top/Logotv/countries//mtvlive.png" group-title="Cable",MTV Live
 http://supersonictv.live:8080/611199/278562/13752
-#EXTINF:0,MTV U
+#EXTINF:-1 tvg-id="mtvu.us" tvg-name="MTV U" tvg-logo="https://docdog.top/Logotv/countries//mtv.png" group-title="Cable",MTV U
 http://supersonictv.live:8080/611199/278562/13753
-#EXTINF:0,Music Choice Video | 90*s
-http://supersonictv.live:8080/611199/278562/13731
-#EXTINF:0,Music Choice Video | Hip-Hop and R&B
-http://supersonictv.live:8080/611199/278562/13726
-#EXTINF:0,Music Choice Video | Holiday Yule Logs
-http://supersonictv.live:8080/611199/278562/13723
-#EXTINF:0,Music Choice Video | Kidz Only!
-http://supersonictv.live:8080/611199/278562/13747
-#EXTINF:0,Music Choice Video | Metal
-http://supersonictv.live:8080/611199/278562/13744
-#EXTINF:0,Music Choice Video | Mexicana
-http://supersonictv.live:8080/611199/278562/13743
-#EXTINF:0,Music Choice Video | Pop & Country
-http://supersonictv.live:8080/611199/278562/13730
-#EXTINF:0,Music Choice Video | Pop Hits
-http://supersonictv.live:8080/611199/278562/13729
-#EXTINF:0,Music Choice Video | Pop Latino
-http://supersonictv.live:8080/611199/278562/13738
-#EXTINF:0,Music Choice Video | R&B
-http://supersonictv.live:8080/611199/278562/13732
-#EXTINF:0,Music Choice Video | Rap 2K
-http://supersonictv.live:8080/611199/278562/13741
-#EXTINF:0,Music Choice Video | Rock
-http://supersonictv.live:8080/611199/278562/13733
-#EXTINF:0,Music Choice Video | Throwback Jamz
-http://supersonictv.live:8080/611199/278562/13740
-#EXTINF:0,Music Choice Video | Today*s Country: CMA Awards
-http://supersonictv.live:8080/611199/278562/13728
-#EXTINF:0,Music Choice Video | Y2K
-http://supersonictv.live:8080/611199/278562/13736
-#EXTINF:0,Beach TV - Myrtle Beach - Grand Strand
-http://supersonictv.live:8080/611199/278562/77548
-#EXTINF:0,NASA TV
+#EXTINF:-1 tvg-id="nasatv.us" tvg-name="NASA TV" tvg-logo="https://docdog.top/Logotv/countries//nasatv.png" group-title="Cable",NASA TV
 http://supersonictv.live:8080/611199/278562/22121
-#EXTINF:0,Nat Geo WILD
+#EXTINF:-1 tvg-id="natgeowild.us" tvg-name="Nat Geo WILD" tvg-logo="https://docdog.top/Logotv/countries//natgeowild.png" group-title="Cable",Nat Geo WILD
 http://supersonictv.live:8080/611199/278562/22122
-#EXTINF:0,National Geographic East
+#EXTINF:-1 tvg-id="nationalgeographiceast.us" tvg-name="National Geographic East" tvg-logo="https://docdog.top/Logotv/countries//nationalgeographic.png" group-title="Cable",National Geographic East
 http://supersonictv.live:8080/611199/278562/22123
-#EXTINF:0,National Geographic West
+#EXTINF:-1 tvg-id="nationalgeographicwest.us" tvg-name="National Geographic West" tvg-logo="https://docdog.top/Logotv/countries//nationalgeographic.png" group-title="Cable",National Geographic West
 http://supersonictv.live:8080/611199/278562/22124
-#EXTINF:0,NBC
+#EXTINF:-1 tvg-id="nbc.us" tvg-name="NBC" tvg-logo="https://docdog.top/Logotv/countries//nbc.png" group-title="Cable",NBC
 http://supersonictv.live:8080/611199/278562/22126
-#EXTINF:0,NETWORK (WEST)
+#EXTINF:-1 tvg-id="network.us" tvg-name="NETWORK (WEST)" tvg-logo="https://docdog.top/Logotv/countries//network.png" group-title="Cable",NETWORK (WEST)
 http://supersonictv.live:8080/611199/278562/22175
-#EXTINF:0,Network East
+#EXTINF:-1 tvg-id="networkeast.us" tvg-name="Network East" tvg-logo="https://docdog.top/Logotv/countries//network.png" group-title="Cable",Network East
 http://supersonictv.live:8080/611199/278562/22174
-#EXTINF:0,Network West
+#EXTINF:-1 tvg-id="networkwest.us" tvg-name="Network West" tvg-logo="" group-title="Cable",Network West
 http://supersonictv.live:8080/611199/278562/22129
-#EXTINF:0,New England Cable News
+#EXTINF:-1 tvg-id="newenglandcablenews.us" tvg-name="New England Cable News" tvg-logo="" group-title="Cable",New England Cable News
 http://supersonictv.live:8080/611199/278562/40387
-#EXTINF:0,Newsmax
+#EXTINF:-1 tvg-id="newsmax.us" tvg-name="Newsmax" tvg-logo="" group-title="Cable",Newsmax
 http://supersonictv.live:8080/611199/278562/77589
-#EXTINF:0,Newsy
+#EXTINF:-1 tvg-id="newsy.us" tvg-name="Newsy" tvg-logo="" group-title="Cable",Newsy
 http://supersonictv.live:8080/611199/278562/77569
-#EXTINF:0,NICK JR
+#EXTINF:-1 tvg-id="nickjr.us" tvg-name="NICK JR" tvg-logo="https://docdog.top/Logotv/countries//nick.png" group-title="Cable",NICK JR
 http://supersonictv.live:8080/611199/278562/21806
-#EXTINF:0,Nickelodeon
+#EXTINF:-1 tvg-id="nickelodeon.us" tvg-name="Nickelodeon" tvg-logo="https://docdog.top/Logotv/countries/argentina/nickelodeon-ar.png" group-title="Cable",Nickelodeon
 http://supersonictv.live:8080/611199/278562/21808
-#EXTINF:0,NickToons
+#EXTINF:-1 tvg-id="nicktoons.us" tvg-name="NickToons" tvg-logo="https://docdog.top/Logotv/countries//nicktoons.png" group-title="Cable",NickToons
 http://supersonictv.live:8080/611199/278562/21809
-#EXTINF:0,Outdoor Channel
+#EXTINF:-1 tvg-id="outdoorchannel.us" tvg-name="Outdoor Channel" tvg-logo="https://docdog.top/Logotv/countries//outdoorchannel.png" group-title="Cable",Outdoor Channel
 http://supersonictv.live:8080/611199/278562/22131
-#EXTINF:0,Outside TV
+#EXTINF:-1 tvg-id="outsidetv.us" tvg-name="Outside TV" tvg-logo="https://xplanetiptv.us/Logotv/countries/netherlands/out-tv-nl.png" group-title="Cable",Outside TV
 http://supersonictv.live:8080/611199/278562/22132
-#EXTINF:0,Ovation
+#EXTINF:-1 tvg-id="ovation.us" tvg-name="Ovation" tvg-logo="" group-title="Cable",Ovation
 http://supersonictv.live:8080/611199/278562/22133
-#EXTINF:0,OWN East
+#EXTINF:-1 tvg-id="owneast.us" tvg-name="OWN East" tvg-logo="https://docdog.top/Logotv/countries/united-states/countrypic.png" group-title="Cable",OWN East
 http://supersonictv.live:8080/611199/278562/22130
-#EXTINF:0,Oxygen East
+#EXTINF:-1 tvg-id="oxygeneast.us" tvg-name="Oxygen East" tvg-logo="https://docdog.top/Logotv/countries/united-states/oxygen-us.png" group-title="Cable",Oxygen East
 http://supersonictv.live:8080/611199/278562/22134
-#EXTINF:0,Oxygen West
+#EXTINF:-1 tvg-id="oxygenwest.us" tvg-name="Oxygen West" tvg-logo="https://docdog.top/Logotv/countries/united-states/oxygen-us.png" group-title="Cable",Oxygen West
 http://supersonictv.live:8080/611199/278562/22135
-#EXTINF:0,Paramount East
+#EXTINF:-1 tvg-id="paramounteast.us" tvg-name="Paramount East" tvg-logo="https://docdog.top/Logotv/countries/argentina/paramount-network-ar.png" group-title="Cable",Paramount East
 http://supersonictv.live:8080/611199/278562/22906
-#EXTINF:0,PBS Kids
+#EXTINF:-1 tvg-id="pbskids.us" tvg-name="PBS Kids" tvg-logo="https://docdog.top/Logotv/countries//pbskids.png" group-title="Cable",PBS Kids
 http://supersonictv.live:8080/611199/278562/21810
-#EXTINF:0,Pursuit
+#EXTINF:-1 tvg-id="pursuit.us" tvg-name="Pursuit" tvg-logo="" group-title="Cable",Pursuit
 http://supersonictv.live:8080/611199/278562/22140
-#EXTINF:0,RetroPlex East
-http://supersonictv.live:8080/611199/278562/47746
-#EXTINF:0,RetroPlex West
-http://supersonictv.live:8080/611199/278562/47747
-#EXTINF:0,Ride TV
+#EXTINF:-1 tvg-id="ridetv.us" tvg-name="Ride TV" tvg-logo="" group-title="Cable",Ride TV
 http://supersonictv.live:8080/611199/278562/22144
-#EXTINF:0,Science
+#EXTINF:-1 tvg-id="science.us" tvg-name="Science" tvg-logo="" group-title="Cable",Science
 http://supersonictv.live:8080/611199/278562/22145
-#EXTINF:0,SHORTS TV
+#EXTINF:-1 tvg-id="shortstv.us" tvg-name="SHORTS TV" tvg-logo="https://docdog.top/Logotv/countries/shortstv.png" group-title="Cable",SHORTS TV
 http://supersonictv.live:8080/611199/278562/22147
-#EXTINF:0,Smithsonian Channel
+#EXTINF:-1 tvg-id="smithsonianchannel.us" tvg-name="Smithsonian Channel" tvg-logo="https://docdog.top/Logotv/countries//smithsonianchannel.png" group-title="Cable",Smithsonian Channel
 http://supersonictv.live:8080/611199/278562/22148
-#EXTINF:0,SNY
+#EXTINF:-1 tvg-id="sny.us" tvg-name="SNY" tvg-logo="" group-title="Cable",SNY
 http://supersonictv.live:8080/611199/278562/22150
-#EXTINF:0,Sony Movie Channel
-http://supersonictv.live:8080/611199/278562/22917
-#EXTINF:0,Start TV
+#EXTINF:-1 tvg-id="starttv.us" tvg-name="Start TV" tvg-logo="https://docdog.top/Logotv/countries/greece/start-tv-gr.png" group-title="Cable",Start TV
 http://supersonictv.live:8080/611199/278562/86401
-#EXTINF:0,Sundance TV
+#EXTINF:-1 tvg-id="sundancetv.us" tvg-name="Sundance TV" tvg-logo="https://docdog.top/Logotv/countries//sundance.png" group-title="Cable",Sundance TV
 http://supersonictv.live:8080/611199/278562/22152
-#EXTINF:0,Syfy
+#EXTINF:-1 tvg-id="syfy.us" tvg-name="Syfy" tvg-logo="https://docdog.top/Logotv/countries//syfy.png" group-title="Cable",Syfy
 http://supersonictv.live:8080/611199/278562/22946
-#EXTINF:0,Syfy East
+#EXTINF:-1 tvg-id="syfyeast.us" tvg-name="Syfy East" tvg-logo="https://docdog.top/Logotv/countries/argentina/syfy-ar.png" group-title="Cable",Syfy East
 http://supersonictv.live:8080/611199/278562/22947
-#EXTINF:0,Syfy West
+#EXTINF:-1 tvg-id="syfywest.us" tvg-name="Syfy West" tvg-logo="https://docdog.top/Logotv/countries//syfy.png" group-title="Cable",Syfy West
 http://supersonictv.live:8080/611199/278562/22948
-#EXTINF:0,TBD TV
+#EXTINF:-1 tvg-id="tbdtv.us" tvg-name="TBD TV" tvg-logo="" group-title="Cable",TBD TV
 http://supersonictv.live:8080/611199/278562/47741
-#EXTINF:0,TBN
+#EXTINF:-1 tvg-id="tbn.us" tvg-name="TBN" tvg-logo="https://docdog.top/Logotv/countries/united-states/tbn-us.png" group-title="Cable",TBN
 http://supersonictv.live:8080/611199/278562/77555
-#EXTINF:0,TBS East
+#EXTINF:-1 tvg-id="tbseast.us" tvg-name="TBS East" tvg-logo="https://docdog.top/Logotv/countries/tbs.png" group-title="Cable",TBS East
 http://supersonictv.live:8080/611199/278562/22154
-#EXTINF:0,TBS West
+#EXTINF:-1 tvg-id="tbswest.us" tvg-name="TBS West" tvg-logo="https://docdog.top/Logotv/countries//tbs.png" group-title="Cable",TBS West
 http://supersonictv.live:8080/611199/278562/22155
-#EXTINF:0,TCM
+#EXTINF:-1 tvg-id="tcm.us" tvg-name="TCM" tvg-logo="https://docdog.top/Logotv/countries//tcm.png" group-title="Cable",TCM
 http://supersonictv.live:8080/611199/278562/22156
-#EXTINF:0,TEEN NICK
+#EXTINF:-1 tvg-id="teennick.us" tvg-name="TEEN NICK" tvg-logo="https://docdog.top/Logotv/countries//teennick.png" group-title="Cable",TEEN NICK
 http://supersonictv.live:8080/611199/278562/21811
-#EXTINF:0,THE BLAZE
+#EXTINF:-1 tvg-id="theblaze.us" tvg-name="THE BLAZE" tvg-logo="" group-title="Cable",THE BLAZE
 http://supersonictv.live:8080/611199/278562/21786
-#EXTINF:0,The Film Detective
+#EXTINF:-1 tvg-id="thefilmtective.us" tvg-name="The Film Detective" tvg-logo="" group-title="Cable",The Film Detective
 http://supersonictv.live:8080/611199/278562/47742
-#EXTINF:0,The Weather Channel
+#EXTINF:-1 tvg-id="theweatherchannel.us" tvg-name="The Weather Channel" tvg-logo="" group-title="Cable",The Weather Channel
 http://supersonictv.live:8080/611199/278562/21787
-#EXTINF:0,TLC
+#EXTINF:-1 tvg-id="tlc.us" tvg-name="TLC" tvg-logo="https://docdog.top/Logotv/countries//tlc.png" group-title="Cable",TLC
 http://supersonictv.live:8080/611199/278562/22157
-#EXTINF:0,TLC West
+#EXTINF:-1 tvg-id="tlcwest.us" tvg-name="TLC West" tvg-logo="https://docdog.top/Logotv/countries//tlc.png" group-title="Cable",TLC West
 http://supersonictv.live:8080/611199/278562/22158
-#EXTINF:0,TMZ
+#EXTINF:-1 tvg-id="tmz.us" tvg-name="TMZ" tvg-logo="" group-title="Cable",TMZ
 http://supersonictv.live:8080/611199/278562/47743
-#EXTINF:0,TNT East
+#EXTINF:-1 tvg-id="tnteast.us" tvg-name="TNT East" tvg-logo="https://docdog.top/Logotv/countries/argentina/tn-todo-noticias-ar.png" group-title="Cable",TNT East
 http://supersonictv.live:8080/611199/278562/22159
-#EXTINF:0,TNT West
+#EXTINF:-1 tvg-id="tntwest.us" tvg-name="TNT West" tvg-logo="https://docdog.top/Logotv/countries/argentina/tnt-ar.png" group-title="Cable",TNT West
 http://supersonictv.live:8080/611199/278562/22161
-#EXTINF:0,Travel East
+#EXTINF:-1 tvg-id="traveleast.us" tvg-name="Travel East" tvg-logo="" group-title="Cable",Travel East
 http://supersonictv.live:8080/611199/278562/22162
-#EXTINF:0,TruTV East
+#EXTINF:-1 tvg-id="trutveast.us" tvg-name="TruTV East" tvg-logo="https://docdog.top/Logotv/countries/argentina/tru-tv-ar.png" group-title="Cable",TruTV East
 http://supersonictv.live:8080/611199/278562/22164
-#EXTINF:0,truTV West
+#EXTINF:-1 tvg-id="trutvwest.us" tvg-name="truTV West" tvg-logo="https://docdog.top/Logotv/countries/argentina/tru-tv-ar.png" group-title="Cable",truTV West
 http://supersonictv.live:8080/611199/278562/22165
-#EXTINF:0,Turner Classic Movies
+#EXTINF:-1 tvg-id="turnerclassicmovies.us" tvg-name="Turner Classic Movies" tvg-logo="" group-title="Cable",Turner Classic Movies
 http://supersonictv.live:8080/611199/278562/22933
-#EXTINF:0,TV One
+#EXTINF:-1 tvg-id="tvone.us" tvg-name="TV One" tvg-logo="https://docdog.top/Logotv/countries//tvone.png" group-title="Cable",TV One
 http://supersonictv.live:8080/611199/278562/22166
-#EXTINF:0,TVG Network
+#EXTINF:-1 tvg-id="tvgnetwork.us" tvg-name="TVG Network" tvg-logo="https://docdog.top/Logotv/countries//tvgnetwork.png" group-title="Cable",TVG Network
 http://supersonictv.live:8080/611199/278562/22167
-#EXTINF:0,TVLand
+#EXTINF:-1 tvg-id="tvland.us" tvg-name="TVLand" tvg-logo="https://docdog.top/Logotv/countries//tvl.png" group-title="Cable",TVLand
 http://supersonictv.live:8080/611199/278562/22169
-#EXTINF:0,UFC Network
+#EXTINF:-1 tvg-id="ufcnetwork.us" tvg-name="UFC Network" tvg-logo="https://docdog.top/Logotv/countries//ufcnetwork.png" group-title="Cable",UFC Network
 http://supersonictv.live:8080/611199/278562/22177
-#EXTINF:0,Universal Kids
+#EXTINF:-1 tvg-id="universalkids.us" tvg-name="Universal Kids" tvg-logo="https://docdog.top/Logotv/countries/argentina/studio-universal-ar.png" group-title="Cable",Universal Kids
 http://supersonictv.live:8080/611199/278562/21812
-#EXTINF:0,Universo West
+#EXTINF:-1 tvg-id="universowest.us" tvg-name="Universo West" tvg-logo="https://docdog.top/Logotv/countries//universo.png" group-title="Cable",Universo West
 http://supersonictv.live:8080/611199/278562/22171
-#EXTINF:0,Univision East
+#EXTINF:-1 tvg-id="univisioneast.us" tvg-name="Univision East" tvg-logo="https://docdog.top/Logotv/countries//univision.png" group-title="Cable",Univision East
 http://supersonictv.live:8080/611199/278562/22173
-#EXTINF:0,UP TV
+#EXTINF:-1 tvg-id="uptv.us" tvg-name="UP TV" tvg-logo="" group-title="Cable",UP TV
 http://supersonictv.live:8080/611199/278562/47744
-#EXTINF:0,Usa Network Pacific
+#EXTINF:-1 tvg-id="usanetworkpacific.us" tvg-name="Usa Network Pacific" tvg-logo="https://docdog.top/Logotv/countries/united-states/usa-us.png" group-title="Cable",Usa Network Pacific
 http://supersonictv.live:8080/611199/278562/22176
-#EXTINF:0,USA: ADULT SWIM
+#EXTINF:-1 tvg-id="usa:adultswim.us" tvg-name="USA: ADULT SWIM" tvg-logo="https://docdog.top/Logotv/countries//usa.png" group-title="Cable",USA: ADULT SWIM
 http://supersonictv.live:8080/611199/278562/22043
-#EXTINF:0,USA: ONE AMERICA NEWS NETWORK
+#EXTINF:-1 tvg-id="usa:oneamericanewsnetwork.us" tvg-name="USA: ONE AMERICA NEWS NETWORK" tvg-logo="https://docdog.top/Logotv/countries//usa.png" group-title="Cable",USA: ONE AMERICA NEWS NETWORK
 http://supersonictv.live:8080/611199/278562/21784
-#EXTINF:0,USA: RFD-TV
+#EXTINF:-1 tvg-id="usa:rfdtv.us" tvg-name="USA: RFD-TV" tvg-logo="" group-title="Cable",USA: RFD-TV
 http://supersonictv.live:8080/611199/278562/22146
-#EXTINF:0,USA: SPORTSMAN CHANNEL
+#EXTINF:-1 tvg-id="usa:sportsmanchannel.us" tvg-name="USA: SPORTSMAN CHANNEL" tvg-logo="" group-title="Cable",USA: SPORTSMAN CHANNEL
 http://supersonictv.live:8080/611199/278562/22149
-#EXTINF:0,USA: WGN AMERICA
+#EXTINF:-1 tvg-id="usa:wgnamerica.us" tvg-name="USA: WGN AMERICA" tvg-logo="" group-title="Cable",USA: WGN AMERICA
 http://supersonictv.live:8080/611199/278562/22184
-#EXTINF:0,VH1
+#EXTINF:-1 tvg-id="vh1.us" tvg-name="VH1" tvg-logo="https://docdog.top/Logotv/countries/argentina/countrypic.png" group-title="Cable",VH1
 http://supersonictv.live:8080/611199/278562/22178
-#EXTINF:0,Viceland
+#EXTINF:-1 tvg-id="viceland.us" tvg-name="Viceland" tvg-logo="https://docdog.top/Logotv/countries/viceland.png" group-title="Cable",Viceland
 http://supersonictv.live:8080/611199/278562/22180
-#EXTINF:0,Wapa America
+#EXTINF:-1 tvg-id="wapaamerica.us" tvg-name="Wapa America" tvg-logo="" group-title="Cable",Wapa America
 http://supersonictv.live:8080/611199/278562/22181
-#EXTINF:0,WE TV
+#EXTINF:-1 tvg-id="wetv.us" tvg-name="WE TV" tvg-logo="https://docdog.top/Logotv/countries//wetv.png" group-title="Cable",WE TV
 http://supersonictv.live:8080/611199/278562/22182
-#EXTINF:0,World Fishing Network
+#EXTINF:-1 tvg-id="worldfishingnetwork.us" tvg-name="World Fishing Network" tvg-logo="https://docdog.top/Logotv/countries//worldfishingnetwork.png" group-title="Cable",World Fishing Network
 http://supersonictv.live:8080/611199/278562/22183
-#EXTINF:0,5STARMAX
+#EXTINF:-1 tvg-id="5starmax.us" tvg-name="5STARMAX" tvg-logo="" group-title="Movies",5STARMAX
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/457903
-#EXTINF:0,CINEMAX
+#EXTINF:-1 tvg-id="cinemax.us" tvg-name="CINEMAX" tvg-logo="https://docdog.top/Logotv/countries/belgium/be-cine-be.png" group-title="Movies",CINEMAX
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12777
-#EXTINF:0,CINEMAX MOREMAX
+#EXTINF:-1 tvg-id="cinemaxmoremax.us" tvg-name="CINEMAX MOREMAX" tvg-logo="https://docdog.top/Logotv/countries/argentina/countrypic.png" group-title="Movies",CINEMAX MOREMAX
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12727
-#EXTINF:0,CINEMAX OUTERMAX 
+#EXTINF:-1 tvg-id="cinemaxoutermax.us" tvg-name="CINEMAX OUTERMAX " tvg-logo="https://docdog.top/Logotv/countries//cinemax.png" group-title="Movies",CINEMAX OUTERMAX 
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12776
-#EXTINF:0,CINEMAX THRILLER 
+#EXTINF:-1 tvg-id="cinemaxthriller.us" tvg-name="CINEMAX THRILLER " tvg-logo="https://docdog.top/Logotv/countries//cinemax.png" group-title="Movies",CINEMAX THRILLER 
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12775
-#EXTINF:0,HBO
+#EXTINF:-1 tvg-id="epix.us" tvg-name="Epix" tvg-logo="https://docdog.top/Logotv/countries/united-states/epix-us.png" group-title="Movies",Epix
+http://supersonictv.live:8080/611199/278562/22886
+#EXTINF:-1 tvg-id="epixdrivein.us" tvg-name="EPIX Drive-In" tvg-logo="https://docdog.top/Logotv/countries/united-states/epix-us.png" group-title="Movies",EPIX Drive-In
+http://supersonictv.live:8080/611199/278562/22888
+#EXTINF:-1 tvg-id="epixhits.us" tvg-name="Epix Hits" tvg-logo="https://docdog.top/Logotv/countries/united-states/epix-us.png" group-title="Movies",Epix Hits
+http://supersonictv.live:8080/611199/278562/22889
+#EXTINF:-1 tvg-id="epix2.us" tvg-name="EPIX2" tvg-logo="" group-title="Movies",EPIX2
+http://supersonictv.live:8080/611199/278562/22887
+#EXTINF:-1 tvg-id="hbo.us" tvg-name="HBO" tvg-logo="https://docdog.top/Logotv/countries/argentina/hbo-ar.png" group-title="Movies",HBO
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12743
-#EXTINF:0,HBO 2
+#EXTINF:-1 tvg-id="hbo2.us" tvg-name="HBO 2" tvg-logo="https://docdog.top/Logotv/countries/argentina/hbo-2-ar.png" group-title="Movies",HBO 2
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12796
-#EXTINF:0,HBO COMEDY
+#EXTINF:-1 tvg-id="hbocomedy.us" tvg-name="HBO COMEDY" tvg-logo="https://docdog.top/Logotv/countries//hbo.png" group-title="Movies",HBO COMEDY
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12739
-#EXTINF:0,HBO FAMILY
+#EXTINF:-1 tvg-id="hbofamily.us" tvg-name="HBO FAMILY" tvg-logo="https://docdog.top/Logotv/countries/argentina/hbo-family-ar.png" group-title="Movies",HBO FAMILY
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12741
-#EXTINF:0,HBO SIGNATURE
+#EXTINF:-1 tvg-id="hbosignature.us" tvg-name="HBO SIGNATURE" tvg-logo="https://docdog.top/Logotv/countries/argentina/hbo-signature-ar.png" group-title="Movies",HBO SIGNATURE
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12740
-#EXTINF:0,HBO ZONE
+#EXTINF:-1 tvg-id="hbozone.us" tvg-name="HBO ZONE" tvg-logo="https://docdog.top/Logotv/countries//hbo.png" group-title="Movies",HBO ZONE
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12742
-#EXTINF:0,MGM+ Drive-In
+#EXTINF:-1 tvg-id="mgm+drivein.us" tvg-name="MGM+ Drive-In" tvg-logo="https://docdog.top/Logotv/countries//mgm.png" group-title="Movies",MGM+ Drive-In
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/421449
-#EXTINF:0,MOVIEMAX
+#EXTINF:-1 tvg-id="moviemax.us" tvg-name="MOVIEMAX" tvg-logo="" group-title="Movies",MOVIEMAX
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/457904
-#EXTINF:0,SHOWTIME
+#EXTINF:-1 tvg-id="retroplexeast.us" tvg-name="RetroPlex East" tvg-logo="" group-title="Movies",RetroPlex East
+http://supersonictv.live:8080/611199/278562/47746
+#EXTINF:-1 tvg-id="retroplexwest.us" tvg-name="RetroPlex West" tvg-logo="" group-title="Movies",RetroPlex West
+http://supersonictv.live:8080/611199/278562/47747
+#EXTINF:-1 tvg-id="showtime.us" tvg-name="SHOWTIME" tvg-logo="https://docdog.top/Logotv/countries//showtime.png" group-title="Movies",SHOWTIME
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12709
-#EXTINF:0,SHOWTIME 2 
+#EXTINF:-1 tvg-id="showtime2.us" tvg-name="SHOWTIME 2 " tvg-logo="https://docdog.top/Logotv/countries//showtime.png" group-title="Movies",SHOWTIME 2 
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12708
-#EXTINF:0,SHOWTIME EXTREME 
+#EXTINF:-1 tvg-id="showtimeextreme.us" tvg-name="SHOWTIME EXTREME " tvg-logo="https://docdog.top/Logotv/countries//showtimeextreme.png" group-title="Movies",SHOWTIME EXTREME 
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12707
-#EXTINF:0,SHOWTIME FAMILY ZONE
+#EXTINF:-1 tvg-id="showtimefamilyzone.us" tvg-name="SHOWTIME FAMILY ZONE" tvg-logo="https://docdog.top/Logotv/countries//showtimefamilyzone.png" group-title="Movies",SHOWTIME FAMILY ZONE
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/22636
-#EXTINF:0,SHOWTIME NEXT
+#EXTINF:-1 tvg-id="showtimenext.us" tvg-name="SHOWTIME NEXT" tvg-logo="https://docdog.top/Logotv/countries//showtimenext.png" group-title="Movies",SHOWTIME NEXT
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/24861
-#EXTINF:0,SHOWTIME SHOWCASE
+#EXTINF:-1 tvg-id="showtimeshowcase.us" tvg-name="SHOWTIME SHOWCASE" tvg-logo="https://docdog.top/Logotv/countries//showtimeshowcase.png" group-title="Movies",SHOWTIME SHOWCASE
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/421508
-#EXTINF:0,SHOWTIME WOMEN
+#EXTINF:-1 tvg-id="showtimewomen.us" tvg-name="SHOWTIME WOMEN" tvg-logo="https://docdog.top/Logotv/countries//showtimewomen.png" group-title="Movies",SHOWTIME WOMEN
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/22635
-#EXTINF:0,SHOxBET
+#EXTINF:-1 tvg-id="shoxbet.us" tvg-name="SHOxBET" tvg-logo="" group-title="Movies",SHOxBET
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/487943
-#EXTINF:0,STARZ
+#EXTINF:-1 tvg-id="sonymoviechannel.us" tvg-name="Sony Movie Channel" tvg-logo="https://docdog.top/Logotv/countries/argentina/sony-channel-ar.png" group-title="Movies",Sony Movie Channel
+http://supersonictv.live:8080/611199/278562/22917
+#EXTINF:-1 tvg-id="starz.us" tvg-name="STARZ" tvg-logo="https://docdog.top/Logotv/countries//starz.png" group-title="Movies",STARZ
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12704
-#EXTINF:0,STARZ CINEMA
+#EXTINF:-1 tvg-id="starzcinema.us" tvg-name="STARZ CINEMA" tvg-logo="https://docdog.top/Logotv/countries//starzcinema.png" group-title="Movies",STARZ CINEMA
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/421446
-#EXTINF:0,STARZ COMEDY
+#EXTINF:-1 tvg-id="starzcomedy.us" tvg-name="STARZ COMEDY" tvg-logo="https://docdog.top/Logotv/countries//starzcomedy.png" group-title="Movies",STARZ COMEDY
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12703
-#EXTINF:0,STARZ EDGE
+#EXTINF:-1 tvg-id="starzedge.us" tvg-name="STARZ EDGE" tvg-logo="https://docdog.top/Logotv/countries//star.png" group-title="Movies",STARZ EDGE
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12702
-#EXTINF:0,STARZ ENCORE
+#EXTINF:-1 tvg-id="starzencore.us" tvg-name="STARZ ENCORE" tvg-logo="https://docdog.top/Logotv/countries//starzencore.png" group-title="Movies",STARZ ENCORE
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/22639
-#EXTINF:0,STARZ ENCORE ACTION
+#EXTINF:-1 tvg-id="starzencoreaction.us" tvg-name="STARZ ENCORE ACTION" tvg-logo="https://docdog.top/Logotv/countries//startv.png" group-title="Movies",STARZ ENCORE ACTION
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/421503
-#EXTINF:0,STARZ ENCORE BLACK
+#EXTINF:-1 tvg-id="starzencoreblack.us" tvg-name="STARZ ENCORE BLACK" tvg-logo="https://docdog.top/Logotv/countries//starzencoreblack.png" group-title="Movies",STARZ ENCORE BLACK
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/421450
-#EXTINF:0,STARZ ENCORE CLASSIC
+#EXTINF:-1 tvg-id="starzencoreclassic.us" tvg-name="STARZ ENCORE CLASSIC" tvg-logo="https://docdog.top/Logotv/countries//starzencoreclassic.png" group-title="Movies",STARZ ENCORE CLASSIC
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/421452
-#EXTINF:0,STARZ ENCORE FAMILY
+#EXTINF:-1 tvg-id="starzencorefamily.us" tvg-name="STARZ ENCORE FAMILY" tvg-logo="https://docdog.top/Logotv/countries//starzencorefamily.png" group-title="Movies",STARZ ENCORE FAMILY
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/421451
-#EXTINF:0,STARZ ENCORE SUSPENSE
+#EXTINF:-1 tvg-id="starzencoresuspense.us" tvg-name="STARZ ENCORE SUSPENSE" tvg-logo="https://docdog.top/Logotv/countries//starzencoresuspense.png" group-title="Movies",STARZ ENCORE SUSPENSE
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/22638
-#EXTINF:0,STARZ ENCORE WESTERN 
+#EXTINF:-1 tvg-id="starzencorewestern.us" tvg-name="STARZ ENCORE WESTERN " tvg-logo="https://docdog.top/Logotv/countries//starz.png" group-title="Movies",STARZ ENCORE WESTERN 
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12701
-#EXTINF:0,STARZ IN BLACK 
+#EXTINF:-1 tvg-id="starzinblack.us" tvg-name="STARZ IN BLACK " tvg-logo="https://docdog.top/Logotv/countries/united-states/starz-in-black-us.png" group-title="Movies",STARZ IN BLACK 
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/22640
-#EXTINF:0,STARZ KIDS AND FAMILY 
+#EXTINF:-1 tvg-id="starzkidsandfamily.us" tvg-name="STARZ KIDS AND FAMILY " tvg-logo="https://docdog.top/Logotv/countries/greece/start-tv-gr.png" group-title="Movies",STARZ KIDS AND FAMILY 
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12699
-#EXTINF:0,24 Hour Free Movies (720p) [Not 24/7]
-https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex2/145.m3u8
-#EXTINF:60,4 Adventure (1080p)
-https://lnc-4adventure.tubi.video/playlist.m3u8
-#EXTINF:60,4 Emergency (1080p)
-https://lnc-4emergency.tubi.video/playlist.m3u8
-#EXTINF:54,AccuWeather Now (1080p)
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
-#EXTINF:60,AFV (720p)
-https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
-#EXTINF:0,Alien Nation (1080p)
-https://lnc-alien-nation.tubi.video/playlist.m3u8
-#EXTINF:0,Alter Horror (1080p)
-https://lnc-alter.tubi.video/playlist.m3u8
-#EXTINF:0,Always Funny Videos (720p)
-https://lnc-afv.tubi.video/playlist.m3u8
-#EXTINF:0,AMC Absolute Reality
-https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:120,AMC All Weddings
-https://d85lu9l3axp7b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-49b4g6287mnav/playlist.m3u8
-#EXTINF:0,America's Dumbest Criminals (720p)
-https://lnc-americas-dumbest-criminals.tubi.video/index.m3u8
-#EXTINF:0,America's Voice (720p)
-https://p1media-americasvoice-1.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:0,Americas Test Kitchen (720p)
-https://lnc-americas-test-kitchen.tubi.video/index.m3u8
-#EXTINF:0,Anger Management Channel (720p)
-https://lnc-anger-management.tubi.video/playlist.m3u8
-#EXTINF:0,Anger Management en Espanol (1080p)
-https://lnc-anger-management-espanol.tubi.video/playlist.m3u8
-#EXTINF:0,Antiques Road Trip (720p)
-https://lnc-antiques-road-trip.tubi.video/playlist.m3u8
-#EXTINF:0,Are We There Yet? (720p)
-https://lnc-are-we-there-yet.tubi.video/playlist.m3u8
-#EXTINF:0,Baywatch (720p)
-https://lnc-baywatch.tubi.video/playlist.m3u8
-#EXTINF:0,BBC Doctor Who Classic (720p)
-https://lnc-dr-who.tubi.video/playlist.m3u8
-#EXTINF:0,BBC Earth (720p)
-https://lnc-bbc-earth.tubi.video/playlist.m3u8
-#EXTINF:0,BBC Silent Witness New Tricks (720p)
-https://lnc-bbc-silent-witness-new-tricks.tubi.video/playlist.m3u8
-#EXTINF:0,BBC Top Gear (720p)
-https://lnc-bbc-top-gear.tubi.video/playlist.m3u8
-#EXTINF:0,BeIN SPORTS XTRA (720p)
-https://lnc-bein.tubi.video/playlist.m3u8
-#EXTINF:0,Bloody Disgusting (1080p)
-https://bloodydisgusting-ingest-roku-us.cinedigm.com/playlist.m3u8
-#EXTINF:0,Bloomberg Quicktake (1080p)
-https://ab1455372fed47d8a88264bab4831d5c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_QuickTake-1/playlist.m3u8
-#EXTINF:0,Bloomberg TV+ UHD (2160p)
-https://bloomberg-bloombergtv-1-us.samsung.wurl.tv/manifest/playlist.m3u8
-#EXTINF:0,bon appétit (1080p)
-https://bonappetit-samsung.amagi.tv/playlist.m3u8
-#EXTINF:0,Bounce XL (720p)
-https://lnc-bounce-xl.tubi.video/playlist.m3u8
-#EXTINF:0,Brat TV (1080p)
-https://brat-samsung-us.amagi.tv/playlist.m3u8
-#EXTINF:0,BritBox Mysteries (1080p)
-https://lnc-bbc-britbox-mysteries.tubi.video/playlist.m3u8
-#EXTINF:0,Buzzr (1080p)
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-buzzr-samsungtv-us/playlist.m3u8
-#EXTINF:0,Caught in Providence (720p)
-https://lnc-caught-in-providence.tubi.video/playlist.m3u8
-#EXTINF:0,Cheddar News (1080p)
-https://cheddar-cheddar-3.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:0,Choppertown (720p) [Not 24/7]
-https://linear-11.frequency.stream/dist/plex/11/hls/master/playlist.m3u8
-#EXTINF:0,Cinevault 80s (720p)
-https://lnc-cinevault-80s.tubi.video/playlist.m3u8
-#EXTINF:0,Cinevault Classics (720p)
-https://lnc-cinevault-classics.tubi.video/playlist.m3u8
-#EXTINF:0,Cinevault Westerns (540p)
-https://20995731713c495289784ab260b3c830.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_CinevaultWesterns/playlist.m3u8
-#EXTINF:0,Circle (1080p)
-https://circle-samsung.amagi.tv/playlist.m3u8
-#EXTINF:0,Clarity 4K (2160p)
-https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
-#EXTINF:0,Cocoro (1080p)
-https://4ea7abcc97144832b81dc50c6e8d6330.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Cocoro/playlist.m3u8
-#EXTINF:0,Comedy Dynamics (1080p)
-https://comedydynamics-plex-ingest.cinedigm.com/playlist.m3u8
-#EXTINF:0,CONtv Anime (1080p)
-https://contvanime-roku-ingest.cinedigm.com/master.m3u8
-#EXTINF:0,Cosmos (720p)
-https://lnc-cosmos.tubi.video/index.m3u8
-#EXTINF:60,Court TV (720p)
-https://lnc-court-tv.tubi.video/playlist.m3u8
-#EXTINF:0,Crackle (720p)
-https://crackle-plex.amagi.tv/playlist.m3u8
-#EXTINF:0,Crime 360 (720p)
-https://c9747bb6.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZ19DcmltZTM2MF9ITFM/playlist.m3u8
-#EXTINF:0,Dark Matter TV (720p)
-https://dmtv-plex.amagi.tv/playlist.m3u8
-#EXTINF:0,Dateline 24/7 (1080p)
-https://lnc-dateline.tubi.video/master.m3u8
-#EXTINF:0,Deal or No Deal (720p)
-https://lnc-deal-or-no-deal.tubi.video/playlist.m3u8
-#EXTINF:0,Degrassi The Next Generation (720p)
-https://d365kok94jpr38.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2xcmoue1get1c/playlist.m3u8
-#EXTINF:0,Docurama (1080p)
-https://docurama-plex-ingest.cinedigm.com/playlist.m3u8
-#EXTINF:0,Dove Channel (1080p)
-https://dove-channel.plex.wurl.com/manifest/playlist.m3u8
-#EXTINF:0,Dr. G Medical Examiner (720p)
-https://lnc-dr-g-filmrise.tubi.video/index.m3u8
-#EXTINF:0,Drag Race Universe (1080p)
-https://lnc-dragrace.tubi.video/playlist.m3u8
-#EXTINF:0,Dust Sci-Fi (720p)
-https://lnc-dust.tubi.video/playlist.m3u8
-#EXTINF:0,Ebony TV (1080p) [Geo-blocked]
-https://lnc-ebony-tv.tubi.video/playlist.m3u8
-#EXTINF:0,EDGEsport (1080p)
-https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
-#EXTINF:0,Euronews English (7200p)
-https://lnc-euronews.tubi.video/ewnsabren_eng.m3u8
-#EXTINF:0,Fear Factor (720p)
-https://lnc-fear-factor.tubi.video/playlist.m3u8
-#EXTINF:0,Fear Factor (720p)
-https://lnc-fear-factor.tubi.video/playlist.m3u8
-#EXTINF:0,Filmrise Black TV (720p)
-https://lnc-filmrise-blacktv.tubi.video/index.m3u8
-#EXTINF:0,Filmrise Black TV (720p)
-https://lnc-filmrise-blacktv.tubi.video/index.m3u8
-#EXTINF:0,Filmrise Forensic Files (720p)
-https://lnc-forensic-files.tubi.video/index.m3u8
-#EXTINF:0,Filmrise Horror (720p)
-https://lnc-filmrise-horror.tubi.video/index.m3u8
-#EXTINF:0,Filmrise Hunter (720p)
-https://lnc-hunter-filmrise.tubi.video/index.m3u8
-#EXTINF:0,Filmrise The Rifleman (720p)
-https://lnc-rifleman-filmrise.tubi.video/index.m3u8
-#EXTINF:0,Filmrise True Crime (720p)
-https://lnc-filmrise-true-crime.tubi.video/index.m3u8
-#EXTINF:0,Filmrise Western (720p)
-https://lnc-filmrise-western.tubi.video/playlist.m3u8
-#EXTINF:0,Fireplace Lounge (2160p)
-https://d300k472vyqakg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-aijrtvzii4xsm-ssai-prd/v1/channel/FIREPLACE_4K_2022/index.m3u8
-#EXTINF:0,Four in a Bed (1080p)
-https://lnc-four-in-a-bed.tubi.video/playlist.m3u8
-#EXTINF:0,FOX News Now (720p)
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:0,Fox Soul (1080p)
-https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:0,Fox Sports (720p)
-https://lnc-fox-sports2.tubi.video/index.m3u8
-#EXTINF:0,Fox Weather (720p)
-https://lnc-fox-weather.tubi.video/index.m3u8
-#EXTINF:0,Freebie TV (720p) [Not 24/7]
-https://d1h1d6qoy9vnra.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Freebie-Plex/187.m3u8
-#EXTINF:0,FTF (720p)
-https://eleven-rebroadcast-samsung.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:0,Fubo Sports Network (1080p) [Geo-blocked]
-https://lnc-fubo.tubi.video/master.m3u8
-#EXTINF:0,Game Show Central (720p)
-https://lnc-game-show-central.tubi.video/playlist.m3u8
-#EXTINF:0,Gardening With Monty Don (720p)
-https://lnc-gardening-monty-don.tubi.video/playlist.m3u8
-#EXTINF:0,GFN TV (720p) [Not 24/7]
-https://d3jxchypmk8fja.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/GFNTV-Plex/169.m3u8
-#EXTINF:0,Gordon Ramsay (720p)
-https://lnc-gordon-ramsey.tubi.video/index.m3u8
-#EXTINF:0,Great British Menu (720p)
-https://lnc-great-british-menu.tubi.video/playlist.m3u8
-#EXTINF:0,Grit Xtra (1080p)
-https://livetv-fa.tubi.video/grit-extra/playlist.m3u8
-#EXTINF:0,Hard Knocks (1080p) [Not 24/7]
-https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-PLEX/121.m3u8
-#EXTINF:0,Haunt TV (720p)
-https://lnc-haunttv.tubi.video/playlist.m3u8
-#EXTINF:0,Heartland (720p)
-https://lnc-heartland.tubi.video/index.m3u8
-#EXTINF:0,Hi-YAH! (1080p)
-https://linear-59.frequency.stream/dist/roku/59/hls/master/playlist.m3u8
-#EXTINF:0,History Time (1080p)
-https://lnc-historytime.tubi.video/playlist.m3u8
-#EXTINF:0,Homeful (1080p)
-https://lnc-homeful.tubi.video/playlist.m3u8
-#EXTINF:0,Horrify (1080p)
-https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
-#EXTINF:0,Humor Mill (1080p) [Not 24/7]
-https://damkf751d85s1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HumorMill-PLEX/152.m3u8
-#EXTINF:0,iFood.TV (1080p)
-https://ft-ifood-roku.amagi.tv/playlist.m3u8
-#EXTINF:0,IGN (1080p)
-https://ign-plex.amagi.tv/playlist.m3u8
-#EXTINF:0,iHeart 80s (1080p)
-https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:0,iHeart 90s (1080p)
-https://iheart-iheart90s-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:0,Insight TV (720p)
-https://insighttv-samsung-us.amagi.tv/playlist.m3u8
-#EXTINF:0,InTrouble (1080p)
-https://introuble-samsung.amagi.tv/playlist.m3u8
-#EXTINF:0,ION
-https://d1mumb5jst6zw0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rqzc6u2smk8dg/ion.m3u8
-#EXTINF:56,ION (720p)
-https://lnc-ion.tubi.video/playlist.m3u8
-#EXTINF:0,ION Mystery (1080p)
-https://livetv-fa.tubi.video/ion-mystery/playlist.m3u8
-#EXTINF:0,ION Plus
-https://d2olmevnzmviuu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-drh5os33njrnt/ion_plus.m3u8
-#EXTINF:0,Juntos (1080p)
-https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
-#EXTINF:0,Kartoon Channel (720p)
-https://lnc-kartoon.tubi.video/kc_co.m3u8
-#EXTINF:0,KMTV
-https://kmtvnow-samsung-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:0,LiveNOW from FOX (720p)
-https://lnc-fox-live-now.tubi.video/index.m3u8
-#EXTINF:0,Localish (720p)
-https://lnc-localish.tubi.video/index.m3u8
-#EXTINF:0,LOL Standup (1080p)
-https://lnc-lol-stand-up.tubi.video/playlist.m3u8
-#EXTINF:0,Loupe 4K
-https://d2dw21aq0j0l5c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoupeArt-prod/playlist.m3u8
-#EXTINF:0,Love Nature (1080p)
-https://lnc-love-nature.tubi.video/playlist.m3u8
-#EXTINF:0,Love Nature 4K
-https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
-#EXTINF:0,Love Quest (1080p)
-https://lnc-all-real.tubi.video/playlist.m3u8
-#EXTINF:0,Maverick Black Cinema (720p)
-https://lnc-maverick-black-cinema.tubi.video/playlist.m3u8
-#EXTINF:0,Maximum Effort (1080p)
-https://lnc-maximum-effort.tubi.video/master.m3u8
-#EXTINF:0,Midnight Pulp (720p)
-https://d3knca0xtk4ya9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1sxenfkl27gw6/playlist.m3u8
-#EXTINF:0,Midsomer Murders (720p)
-https://lnc-midsomer-murders.tubi.video/playlist.m3u8
-#EXTINF:0,MLB (720p)
-https://lnc-mlb2.tubi.video/index.m3u8
-#EXTINF:0,Moonbug Kids (1080p)
-https://moonbug-rokuus.amagi.tv/playlist.m3u8
-#EXTINF:0,MovieSphere (1080p)
-https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:0,Mr. Beast (1080p)
-https://lnc-mr-beast.tubi.video/playlist.m3u8
-#EXTINF:0,Museum TV Fast (1080p)
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-en-plex/playlist.m3u8
-#EXTINF:0,MyTime Movie Network (1080p)
-https://mytime-roku-ingest.cinedigm.com/playlist.m3u8
-#EXTINF:0,Nashville Channel (1080p)
-https://lnc-nashville.tubi.video/playlist.m3u8
-#EXTINF:0,NBA G-League (1080p) [Geo-blocked]
-https://lnc-nba-g.tubi.video/playlist.m3u8
-#EXTINF:0,NBC News Now (1080p)
-https://lnc-nbc-news-now.tubi.video/master.m3u8
-#EXTINF:0,New Kid TV (1080p)
-https://b9860b21629b415987978bdbbfbc3095.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_NewKID/playlist.m3u8
-#EXTINF:0,News 12 New York (1080p)
-https://lnc-news12.tubi.video/index.m3u8
-#EXTINF:0,Newsmax (1080p)
-https://newsmax-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:0,NHRA TV (720p)
-https://lnc-nhra.tubi.video/nh.m3u8
-#EXTINF:0,Nosey (720p)
-https://lnc-nosey.tubi.video/playlist.m3u8
-#EXTINF:0,OAN (1080p)
-https://oneamericanews-roku-us.amagi.tv/playlist.m3u8
-#EXTINF:0,Outdoor America (720p) [Not 24/7]
-https://d18toqrnfyz3v1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/OutdoorAmerica-PLEX/159.m3u8
-#EXTINF:0,Outersphere (1080p) [Geo-blocked]
-https://lnc-outersphere.tubi.video/playlist.m3u8
-#EXTINF:0,Outside TV (1080p)
-https://lnc-outsidetv.tubi.video/playlist.m3u8
-#EXTINF:0,Popstar! TV (1080p) [Not 24/7]
-https://linear-10.frequency.stream/dist/plex/10/hls/master/playlist.m3u8
-#EXTINF:0,Racing America (720p)
-https://lnc-racing-america.tubi.video/playlist.m3u8
-#EXTINF:0,Real Families (1080p)
-https://lds-realfamilies-plex.amagi.tv/playlist.m3u8
-#EXTINF:0,Real Stories (1080p)
-https://lds-realstories-plex.amagi.tv/playlist.m3u8
-#EXTINF:0,Reelz
-https://lnc-reelz.tubi.video/playlist.m3u8
-#EXTINF:0,Reuters (1080p)
-https://reuters-reutersnow-1.plex.wurl.com/manifest/playlist.m3u8
-#EXTINF:0,Revolt (1080p)
-https://lnc-revolt.tubi.video/playlist.m3u8
-#EXTINF:0,Revry (720p) [Not 24/7]
-https://linear-5.frequency.stream/dist/plex/5/hls/master/playlist.m3u8
-#EXTINF:0,Revry News (720p) [Not 24/7]
-https://linear-44.frequency.stream/dist/plex/44/hls/master/playlist.m3u8
-#EXTINF:0,Samuel Goldwyn Classics (720p)
-https://lnc-samuel-goldwyn-classics.tubi.video/playlist.m3u8
-#EXTINF:0,Scripps News (1080p)
-https://livetv-fa.tubi.video/scripps-news/playlist.m3u8
-#EXTINF:0,Shout! Factory TV (720p)
-https://d1e3a0zkn06gu7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-pkf1jz7l0hork/playlist.m3u8
-#EXTINF:0,So... Real (720p)
-https://lnc-so-real.tubi.video/playlist.m3u8
-#EXTINF:0,SportsGrid (1080p)
-https://sportsgrid-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:0,Stadium (720p)
-https://lnc-stadium.tubi.video/master.m3u8
-#EXTINF:0,Supermarket Sweep (1080p)
-https://lnc-supermarket.tubi.video/playlist.m3u8
-#EXTINF:0,Tastemade (1080p)
-https://tastemade-freetv16min-plex.amagi.tv/hls/amagi_hls_data_tastemade-tastemadefreetv16-plex/CDN/playlist.m3u8
-#EXTINF:0,The Biggest Loser (1080p)
-https://lnc-biggest-loser.tubi.video/playlist.m3u8
-#EXTINF:0,The Bob Ross Channel (720p)
-https://lnc-bob-ross.tubi.video/playlist.m3u8
-#EXTINF:0,The Carol Burnett Show (1080p)
-https://carolburnett-roku.amagi.tv/playlist.m3u8
-#EXTINF:0,The Craftistry (1080p)
-https://studio71-craftistry-roku.amagi.tv/playlist.m3u8
-#EXTINF:0,The Film Detective (720p)
-https://filmdetective-plex.amagi.tv/index.m3u8
-#EXTINF:0,The Jack Hanna Channel (1080p)
-https://lnc-jack-hannah.tubi.video/playlist.m3u8
-#EXTINF:0,The Jamie Oliver Channel (720p)
-https://lnc-jamie-oliver.tubi.video/playlist.m3u8
-#EXTINF:0,The Masked Singer (720p)
-https://lnc-masked-singer.tubi.video/index.m3u8
-#EXTINF:0,The Young Turks (TYT) (720p)
-https://tyt-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:0,Timeline (1080p)
-https://lds-timeline-plex.amagi.tv/playlist.m3u8
-#EXTINF:0,TMZ (720p)
-https://lnc-tmz.tubi.video/index.m3u8
-#EXTINF:0,Today All Day (1080p)
-https://lnc-today.tubi.video/master.m3u8
-#EXTINF:0,Top Cine (1080p)
-https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
-#EXTINF:0,Top Rank Classics (1080p)
-https://lnc-top-rank.tubi.video/playlist.m3u8
-#EXTINF:0,Total Crime (1080p)
-https://lnc-total-crime.tubi.video/playlist.m3u8
-#EXTINF:0,Tubi Originals (720p)
-https://lnc-tubi-originals.tubi.video/index.m3u8
-#EXTINF:0,TV One (1080p)
-https://lnc-tv-one.tubi.video/playlist.m3u8
-#EXTINF:0,TV One (1080p)
-https://lnc-tv-one.tubi.video/playlist.m3u8
-#EXTINF:0,Unsolved Mysteries (720p)
-https://lnc-unsolved-mysteries.tubi.video/index.m3u8
-#EXTINF:0,US Weekly TV
-https://a360-usweeklytv-1-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:0,USA Today (720p)
-https://lnc-usa-today.tubi.video/playlist.m3u8
-#EXTINF:0,USA Today SportsWire
-https://lnc-sportswire.tubi.video/playlist.m3u8
-#EXTINF:0,VICE (720p)
-https://lnc-vice.tubi.video/playlist.m3u8
-#EXTINF:0,Wanted: Dead or Alive (720p)
-https://lnc-wanted-dead-or-alive.tubi.video/playlist.m3u8
-#EXTINF:0,Waypoint TV (720p)
-https://lnc-waypoint.tubi.video/playlist.m3u8
-#EXTINF:0,WBTV All Together [Geo-blocked]
-https://lnc-wbd-all-together-now.tubi.video/playlist.m3u8
-#EXTINF:0,WBTV At the Movies [Geo-blocked]
-https://lnc-wbd-at-the-movies.tubi.video/playlist.m3u8
-#EXTINF:0,WBTV Chasing Criminals [Geo-blocked]
-https://lnc-wbd-chasing-criminals.tubi.video/playlist.m3u8
-#EXTINF:0,WBTV Classic Cinema [Geo-blocked]
-https://lnc-wbd-classic-cinema.tubi.video/playlist.m3u8
-#EXTINF:0,WBTV Crime scenes [Geo-blocked]
-https://lnc-wbd-crime-scenes.tubi.video/playlist.m3u8
-#EXTINF:0,WBTV Family Rules [Geo-blocked]
-https://lnc-wbd-family-rules.tubi.video/playlist.m3u8
-#EXTINF:0,WBTV Generation Drama [Geo-blocked]
-https://lnc-wbd-generation-drama.tubi.video/playlist.m3u8
-#EXTINF:0,WBTV How To [Geo-blocked]
-https://lnc-wbd-how-to.tubi.video/playlist.m3u8
-#EXTINF:0,WBTV In The Garage [Geo-blocked]
-https://lnc-wbd-in-the-garage.tubi.video/playlist.m3u8
-#EXTINF:0,WBTV Keeping It Real [Geo-blocked]
-https://lnc-wbd-keeping-it-real.tubi.video/playlist.m3u8
-#EXTINF:0,WBTV Living With Evil [Geo-blocked]
-https://lnc-wbd-living-with-evil.tubi.video/playlist.m3u8
-#EXTINF:0,WBTV Love and Marriage [Geo-blocked]
-https://lnc-wbd-love-marriage.tubi.video/playlist.m3u8
-#EXTINF:0,WBTV Mysteries [Geo-blocked]
-https://lnc-wbd-mysteries.tubi.video/playlist.m3u8
-#EXTINF:0,WBTV Nikita [Geo-blocked]
-https://lnc-wbd-nikita.tubi.video/playlist.m3u8
-#EXTINF:0,WBTV On The Telly [Geo-blocked]
-https://lnc-wbd-on-the-telly.tubi.video/playlist.m3u8
-#EXTINF:0,WBTV Paws and Claws [Geo-blocked]
-https://lnc-wbd-paws-claws.tubi.video/playlist.m3u8
-#EXTINF:0,WBTV Slice of Life [Geo-blocked]
-https://lnc-wbd-slice-life.tubi.video/playlist.m3u8
-#EXTINF:0,WBTV Supernatural [Geo-blocked]
-https://lnc-wbd-supernatural.tubi.video/playlist.m3u8
-#EXTINF:0,WBTV Sweet Escapes [Geo-blocked]
-https://lnc-wbd-sweet-escapes.tubi.video/playlist.m3u8
-#EXTINF:0,WBTV The FBI [Geo-blocked]
-https://lnc-wbd-the-fbi.tubi.video/playlist.m3u8
-#EXTINF:0,WBTV Travel and Adventure [Geo-blocked]
-https://lnc-wbd-travel-and-adventure.tubi.video/playlist.m3u8
-#EXTINF:0,WBTV Watchlist [Geo-blocked]
-https://lnc-wbd-watch-list.tubi.video/playlist.m3u8
-#EXTINF:0,WBTV Welcome Home [Geo-blocked]
-https://lnc-wbd-welcome-home.tubi.video/playlist.m3u8
-#EXTINF:0,WeatherNation (720p) [Geo-blocked]
-https://weathernationtv.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:0,WeatherSpy
-https://jukin-weatherspy-1-us.samsung.wurl.tv/playlist.m3u8
-#EXTINF:0,Wipeout Xtra (720p)
-https://lnc-wipeout-xtra.tubi.video/playlist.m3u8
-#EXTINF:0,Women's Sports Network (720p)
-https://lnc-fast-studios-womens-sports.tubi.video/playlist.m3u8
-#EXTINF:0,Wonder (1080p)
-https://lds-wonder-plex.amagi.tv/playlist.m3u8
-#EXTINF:0,World Poker Tour (1080p) [Not 24/7]
-https://dth07jsr8atug.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-Plex/171.m3u8
-#EXTINF:0,WRA Canal 10 (1080p)
-https://streamtv.intervenhosting.net:3582/live/wadydelrosariolive.m3u8
-#EXTINF:0,WRA Canal 10 (1080p)
-https://streamtv.intervenhosting.net:3582/live/wadydelrosariolive.m3u8
-#EXTINF:0,Xplore (1080p)
-https://xplore-roku.amagi.tv/playlist.m3u8
-#EXTINF:0,Yahoo! Finance (1080p)
-https://yahoo-roku-us.amagi.tv/playlist.m3u8
-#EXTINF:0,Young Hollywood (720p)
-https://younghollywood-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="beachtvkeywestfloridakeys.us" tvg-name="Beach TV Key West - Florida Keys" tvg-logo="" group-title="Music",Beach TV Key West - Florida Keys
+http://supersonictv.live:8080/611199/278562/77550
+#EXTINF:-1 tvg-id="mcvideo|musicchoicemax.us" tvg-name="MC Video | Music Choice Max" tvg-logo="" group-title="Music",MC Video | Music Choice Max
+http://supersonictv.live:8080/611199/278562/13719
+#EXTINF:-1 tvg-id="mcvideo|musicaurbana.us" tvg-name="MC Video | Musica Urbana" tvg-logo="" group-title="Music",MC Video | Musica Urbana
+http://supersonictv.live:8080/611199/278562/13720
+#EXTINF:-1 tvg-id="musicchoicevideo|90*s.us" tvg-name="Music Choice Video | 90*s" tvg-logo="" group-title="Music",Music Choice Video | 90*s
+http://supersonictv.live:8080/611199/278562/13731
+#EXTINF:-1 tvg-id="musicchoicevideo|hiphopandrandb.us" tvg-name="Music Choice Video | Hip-Hop and R&B" tvg-logo="" group-title="Music",Music Choice Video | Hip-Hop and R&B
+http://supersonictv.live:8080/611199/278562/13726
+#EXTINF:-1 tvg-id="musicchoicevideo|holidayyulelogs.us" tvg-name="Music Choice Video | Holiday Yule Logs" tvg-logo="" group-title="Music",Music Choice Video | Holiday Yule Logs
+http://supersonictv.live:8080/611199/278562/13723
+#EXTINF:-1 tvg-id="musicchoicevideo|kidzonly!.us" tvg-name="Music Choice Video | Kidz Only!" tvg-logo="" group-title="Music",Music Choice Video | Kidz Only!
+http://supersonictv.live:8080/611199/278562/13747
+#EXTINF:-1 tvg-id="musicchoicevideo|metal.us" tvg-name="Music Choice Video | Metal" tvg-logo="" group-title="Music",Music Choice Video | Metal
+http://supersonictv.live:8080/611199/278562/13744
+#EXTINF:-1 tvg-id="musicchoicevideo|mexicana.us" tvg-name="Music Choice Video | Mexicana" tvg-logo="" group-title="Music",Music Choice Video | Mexicana
+http://supersonictv.live:8080/611199/278562/13743
+#EXTINF:-1 tvg-id="musicchoicevideo|popandcountry.us" tvg-name="Music Choice Video | Pop & Country" tvg-logo="" group-title="Music",Music Choice Video | Pop & Country
+http://supersonictv.live:8080/611199/278562/13730
+#EXTINF:-1 tvg-id="musicchoicevideo|pophits.us" tvg-name="Music Choice Video | Pop Hits" tvg-logo="" group-title="Music",Music Choice Video | Pop Hits
+http://supersonictv.live:8080/611199/278562/13729
+#EXTINF:-1 tvg-id="musicchoicevideo|poplatino.us" tvg-name="Music Choice Video | Pop Latino" tvg-logo="" group-title="Music",Music Choice Video | Pop Latino
+http://supersonictv.live:8080/611199/278562/13738
+#EXTINF:-1 tvg-id="musicchoicevideo|randb.us" tvg-name="Music Choice Video | R&B" tvg-logo="" group-title="Music",Music Choice Video | R&B
+http://supersonictv.live:8080/611199/278562/13732
+#EXTINF:-1 tvg-id="musicchoicevideo|rap2k.us" tvg-name="Music Choice Video | Rap 2K" tvg-logo="" group-title="Music",Music Choice Video | Rap 2K
+http://supersonictv.live:8080/611199/278562/13741
+#EXTINF:-1 tvg-id="musicchoicevideo|rock.us" tvg-name="Music Choice Video | Rock" tvg-logo="" group-title="Music",Music Choice Video | Rock
+http://supersonictv.live:8080/611199/278562/13733
+#EXTINF:-1 tvg-id="musicchoicevideo|throwbackjamz.us" tvg-name="Music Choice Video | Throwback Jamz" tvg-logo="" group-title="Music",Music Choice Video | Throwback Jamz
+http://supersonictv.live:8080/611199/278562/13740
+#EXTINF:-1 tvg-id="musicchoicevideo|today*scountry:cmaawards.us" tvg-name="Music Choice Video | Today*s Country: CMA Awards" tvg-logo="" group-title="Music",Music Choice Video | Today*s Country: CMA Awards
+http://supersonictv.live:8080/611199/278562/13728
+#EXTINF:-1 tvg-id="musicchoicevideo|y2k.us" tvg-name="Music Choice Video | Y2K" tvg-logo="" group-title="Music",Music Choice Video | Y2K
+http://supersonictv.live:8080/611199/278562/13736
+#EXTINF:-1 tvg-id="stingrayambience.us" tvg-name="Stingray Ambience (1080p)" tvg-logo="" group-title="Music",Stingray Ambience (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziostingrayambiance/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="stingrayclassicrock.us" tvg-name="Stingray Classic Rock (1080p)" tvg-logo="" group-title="Music",Stingray Classic Rock (1080p)
+https://xumo-redbox.ott-channels.stingray.com/101/master.m3u8
+#EXTINF:-1 tvg-id="stingrayclassicrock.us" tvg-name="Stingray Classic Rock (1080p) [Not 24/7]" tvg-logo="" group-title="Music",Stingray Classic Rock (1080p) [Not 24/7]
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayclassicrock/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="stingraygreatesthits.us" tvg-name="Stingray Greatest Hits (1080p)" tvg-logo="" group-title="Music",Stingray Greatest Hits (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraygreatesthits/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="stingraygreatesthits.us" tvg-name="Stingray Greatest Hits (1080p)" tvg-logo="" group-title="Music",Stingray Greatest Hits (1080p)
+https://xumo-redbox.ott-channels.stingray.com/155/master.m3u8
+#EXTINF:-1 tvg-id="stingrayhitlist.us" tvg-name="Stingray Hit List (1080p)" tvg-logo="" group-title="Music",Stingray Hit List (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayhitlist/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="stingrayhitlist.us" tvg-name="Stingray Hit List (1080p)" tvg-logo="" group-title="Music",Stingray Hit List (1080p)
+https://xumo-redbox.ott-channels.stingray.com/107/master.m3u8
+#EXTINF:-1 tvg-id="stingrayhotcountry.us" tvg-name="Stingray Hot Country (1080p)" tvg-logo="" group-title="Music",Stingray Hot Country (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayhotcountry/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="stingrayhotcountry.us" tvg-name="Stingray Hot Country (1080p)" tvg-logo="" group-title="Music",Stingray Hot Country (1080p)
+https://xumo-redbox.ott-channels.stingray.com/108/master.m3u8
+#EXTINF:-1 tvg-id="stingraynaturescape.us" tvg-name="Stingray Naturescape (360p)" tvg-logo="" group-title="Music",Stingray Naturescape (360p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraynaturescape/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="stingrayqelloconcerts.us" tvg-name="Stingray Qello Concerts (1080p)" tvg-logo="" group-title="Music",Stingray Qello Concerts (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-vizioqelloconcerts/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="stingraysoulstorm.us" tvg-name="Stingray Soul Storm (1080p)" tvg-logo="" group-title="Music",Stingray Soul Storm (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraysoulstorm/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="stingraysoulstorm.us" tvg-name="Stingray Soul Storm (1080p)" tvg-logo="" group-title="Music",Stingray Soul Storm (1080p)
+https://xumo-redbox.ott-channels.stingray.com/134/master.m3u8
