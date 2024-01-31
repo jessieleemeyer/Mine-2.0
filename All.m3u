@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://docdog.top/Logotv/countries/ae.png" group-title="Cable",A&E
+#EXTINF:-1 tvg-id="a-e.us" tvg-name="A&E" tvg-logo="https://docdog.top/Logotv/countries/ae.png" group-title="Cable",A&E
 http://supersonictv.live:8080/611199/278562/22040
 #EXTINF:-1 tvg-id="abcnews.us" tvg-name="ABC News" tvg-logo="https://docdog.top/Logotv/countries//abcnews.png" group-title="Cable",ABC News
 http://supersonictv.live:8080/611199/278562/21753
@@ -15,10 +15,8 @@ http://supersonictv.live:8080/611199/278562/77253
 http://supersonictv.live:8080/611199/278562/77252
 #EXTINF:-1 tvg-id="americanheroes.us" tvg-name="American Heroes" tvg-logo="https://docdog.top/Logotv/countries//america.png" group-title="Cable",American Heroes
 http://supersonictv.live:8080/611199/278562/22044
-#EXTINF:-1 tvg-id="animalplaneteast.us" tvg-name="Animal Planet East" tvg-logo="https://docdog.top/Logotv/countries//animalplanet.png" group-title="Cable",Animal Planet East
+#EXTINF:-1 tvg-id="animalplaneteast.us" tvg-name="Animal Planet" tvg-logo="https://docdog.top/Logotv/countries//animalplanet.png" group-title="Cable",Animal Planet
 http://supersonictv.live:8080/611199/278562/22045
-#EXTINF:-1 tvg-id="animalplanetwest.us" tvg-name="Animal Planet West" tvg-logo="https://docdog.top/Logotv/countries//animalplanet.png" group-title="Cable",Animal Planet West
-http://supersonictv.live:8080/611199/278562/22046
 #EXTINF:-1 tvg-id="antennatv.us" tvg-name="ANTENNA TV" tvg-logo="https://docdog.top/Logotv/countries/united-states/antenna-us.png" group-title="Cable",ANTENNA TV
 http://supersonictv.live:8080/611199/278562/22047
 #EXTINF:-1 tvg-id="aspire.us" tvg-name="Aspire" tvg-logo="" group-title="Cable",Aspire
@@ -43,24 +41,16 @@ http://supersonictv.live:8080/611199/278562/22053
 http://supersonictv.live:8080/611199/278562/22054
 #EXTINF:-1 tvg-id="betsoul.us" tvg-name="BET SOUL" tvg-logo="https://docdog.top/Logotv/countries/united-states/bet-soul-us.png" group-title="Cable",BET SOUL
 http://supersonictv.live:8080/611199/278562/22055
-#EXTINF:-1 tvg-id="betwest.us" tvg-name="BET West" tvg-logo="https://docdog.top/Logotv/countries/united-states/bet-us.png" group-title="Cable",BET West
-http://supersonictv.live:8080/611199/278562/22057
 #EXTINF:-1 tvg-id="boomerang.us" tvg-name="Boomerang" tvg-logo="https://docdog.top/Logotv/countries/argentina/countrypic.png" group-title="Cable",Boomerang
 http://supersonictv.live:8080/611199/278562/21791
 #EXTINF:-1 tvg-id="bouncetv.us" tvg-name="BOUNCE TV" tvg-logo="https://docdog.top/Logotv/countries/united-states/bounce-us.png" group-title="Cable",BOUNCE TV
 http://supersonictv.live:8080/611199/278562/22058
-#EXTINF:-1 tvg-id="bravoeast.us" tvg-name="Bravo East" tvg-logo="https://docdog.top/Logotv/countries/germany/br-de.png" group-title="Cable",Bravo East
+#EXTINF:-1 tvg-id="bravoeast.us" tvg-name="Bravo" tvg-logo="https://docdog.top/Logotv/countries/germany/br-de.png" group-title="Cable",Bravo
 http://supersonictv.live:8080/611199/278562/22059
-#EXTINF:-1 tvg-id="bravowest.us" tvg-name="Bravo West" tvg-logo="https://docdog.top/Logotv/countries//bravo.png" group-title="Cable",Bravo West
-http://supersonictv.live:8080/611199/278562/22060
 #EXTINF:-1 tvg-id="buzzr.us" tvg-name="BUZZR" tvg-logo="https://docdog.top/Logotv/countries//buzzr.png" group-title="Cable",BUZZR
 http://supersonictv.live:8080/611199/278562/22061
-#EXTINF:-1 tvg-id="cactvnewschannel.us" tvg-name="CA CTV News Channel" tvg-logo="" group-title="Cable",CA CTV News Channel
-http://supersonictv.live:8080/611199/278562/40388
 #EXTINF:-1 tvg-id="carstv.us" tvg-name="Cars TV" tvg-logo="https://docdog.top/Logotv/countries//carstv.png" group-title="Cable",Cars TV
 http://supersonictv.live:8080/611199/278562/47729
-#EXTINF:-1 tvg-id="cartoonnetworkpacific.us" tvg-name="Cartoon Network Pacific" tvg-logo="https://docdog.top/Logotv/countries/argentina/countrypic.png" group-title="Cable",Cartoon Network Pacific
-http://supersonictv.live:8080/611199/278562/21794
 #EXTINF:-1 tvg-id="cartoonnetworkwest.us" tvg-name="Cartoon Network West" tvg-logo="https://docdog.top/Logotv/countries//cartoonnetwork.png" group-title="Cable",Cartoon Network West
 http://supersonictv.live:8080/611199/278562/21793
 #EXTINF:-1 tvg-id="cheddarbusiness.us" tvg-name="Cheddar Business" tvg-logo="https://docdog.top/Logotv/countries//cheddar.png" group-title="Cable",Cheddar Business
@@ -73,20 +63,14 @@ http://supersonictv.live:8080/611199/278562/86101
 http://supersonictv.live:8080/611199/278562/22063
 #EXTINF:-1 tvg-id="cnbc.us" tvg-name="CNBC" tvg-logo="https://docdog.top/Logotv/countries//cnbc.png" group-title="Cable",CNBC
 http://supersonictv.live:8080/611199/278562/22064
-#EXTINF:-1 tvg-id="cnbc.us" tvg-name="CNBC" tvg-logo="https://docdog.top/Logotv/countries//cnbc.png" group-title="Cable",CNBC
-http://supersonictv.live:8080/611199/278562/21762
 #EXTINF:-1 tvg-id="cnbcworld.us" tvg-name="CNBC World" tvg-logo="https://docdog.top/Logotv/countries//cnbcworld.png" group-title="Cable",CNBC World
 http://supersonictv.live:8080/611199/278562/21763
 #EXTINF:-1 tvg-id="cnn.us" tvg-name="CNN" tvg-logo="https://docdog.top/Logotv/countries/argentina/countrypic.png" group-title="Cable",CNN
 http://supersonictv.live:8080/611199/278562/21764
-#EXTINF:-1 tvg-id="cnnespanol.us" tvg-name="CNN Espanol" tvg-logo="https://docdog.top/Logotv/countries//cnn.png" group-title="Cable",CNN Espanol
-http://supersonictv.live:8080/611199/278562/21766
 #EXTINF:-1 tvg-id="cnninternational.us" tvg-name="CNN INTERNATIONAL" tvg-logo="https://docdog.top/Logotv/countries//cnninternational.png" group-title="Cable",CNN INTERNATIONAL
 http://supersonictv.live:8080/611199/278562/21765
-#EXTINF:-1 tvg-id="comedycentraleast.us" tvg-name="Comedy Central East" tvg-logo="https://docdog.top/Logotv/countries/argentina/countrypic.png" group-title="Cable",Comedy Central East
+#EXTINF:-1 tvg-id="comedycentraleast.us" tvg-name="Comedy Central" tvg-logo="https://docdog.top/Logotv/countries/argentina/countrypic.png" group-title="Cable",Comedy Central
 http://supersonictv.live:8080/611199/278562/22065
-#EXTINF:-1 tvg-id="comedytv.us" tvg-name="Comedy TV" tvg-logo="https://docdog.top/Logotv/countries//comedy.png" group-title="Cable",Comedy TV
-http://supersonictv.live:8080/611199/278562/47730
 #EXTINF:-1 tvg-id="cookingchannel.us" tvg-name="Cooking Channel" tvg-logo="https://docdog.top/Logotv/countries//cookingchannel.png" group-title="Cable",Cooking Channel
 http://supersonictv.live:8080/611199/278562/22067
 #EXTINF:-1 tvg-id="courttv.us" tvg-name="COURT TV" tvg-logo="" group-title="Cable",COURT TV
@@ -111,9 +95,7 @@ http://supersonictv.live:8080/611199/278562/22075
 http://supersonictv.live:8080/611199/278562/22077
 #EXTINF:-1 tvg-id="discoveryvelocity.us" tvg-name="Discovery Velocity" tvg-logo="" group-title="Cable",Discovery Velocity
 http://supersonictv.live:8080/611199/278562/22078
-#EXTINF:-1 tvg-id="discoverywest.us" tvg-name="Discovery West" tvg-logo="" group-title="Cable",Discovery West
-http://supersonictv.live:8080/611199/278562/22079
-#EXTINF:-1 tvg-id="DisneyChannelEast.us" tvg-name="Disney Channel East" tvg-logo="https://docdog.top/Logotv/countries/disneychannel.png" group-title="Cable",Disney Channel East
+#EXTINF:-1 tvg-id="DisneyChannelEast.us" tvg-name="Disney Channel" tvg-logo="https://docdog.top/Logotv/countries/disneychannel.png" group-title="Cable",Disney Channel
 http://supersonictv.live:8080/611199/278562/21795
 #EXTINF:-1 tvg-id="disneychannelpaficic.us" tvg-name="Disney Channel Paficic" tvg-logo="https://docdog.top/Logotv/countries//disneychannel.png" group-title="Cable",Disney Channel Paficic
 http://supersonictv.live:8080/611199/278562/21797
@@ -121,56 +103,36 @@ http://supersonictv.live:8080/611199/278562/21797
 http://supersonictv.live:8080/611199/278562/21796
 #EXTINF:-1 tvg-id="DisneyJunior.us" tvg-name="Disney Junior" tvg-logo="https://docdog.top/Logotv/countries/disneyjunior.png" group-title="Cable",Disney Junior
 http://supersonictv.live:8080/611199/278562/21798
-#EXTINF:-1 tvg-id="disneyjuniorpacific.us" tvg-name="Disney Junior Pacific" tvg-logo="https://docdog.top/Logotv/countries//disneyjunior.png" group-title="Cable",Disney Junior Pacific
-http://supersonictv.live:8080/611199/278562/21800
-#EXTINF:-1 tvg-id="disneyjuniorwest.us" tvg-name="Disney Junior West" tvg-logo="https://docdog.top/Logotv/countries/germany/disney-channel-de.png" group-title="Cable",Disney Junior West
-http://supersonictv.live:8080/611199/278562/21799
 #EXTINF:-1 tvg-id="DisneyXDHD.us" tvg-name="Disney XD" tvg-logo="https://docdog.top/Logotv/countries/disneyxd.png" group-title="Cable",Disney XD
 http://supersonictv.live:8080/611199/278562/21801
-#EXTINF:-1 tvg-id="disneyxdpacific.us" tvg-name="Disney XD Pacific" tvg-logo="https://docdog.top/Logotv/countries/disneyxd.png" group-title="Cable",Disney XD Pacific
-http://supersonictv.live:8080/611199/278562/21803
-#EXTINF:-1 tvg-id="disneyxdwest.us" tvg-name="Disney XD West" tvg-logo="https://docdog.top/Logotv/countries//disneyxd.png" group-title="Cable",Disney XD West
-http://supersonictv.live:8080/611199/278562/21802
 #EXTINF:-1 tvg-id="DIYNetworkHD.us" tvg-name="DIY Network" tvg-logo="https://docdog.top/Logotv/countries//diynetwork.png" group-title="Cable",DIY Network
 http://supersonictv.live:8080/611199/278562/22080
 #EXTINF:-1 tvg-id="DogTV354.us" tvg-name="Dog TV" tvg-logo="https://docdog.top/Logotv/countries/united-states/dog-tv-us.png" group-title="Cable",Dog TV
 http://supersonictv.live:8080/611199/278562/47732
-#EXTINF:-1 tvg-id="E.us" tvg-name="E! East" tvg-logo="https://docdog.top/Logotv/countries/argentina/countrypic.png" group-title="Cable",E! East
+#EXTINF:-1 tvg-id="E.us" tvg-name="E!" tvg-logo="https://docdog.top/Logotv/countries/argentina/countrypic.png" group-title="Cable",E!
 http://supersonictv.live:8080/611199/278562/22081
-#EXTINF:-1 tvg-id="e!west.us" tvg-name="E! West" tvg-logo="https://docdog.top/Logotv/countries//entertainment.png" group-title="Cable",E! West
-http://supersonictv.live:8080/611199/278562/22082
 #EXTINF:-1 tvg-id="ESPNews.us" tvg-name="ESPN News" tvg-logo="https://docdog.top/Logotv/countries/argentina/espn-ar.png" group-title="Cable",ESPN News
 http://supersonictv.live:8080/611199/278562/21767
 #EXTINF:-1 tvg-id="EWTN.us" tvg-name="EWTN" tvg-logo="" group-title="Cable",EWTN
 http://supersonictv.live:8080/611199/278562/67835
 #EXTINF:-1 tvg-id="fetv.us" tvg-name="FETV" tvg-logo="" group-title="Cable",FETV
 http://supersonictv.live:8080/611199/278562/86404
-#EXTINF:-1 tvg-id="FoodNetwork.us" tvg-name="Food Network East" tvg-logo="https://docdog.top/Logotv/countries//foodnetwork.png" group-title="Cable",Food Network East
+#EXTINF:-1 tvg-id="FoodNetwork.us" tvg-name="Food Network" tvg-logo="https://docdog.top/Logotv/countries//foodnetwork.png" group-title="Cable",Food Network
 http://supersonictv.live:8080/611199/278562/22084
 #EXTINF:-1 tvg-id="foodnetworkwest.us" tvg-name="Food Network West" tvg-logo="https://docdog.top/Logotv/countries//foodnetwork.png" group-title="Cable",Food Network West
 http://supersonictv.live:8080/611199/278562/22085
-#EXTINF:-1 tvg-id="fox.us" tvg-name="Fox" tvg-logo="https://docdog.top/Logotv/countries/australia/fox-one-au.png" group-title="Cable",Fox
-http://supersonictv.live:8080/611199/278562/22086
 #EXTINF:-1 tvg-id="FoxBusinessNetwork.us" tvg-name="Fox Business" tvg-logo="https://docdog.top/Logotv/countries/argentina/countrypic.png" group-title="Cable",Fox Business
 http://supersonictv.live:8080/611199/278562/21769
-#EXTINF:-1 tvg-id="foxlifelatin.us" tvg-name="Fox Life Latin" tvg-logo="https://docdog.top/Logotv/countries//fox.png" group-title="Cable",Fox Life Latin
-http://supersonictv.live:8080/611199/278562/22087
 #EXTINF:-1 tvg-id="FOXNewsChannel.us" tvg-name="Fox News" tvg-logo="https://docdog.top/Logotv/countries/argentina/countrypic.png" group-title="Cable",Fox News
 http://supersonictv.live:8080/611199/278562/21768
 #EXTINF:-1 tvg-id="FreeformHD.us" tvg-name="Freeform" tvg-logo="" group-title="Cable",Freeform
 http://supersonictv.live:8080/611199/278562/21804
-#EXTINF:-1 tvg-id="freeformwest.us" tvg-name="FREEFORM WEST" tvg-logo="" group-title="Cable",FREEFORM WEST
-http://supersonictv.live:8080/611199/278562/21805
-#EXTINF:-1 tvg-id="FX.us" tvg-name="FX East" tvg-logo="https://docdog.top/Logotv/countries/argentina/fx-ar.png" group-title="Cable",FX East
+#EXTINF:-1 tvg-id="FX.us" tvg-name="FX" tvg-logo="https://docdog.top/Logotv/countries/argentina/fx-ar.png" group-title="Cable",FX
 http://supersonictv.live:8080/611199/278562/22091
-#EXTINF:-1 tvg-id="fxwest.us" tvg-name="FX West" tvg-logo="https://docdog.top/Logotv/countries//fx.png" group-title="Cable",FX West
-http://supersonictv.live:8080/611199/278562/22092
 #EXTINF:-1 tvg-id="fxm.us" tvg-name="FXM" tvg-logo="https://docdog.top/Logotv/countries/fx.png" group-title="Cable",FXM
 http://supersonictv.live:8080/611199/278562/22093
-#EXTINF:-1 tvg-id="fxxeast.us" tvg-name="FXX East" tvg-logo="https://docdog.top/Logotv/countries//fxx.png" group-title="Cable",FXX East
+#EXTINF:-1 tvg-id="fxxeast.us" tvg-name="FXX" tvg-logo="https://docdog.top/Logotv/countries//fxx.png" group-title="Cable",FXX
 http://supersonictv.live:8080/611199/278562/22094
-#EXTINF:-1 tvg-id="fxxwest.us" tvg-name="FXX West" tvg-logo="https://docdog.top/Logotv/countries//fxx.png" group-title="Cable",FXX West
-http://supersonictv.live:8080/611199/278562/22095
 #EXTINF:-1 tvg-id="fyi.us" tvg-name="FYI" tvg-logo="" group-title="Cable",FYI
 http://supersonictv.live:8080/611199/278562/22096
 #EXTINF:-1 tvg-id="gameshownetwork.us" tvg-name="Game Show Network" tvg-logo="https://docdog.top/Logotv/countries/united-states/game-show-network-us.png" group-title="Cable",Game Show Network
@@ -183,40 +145,30 @@ http://supersonictv.live:8080/611199/278562/22100
 http://supersonictv.live:8080/611199/278562/47733
 #EXTINF:-1 tvg-id="gustotv.us" tvg-name="GUSTO TV" tvg-logo="https://docdog.top/Logotv/countries/united-states/countrypic.png" group-title="Cable",GUSTO TV
 http://supersonictv.live:8080/611199/278562/77558
-#EXTINF:-1 tvg-id="hallmarkchanneleast.us" tvg-name="Hallmark Channel EAST" tvg-logo="https://docdog.top/Logotv/countries/united-states/hallmark-channel-us.png" group-title="Cable",Hallmark Channel EAST
+#EXTINF:-1 tvg-id="hallmarkchanneleast.us" tvg-name="Hallmark Channel" tvg-logo="https://docdog.top/Logotv/countries/united-states/hallmark-channel-us.png" group-title="Cable",Hallmark Channel
 http://supersonictv.live:8080/611199/278562/22891
-#EXTINF:-1 tvg-id="hallmarkchanneleast..us" tvg-name="Hallmark Channel East." tvg-logo="https://docdog.top/Logotv/countries/united-states/hallmark-channel-us.png" group-title="Cable",Hallmark Channel East.
-http://supersonictv.live:8080/611199/278562/22890
 #EXTINF:-1 tvg-id="hallmarkdrama.uhd.us" tvg-name="Hallmark Drama ." tvg-logo="https://docdog.top/Logotv/countries/united-states/hallmark-drama-us.png" group-title="Cable",Hallmark Drama .UHD
 http://supersonictv.live:8080/611199/278562/22892
-#EXTINF:-1 tvg-id="hallmarkmoviesandmysterieseast.us" tvg-name="Hallmark Movies & Mysteries East" tvg-logo="" group-title="Cable",Hallmark Movies & Mysteries East
+#EXTINF:-1 tvg-id="hallmarkmoviesandmysterieseast.us" tvg-name="Hallmark Movies & Mysteries" tvg-logo="" group-title="Cable",Hallmark Movies & Mysteries
 http://supersonictv.live:8080/611199/278562/22893
 #EXTINF:-1 tvg-id="heroesandicons.us" tvg-name="Heroes & Icons" tvg-logo="" group-title="Cable",Heroes & Icons
 http://supersonictv.live:8080/611199/278562/22102
-#EXTINF:-1 tvg-id="hgtveast.us" tvg-name="HGTV East" tvg-logo="https://docdog.top/Logotv/countries//hgtv.png" group-title="Cable",HGTV East
+#EXTINF:-1 tvg-id="hgtveast.us" tvg-name="HGTV" tvg-logo="https://docdog.top/Logotv/countries//hgtv.png" group-title="Cable",HGTV
 http://supersonictv.live:8080/611199/278562/22101
-#EXTINF:-1 tvg-id="hgtvwest.us" tvg-name="HGTV West" tvg-logo="https://docdog.top/Logotv/countries//hgtv.png" group-title="Cable",HGTV West
-http://supersonictv.live:8080/611199/278562/22103
 #EXTINF:-1 tvg-id="history.us" tvg-name="History" tvg-logo="https://docdog.top/Logotv/countries/argentina/history-channel-ar.png" group-title="Cable",History
 http://supersonictv.live:8080/611199/278562/22104
 #EXTINF:-1 tvg-id="hln.us" tvg-name="HLN" tvg-logo="https://docdog.top/Logotv/countries//hln.png" group-title="Cable",HLN
 http://supersonictv.live:8080/611199/278562/22107
-#EXTINF:-1 tvg-id="hln.us" tvg-name="HLN" tvg-logo="https://docdog.top/Logotv/countries//hln.png" group-title="Cable",HLN
-http://supersonictv.live:8080/611199/278562/21771
 #EXTINF:-1 tvg-id="hsn.us" tvg-name="HSN" tvg-logo="https://docdog.top/Logotv/countries/united-states/hsn-us.png" group-title="Cable",HSN
 http://supersonictv.live:8080/611199/278562/78405
-#EXTINF:-1 tvg-id="ifc.us" tvg-name="IFC" tvg-logo="https://docdog.top/Logotv/countries//ifc.png" group-title="Cable",IFC
-http://supersonictv.live:8080/611199/278562/22108
 #EXTINF:-1 tvg-id="indieplex.us" tvg-name="INDIEPLEX" tvg-logo="https://docdog.top/Logotv/countries//indieplex.png" group-title="Cable",INDIEPLEX
 http://supersonictv.live:8080/611199/278562/22903
 #EXTINF:-1 tvg-id="infowars.us" tvg-name="Info Wars" tvg-logo="" group-title="Cable",Info Wars
 http://supersonictv.live:8080/611199/278562/47735
 #EXTINF:-1 tvg-id="insp.us" tvg-name="INSP" tvg-logo="https://docdog.top/Logotv/countries/united-states/insp-us.png" group-title="Cable",INSP
 http://supersonictv.live:8080/611199/278562/22109
-#EXTINF:-1 tvg-id="investigationdiscoveryeast.us" tvg-name="Investigation Discovery East" tvg-logo="https://docdog.top/Logotv/countries//investigationdiscovery.png" group-title="Cable",Investigation Discovery East
+#EXTINF:-1 tvg-id="investigationdiscoveryeast.us" tvg-name="Investigation Discovery" tvg-logo="https://docdog.top/Logotv/countries//investigationdiscovery.png" group-title="Cable",Investigation Discovery
 http://supersonictv.live:8080/611199/278562/22110
-#EXTINF:-1 tvg-id="investigationdiscoverywest.us" tvg-name="Investigation Discovery West" tvg-logo="https://docdog.top/Logotv/countries//investigationdiscovery.png" group-title="Cable",Investigation Discovery West
-http://supersonictv.live:8080/611199/278562/22111
 #EXTINF:-1 tvg-id="iontv.us" tvg-name="ION TV" tvg-logo="https://docdog.top/Logotv/countries/united-states/countrypic.png" group-title="Cable",ION TV
 http://supersonictv.live:8080/611199/278562/77472
 #EXTINF:-1 tvg-id="justicecentral.us" tvg-name="JUSTICE CENTRAL" tvg-logo="" group-title="Cable",JUSTICE CENTRAL
@@ -225,9 +177,9 @@ http://supersonictv.live:8080/611199/278562/22112
 http://supersonictv.live:8080/611199/278562/22113
 #EXTINF:-1 tvg-id="lawandcrime.us" tvg-name="Law And Crime" tvg-logo="" group-title="Cable",Law And Crime
 http://supersonictv.live:8080/611199/278562/22114
-#EXTINF:-1 tvg-id="lifetimeeast.us" tvg-name="Lifetime East" tvg-logo="https://docdog.top/Logotv/countries/argentina/lifetime-ar.png" group-title="Cable",Lifetime East
+#EXTINF:-1 tvg-id="lifetimeeast.us" tvg-name="Lifetime" tvg-logo="https://docdog.top/Logotv/countries/argentina/lifetime-ar.png" group-title="Cable",Lifetime
 http://supersonictv.live:8080/611199/278562/22115
-#EXTINF:-1 tvg-id="lifetimemovienetworkeast.us" tvg-name="Lifetime Movie Network East" tvg-logo="https://docdog.top/Logotv/countries//lifetime.png" group-title="Cable",Lifetime Movie Network East
+#EXTINF:-1 tvg-id="lifetimemovienetworkeast.us" tvg-name="Lifetime Movie Network" tvg-logo="https://docdog.top/Logotv/countries//lifetime.png" group-title="Cable",Lifetime Movie Network
 http://supersonictv.live:8080/611199/278562/22904
 #EXTINF:-1 tvg-id="lifetimerealwomen.us" tvg-name="Lifetime Real Women" tvg-logo="https://docdog.top/Logotv/countries//lifetime.png" group-title="Cable",Lifetime Real Women
 http://supersonictv.live:8080/611199/278562/47736
@@ -257,18 +209,10 @@ http://supersonictv.live:8080/611199/278562/13753
 http://supersonictv.live:8080/611199/278562/22121
 #EXTINF:-1 tvg-id="natgeowild.us" tvg-name="Nat Geo WILD" tvg-logo="https://docdog.top/Logotv/countries//natgeowild.png" group-title="Cable",Nat Geo WILD
 http://supersonictv.live:8080/611199/278562/22122
-#EXTINF:-1 tvg-id="nationalgeographiceast.us" tvg-name="National Geographic East" tvg-logo="https://docdog.top/Logotv/countries//nationalgeographic.png" group-title="Cable",National Geographic East
+#EXTINF:-1 tvg-id="nationalgeographiceast.us" tvg-name="National Geographic" tvg-logo="https://docdog.top/Logotv/countries//nationalgeographic.png" group-title="Cable",National Geographic
 http://supersonictv.live:8080/611199/278562/22123
-#EXTINF:-1 tvg-id="nationalgeographicwest.us" tvg-name="National Geographic West" tvg-logo="https://docdog.top/Logotv/countries//nationalgeographic.png" group-title="Cable",National Geographic West
-http://supersonictv.live:8080/611199/278562/22124
-#EXTINF:-1 tvg-id="nbc.us" tvg-name="NBC" tvg-logo="https://docdog.top/Logotv/countries//nbc.png" group-title="Cable",NBC
-http://supersonictv.live:8080/611199/278562/22126
-#EXTINF:-1 tvg-id="network.us" tvg-name="NETWORK (WEST)" tvg-logo="https://docdog.top/Logotv/countries//network.png" group-title="Cable",NETWORK (WEST)
-http://supersonictv.live:8080/611199/278562/22175
-#EXTINF:-1 tvg-id="networkeast.us" tvg-name="Network East" tvg-logo="https://docdog.top/Logotv/countries//network.png" group-title="Cable",Network East
+#EXTINF:-1 tvg-id="networkeast.us" tvg-name="USA Network" tvg-logo="https://docdog.top/Logotv/countries//network.png" group-title="Cable",USA Network
 http://supersonictv.live:8080/611199/278562/22174
-#EXTINF:-1 tvg-id="networkwest.us" tvg-name="Network West" tvg-logo="" group-title="Cable",Network West
-http://supersonictv.live:8080/611199/278562/22129
 #EXTINF:-1 tvg-id="newenglandcablenews.us" tvg-name="New England Cable News" tvg-logo="" group-title="Cable",New England Cable News
 http://supersonictv.live:8080/611199/278562/40387
 #EXTINF:-1 tvg-id="newsmax.us" tvg-name="Newsmax" tvg-logo="" group-title="Cable",Newsmax
@@ -281,24 +225,26 @@ http://supersonictv.live:8080/611199/278562/21806
 http://supersonictv.live:8080/611199/278562/21808
 #EXTINF:-1 tvg-id="nicktoons.us" tvg-name="NickToons" tvg-logo="https://docdog.top/Logotv/countries//nicktoons.png" group-title="Cable",NickToons
 http://supersonictv.live:8080/611199/278562/21809
+#EXTINF:-1 tvg-id="usa:oneamericanewsnetwork.us" tvg-name="ONE AMERICA NEWS NETWORK" tvg-logo="https://docdog.top/Logotv/countries//usa.png" group-title="Cable",ONE AMERICA NEWS NETWORK
+http://supersonictv.live:8080/611199/278562/21784
 #EXTINF:-1 tvg-id="outdoorchannel.us" tvg-name="Outdoor Channel" tvg-logo="https://docdog.top/Logotv/countries//outdoorchannel.png" group-title="Cable",Outdoor Channel
 http://supersonictv.live:8080/611199/278562/22131
 #EXTINF:-1 tvg-id="outsidetv.us" tvg-name="Outside TV" tvg-logo="https://xplanetiptv.us/Logotv/countries/netherlands/out-tv-nl.png" group-title="Cable",Outside TV
 http://supersonictv.live:8080/611199/278562/22132
 #EXTINF:-1 tvg-id="ovation.us" tvg-name="Ovation" tvg-logo="" group-title="Cable",Ovation
 http://supersonictv.live:8080/611199/278562/22133
-#EXTINF:-1 tvg-id="owneast.us" tvg-name="OWN East" tvg-logo="https://docdog.top/Logotv/countries/united-states/countrypic.png" group-title="Cable",OWN East
+#EXTINF:-1 tvg-id="owneast.us" tvg-name="OWN" tvg-logo="https://docdog.top/Logotv/countries/united-states/countrypic.png" group-title="Cable",OWN
 http://supersonictv.live:8080/611199/278562/22130
-#EXTINF:-1 tvg-id="oxygeneast.us" tvg-name="Oxygen East" tvg-logo="https://docdog.top/Logotv/countries/united-states/oxygen-us.png" group-title="Cable",Oxygen East
+#EXTINF:-1 tvg-id="oxygeneast.us" tvg-name="Oxygen" tvg-logo="https://docdog.top/Logotv/countries/united-states/oxygen-us.png" group-title="Cable",Oxygen
 http://supersonictv.live:8080/611199/278562/22134
-#EXTINF:-1 tvg-id="oxygenwest.us" tvg-name="Oxygen West" tvg-logo="https://docdog.top/Logotv/countries/united-states/oxygen-us.png" group-title="Cable",Oxygen West
-http://supersonictv.live:8080/611199/278562/22135
-#EXTINF:-1 tvg-id="paramounteast.us" tvg-name="Paramount East" tvg-logo="https://docdog.top/Logotv/countries/argentina/paramount-network-ar.png" group-title="Cable",Paramount East
+#EXTINF:-1 tvg-id="paramounteast.us" tvg-name="Paramount" tvg-logo="https://docdog.top/Logotv/countries/argentina/paramount-network-ar.png" group-title="Cable",Paramount
 http://supersonictv.live:8080/611199/278562/22906
 #EXTINF:-1 tvg-id="pbskids.us" tvg-name="PBS Kids" tvg-logo="https://docdog.top/Logotv/countries//pbskids.png" group-title="Cable",PBS Kids
 http://supersonictv.live:8080/611199/278562/21810
 #EXTINF:-1 tvg-id="pursuit.us" tvg-name="Pursuit" tvg-logo="" group-title="Cable",Pursuit
 http://supersonictv.live:8080/611199/278562/22140
+#EXTINF:-1 tvg-id="usa:rfdtv.us" tvg-name="RFD-TV" tvg-logo="" group-title="Cable",RFD-TV
+http://supersonictv.live:8080/611199/278562/22146
 #EXTINF:-1 tvg-id="ridetv.us" tvg-name="Ride TV" tvg-logo="" group-title="Cable",Ride TV
 http://supersonictv.live:8080/611199/278562/22144
 #EXTINF:-1 tvg-id="science.us" tvg-name="Science" tvg-logo="" group-title="Cable",Science
@@ -309,21 +255,19 @@ http://supersonictv.live:8080/611199/278562/22147
 http://supersonictv.live:8080/611199/278562/22148
 #EXTINF:-1 tvg-id="sny.us" tvg-name="SNY" tvg-logo="" group-title="Cable",SNY
 http://supersonictv.live:8080/611199/278562/22150
+#EXTINF:-1 tvg-id="usa:sportsmanchannel.us" tvg-name="SPORTSMAN CHANNEL" tvg-logo="" group-title="Cable",SPORTSMAN CHANNEL
+http://supersonictv.live:8080/611199/278562/22149
 #EXTINF:-1 tvg-id="starttv.us" tvg-name="Start TV" tvg-logo="https://docdog.top/Logotv/countries/greece/start-tv-gr.png" group-title="Cable",Start TV
 http://supersonictv.live:8080/611199/278562/86401
 #EXTINF:-1 tvg-id="sundancetv.us" tvg-name="Sundance TV" tvg-logo="https://docdog.top/Logotv/countries//sundance.png" group-title="Cable",Sundance TV
 http://supersonictv.live:8080/611199/278562/22152
 #EXTINF:-1 tvg-id="syfy.us" tvg-name="Syfy" tvg-logo="https://docdog.top/Logotv/countries//syfy.png" group-title="Cable",Syfy
 http://supersonictv.live:8080/611199/278562/22946
-#EXTINF:-1 tvg-id="syfyeast.us" tvg-name="Syfy East" tvg-logo="https://docdog.top/Logotv/countries/argentina/syfy-ar.png" group-title="Cable",Syfy East
-http://supersonictv.live:8080/611199/278562/22947
-#EXTINF:-1 tvg-id="syfywest.us" tvg-name="Syfy West" tvg-logo="https://docdog.top/Logotv/countries//syfy.png" group-title="Cable",Syfy West
-http://supersonictv.live:8080/611199/278562/22948
 #EXTINF:-1 tvg-id="tbdtv.us" tvg-name="TBD TV" tvg-logo="" group-title="Cable",TBD TV
 http://supersonictv.live:8080/611199/278562/47741
 #EXTINF:-1 tvg-id="tbn.us" tvg-name="TBN" tvg-logo="https://docdog.top/Logotv/countries/united-states/tbn-us.png" group-title="Cable",TBN
 http://supersonictv.live:8080/611199/278562/77555
-#EXTINF:-1 tvg-id="tbseast.us" tvg-name="TBS East" tvg-logo="https://docdog.top/Logotv/countries/tbs.png" group-title="Cable",TBS East
+#EXTINF:-1 tvg-id="tbseast.us" tvg-name="TBS" tvg-logo="https://docdog.top/Logotv/countries/tbs.png" group-title="Cable",TBS
 http://supersonictv.live:8080/611199/278562/22154
 #EXTINF:-1 tvg-id="tbswest.us" tvg-name="TBS West" tvg-logo="https://docdog.top/Logotv/countries//tbs.png" group-title="Cable",TBS West
 http://supersonictv.live:8080/611199/278562/22155
@@ -339,17 +283,15 @@ http://supersonictv.live:8080/611199/278562/47742
 http://supersonictv.live:8080/611199/278562/21787
 #EXTINF:-1 tvg-id="tlc.us" tvg-name="TLC" tvg-logo="https://docdog.top/Logotv/countries//tlc.png" group-title="Cable",TLC
 http://supersonictv.live:8080/611199/278562/22157
-#EXTINF:-1 tvg-id="tlcwest.us" tvg-name="TLC West" tvg-logo="https://docdog.top/Logotv/countries//tlc.png" group-title="Cable",TLC West
-http://supersonictv.live:8080/611199/278562/22158
 #EXTINF:-1 tvg-id="tmz.us" tvg-name="TMZ" tvg-logo="" group-title="Cable",TMZ
 http://supersonictv.live:8080/611199/278562/47743
-#EXTINF:-1 tvg-id="tnteast.us" tvg-name="TNT East" tvg-logo="https://docdog.top/Logotv/countries/argentina/tn-todo-noticias-ar.png" group-title="Cable",TNT East
+#EXTINF:-1 tvg-id="tnteast.us" tvg-name="TNT" tvg-logo="https://docdog.top/Logotv/countries/argentina/tn-todo-noticias-ar.png" group-title="Cable",TNT
 http://supersonictv.live:8080/611199/278562/22159
 #EXTINF:-1 tvg-id="tntwest.us" tvg-name="TNT West" tvg-logo="https://docdog.top/Logotv/countries/argentina/tnt-ar.png" group-title="Cable",TNT West
 http://supersonictv.live:8080/611199/278562/22161
-#EXTINF:-1 tvg-id="traveleast.us" tvg-name="Travel East" tvg-logo="" group-title="Cable",Travel East
+#EXTINF:-1 tvg-id="traveleast.us" tvg-name="Travel" tvg-logo="" group-title="Cable",Travel
 http://supersonictv.live:8080/611199/278562/22162
-#EXTINF:-1 tvg-id="trutveast.us" tvg-name="TruTV East" tvg-logo="https://docdog.top/Logotv/countries/argentina/tru-tv-ar.png" group-title="Cable",TruTV East
+#EXTINF:-1 tvg-id="trutveast.us" tvg-name="TruTV" tvg-logo="https://docdog.top/Logotv/countries/argentina/tru-tv-ar.png" group-title="Cable",TruTV
 http://supersonictv.live:8080/611199/278562/22164
 #EXTINF:-1 tvg-id="trutvwest.us" tvg-name="truTV West" tvg-logo="https://docdog.top/Logotv/countries/argentina/tru-tv-ar.png" group-title="Cable",truTV West
 http://supersonictv.live:8080/611199/278562/22165
@@ -365,32 +307,18 @@ http://supersonictv.live:8080/611199/278562/22169
 http://supersonictv.live:8080/611199/278562/22177
 #EXTINF:-1 tvg-id="universalkids.us" tvg-name="Universal Kids" tvg-logo="https://docdog.top/Logotv/countries/argentina/studio-universal-ar.png" group-title="Cable",Universal Kids
 http://supersonictv.live:8080/611199/278562/21812
-#EXTINF:-1 tvg-id="universowest.us" tvg-name="Universo West" tvg-logo="https://docdog.top/Logotv/countries//universo.png" group-title="Cable",Universo West
-http://supersonictv.live:8080/611199/278562/22171
-#EXTINF:-1 tvg-id="univisioneast.us" tvg-name="Univision East" tvg-logo="https://docdog.top/Logotv/countries//univision.png" group-title="Cable",Univision East
-http://supersonictv.live:8080/611199/278562/22173
 #EXTINF:-1 tvg-id="uptv.us" tvg-name="UP TV" tvg-logo="" group-title="Cable",UP TV
 http://supersonictv.live:8080/611199/278562/47744
 #EXTINF:-1 tvg-id="usanetworkpacific.us" tvg-name="Usa Network Pacific" tvg-logo="https://docdog.top/Logotv/countries/united-states/usa-us.png" group-title="Cable",Usa Network Pacific
 http://supersonictv.live:8080/611199/278562/22176
-#EXTINF:-1 tvg-id="usa:adultswim.us" tvg-name="USA: ADULT SWIM" tvg-logo="https://docdog.top/Logotv/countries//usa.png" group-title="Cable",USA: ADULT SWIM
-http://supersonictv.live:8080/611199/278562/22043
-#EXTINF:-1 tvg-id="usa:oneamericanewsnetwork.us" tvg-name="USA: ONE AMERICA NEWS NETWORK" tvg-logo="https://docdog.top/Logotv/countries//usa.png" group-title="Cable",USA: ONE AMERICA NEWS NETWORK
-http://supersonictv.live:8080/611199/278562/21784
-#EXTINF:-1 tvg-id="usa:rfdtv.us" tvg-name="USA: RFD-TV" tvg-logo="" group-title="Cable",USA: RFD-TV
-http://supersonictv.live:8080/611199/278562/22146
-#EXTINF:-1 tvg-id="usa:sportsmanchannel.us" tvg-name="USA: SPORTSMAN CHANNEL" tvg-logo="" group-title="Cable",USA: SPORTSMAN CHANNEL
-http://supersonictv.live:8080/611199/278562/22149
-#EXTINF:-1 tvg-id="usa:wgnamerica.us" tvg-name="USA: WGN AMERICA" tvg-logo="" group-title="Cable",USA: WGN AMERICA
-http://supersonictv.live:8080/611199/278562/22184
 #EXTINF:-1 tvg-id="vh1.us" tvg-name="VH1" tvg-logo="https://docdog.top/Logotv/countries/argentina/countrypic.png" group-title="Cable",VH1
 http://supersonictv.live:8080/611199/278562/22178
 #EXTINF:-1 tvg-id="viceland.us" tvg-name="Viceland" tvg-logo="https://docdog.top/Logotv/countries/viceland.png" group-title="Cable",Viceland
 http://supersonictv.live:8080/611199/278562/22180
-#EXTINF:-1 tvg-id="wapaamerica.us" tvg-name="Wapa America" tvg-logo="" group-title="Cable",Wapa America
-http://supersonictv.live:8080/611199/278562/22181
 #EXTINF:-1 tvg-id="wetv.us" tvg-name="WE TV" tvg-logo="https://docdog.top/Logotv/countries//wetv.png" group-title="Cable",WE TV
 http://supersonictv.live:8080/611199/278562/22182
+#EXTINF:-1 tvg-id="usa:wgnamerica.us" tvg-name="WGN AMERICA" tvg-logo="" group-title="Cable",WGN AMERICA
+http://supersonictv.live:8080/611199/278562/22184
 #EXTINF:-1 tvg-id="worldfishingnetwork.us" tvg-name="World Fishing Network" tvg-logo="https://docdog.top/Logotv/countries//worldfishingnetwork.png" group-title="Cable",World Fishing Network
 http://supersonictv.live:8080/611199/278562/22183
 #EXTINF:-1 tvg-id="5starmax.us" tvg-name="5STARMAX" tvg-logo="" group-title="Movies",5STARMAX
@@ -475,12 +403,8 @@ https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12701
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/22640
 #EXTINF:-1 tvg-id="starzkidsandfamily.us" tvg-name="STARZ KIDS AND FAMILY " tvg-logo="https://docdog.top/Logotv/countries/greece/start-tv-gr.png" group-title="Movies",STARZ KIDS AND FAMILY 
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12699
-#EXTINF:-1 tvg-id="beachtvkeywestfloridakeys.us" tvg-name="Beach TV Key West - Florida Keys" tvg-logo="" group-title="Music",Beach TV Key West - Florida Keys
-http://supersonictv.live:8080/611199/278562/77550
 #EXTINF:-1 tvg-id="mcvideo|musicchoicemax.us" tvg-name="MC Video | Music Choice Max" tvg-logo="" group-title="Music",MC Video | Music Choice Max
 http://supersonictv.live:8080/611199/278562/13719
-#EXTINF:-1 tvg-id="mcvideo|musicaurbana.us" tvg-name="MC Video | Musica Urbana" tvg-logo="" group-title="Music",MC Video | Musica Urbana
-http://supersonictv.live:8080/611199/278562/13720
 #EXTINF:-1 tvg-id="musicchoicevideo|90*s.us" tvg-name="Music Choice Video | 90*s" tvg-logo="" group-title="Music",Music Choice Video | 90*s
 http://supersonictv.live:8080/611199/278562/13731
 #EXTINF:-1 tvg-id="musicchoicevideo|hiphopandrandb.us" tvg-name="Music Choice Video | Hip-Hop and R&B" tvg-logo="" group-title="Music",Music Choice Video | Hip-Hop and R&B
@@ -491,14 +415,10 @@ http://supersonictv.live:8080/611199/278562/13723
 http://supersonictv.live:8080/611199/278562/13747
 #EXTINF:-1 tvg-id="musicchoicevideo|metal.us" tvg-name="Music Choice Video | Metal" tvg-logo="" group-title="Music",Music Choice Video | Metal
 http://supersonictv.live:8080/611199/278562/13744
-#EXTINF:-1 tvg-id="musicchoicevideo|mexicana.us" tvg-name="Music Choice Video | Mexicana" tvg-logo="" group-title="Music",Music Choice Video | Mexicana
-http://supersonictv.live:8080/611199/278562/13743
 #EXTINF:-1 tvg-id="musicchoicevideo|popandcountry.us" tvg-name="Music Choice Video | Pop & Country" tvg-logo="" group-title="Music",Music Choice Video | Pop & Country
 http://supersonictv.live:8080/611199/278562/13730
 #EXTINF:-1 tvg-id="musicchoicevideo|pophits.us" tvg-name="Music Choice Video | Pop Hits" tvg-logo="" group-title="Music",Music Choice Video | Pop Hits
 http://supersonictv.live:8080/611199/278562/13729
-#EXTINF:-1 tvg-id="musicchoicevideo|poplatino.us" tvg-name="Music Choice Video | Pop Latino" tvg-logo="" group-title="Music",Music Choice Video | Pop Latino
-http://supersonictv.live:8080/611199/278562/13738
 #EXTINF:-1 tvg-id="musicchoicevideo|randb.us" tvg-name="Music Choice Video | R&B" tvg-logo="" group-title="Music",Music Choice Video | R&B
 http://supersonictv.live:8080/611199/278562/13732
 #EXTINF:-1 tvg-id="musicchoicevideo|rap2k.us" tvg-name="Music Choice Video | Rap 2K" tvg-logo="" group-title="Music",Music Choice Video | Rap 2K
@@ -511,8 +431,6 @@ http://supersonictv.live:8080/611199/278562/13740
 http://supersonictv.live:8080/611199/278562/13728
 #EXTINF:-1 tvg-id="musicchoicevideo|y2k.us" tvg-name="Music Choice Video | Y2K" tvg-logo="" group-title="Music",Music Choice Video | Y2K
 http://supersonictv.live:8080/611199/278562/13736
-#EXTINF:-1 tvg-id="stingrayambience.us" tvg-name="Stingray Ambience (1080p)" tvg-logo="" group-title="Music",Stingray Ambience (1080p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziostingrayambiance/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="stingrayclassicrock.us" tvg-name="Stingray Classic Rock (1080p)" tvg-logo="" group-title="Music",Stingray Classic Rock (1080p)
 https://xumo-redbox.ott-channels.stingray.com/101/master.m3u8
 #EXTINF:-1 tvg-id="stingrayclassicrock.us" tvg-name="Stingray Classic Rock (1080p) [Not 24/7]" tvg-logo="" group-title="Music",Stingray Classic Rock (1080p) [Not 24/7]
@@ -531,8 +449,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayhotcountry/CDN/play
 https://xumo-redbox.ott-channels.stingray.com/108/master.m3u8
 #EXTINF:-1 tvg-id="stingraynaturescape.us" tvg-name="Stingray Naturescape (360p)" tvg-logo="" group-title="Music",Stingray Naturescape (360p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraynaturescape/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="stingrayqelloconcerts.us" tvg-name="Stingray Qello Concerts (1080p)" tvg-logo="" group-title="Music",Stingray Qello Concerts (1080p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-vizioqelloconcerts/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="stingraysoulstorm.us" tvg-name="Stingray Soul Storm (1080p)" tvg-logo="" group-title="Music",Stingray Soul Storm (1080p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraysoulstorm/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="stingraysoulstorm.us" tvg-name="Stingray Soul Storm (1080p)" tvg-logo="" group-title="Music",Stingray Soul Storm (1080p)
