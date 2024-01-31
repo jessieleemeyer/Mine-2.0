@@ -211,8 +211,6 @@ http://supersonictv.live:8080/611199/278562/22121
 http://supersonictv.live:8080/611199/278562/22122
 #EXTINF:-1 tvg-id="nationalgeographiceast.us" tvg-name="National Geographic" tvg-logo="https://docdog.top/Logotv/countries//nationalgeographic.png" group-title="Cable",National Geographic
 http://supersonictv.live:8080/611199/278562/22123
-#EXTINF:-1 tvg-id="networkeast.us" tvg-name="USA Network" tvg-logo="https://docdog.top/Logotv/countries//network.png" group-title="Cable",USA Network
-http://supersonictv.live:8080/611199/278562/22174
 #EXTINF:-1 tvg-id="newenglandcablenews.us" tvg-name="New England Cable News" tvg-logo="" group-title="Cable",New England Cable News
 http://supersonictv.live:8080/611199/278562/40387
 #EXTINF:-1 tvg-id="newsmax.us" tvg-name="Newsmax" tvg-logo="" group-title="Cable",Newsmax
@@ -309,6 +307,8 @@ http://supersonictv.live:8080/611199/278562/22177
 http://supersonictv.live:8080/611199/278562/21812
 #EXTINF:-1 tvg-id="uptv.us" tvg-name="UP TV" tvg-logo="" group-title="Cable",UP TV
 http://supersonictv.live:8080/611199/278562/47744
+#EXTINF:-1 tvg-id="networkeast.us" tvg-name="USA Network" tvg-logo="https://docdog.top/Logotv/countries//network.png" group-title="Cable",USA Network
+http://supersonictv.live:8080/611199/278562/22174
 #EXTINF:-1 tvg-id="usanetworkpacific.us" tvg-name="Usa Network Pacific" tvg-logo="https://docdog.top/Logotv/countries/united-states/usa-us.png" group-title="Cable",Usa Network Pacific
 http://supersonictv.live:8080/611199/278562/22176
 #EXTINF:-1 tvg-id="vh1.us" tvg-name="VH1" tvg-logo="https://docdog.top/Logotv/countries/argentina/countrypic.png" group-title="Cable",VH1
@@ -403,53 +403,53 @@ https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12701
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/22640
 #EXTINF:-1 tvg-id="starzkidsandfamily.us" tvg-name="STARZ KIDS AND FAMILY " tvg-logo="https://docdog.top/Logotv/countries/greece/start-tv-gr.png" group-title="Movies",STARZ KIDS AND FAMILY 
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12699
-#EXTINF:-1 tvg-id="mcvideo|musicchoicemax.us" tvg-name="MC Video | Music Choice Max" tvg-logo="" group-title="Music",MC Video | Music Choice Max
+#EXTINF:-1 tvg-id="mcvideo|musicchoicemax.us" tvg-name="Music Choice Max" tvg-logo="" group-title="Music",Music Choice Max
 http://supersonictv.live:8080/611199/278562/13719
-#EXTINF:-1 tvg-id="musicchoicevideo|90*s.us" tvg-name="Music Choice Video | 90*s" tvg-logo="" group-title="Music",Music Choice Video | 90*s
+#EXTINF:-1 tvg-id="musicchoicevideo|90*s.us" tvg-name="Music Choice 90*s" tvg-logo="" group-title="Music",Music Choice 90*s
 http://supersonictv.live:8080/611199/278562/13731
-#EXTINF:-1 tvg-id="musicchoicevideo|hiphopandrandb.us" tvg-name="Music Choice Video | Hip-Hop and R&B" tvg-logo="" group-title="Music",Music Choice Video | Hip-Hop and R&B
+#EXTINF:-1 tvg-id="musicchoicevideo|hiphopandrandb.us" tvg-name="Music Choice Hip-Hop and R&B" tvg-logo="" group-title="Music",Music Choice Hip-Hop and R&B
 http://supersonictv.live:8080/611199/278562/13726
-#EXTINF:-1 tvg-id="musicchoicevideo|holidayyulelogs.us" tvg-name="Music Choice Video | Holiday Yule Logs" tvg-logo="" group-title="Music",Music Choice Video | Holiday Yule Logs
+#EXTINF:-1 tvg-id="musicchoicevideo|holidayyulelogs.us" tvg-name="Music Choice Holiday Yule Logs" tvg-logo="" group-title="Music",Music Choice Holiday Yule Logs
 http://supersonictv.live:8080/611199/278562/13723
-#EXTINF:-1 tvg-id="musicchoicevideo|kidzonly!.us" tvg-name="Music Choice Video | Kidz Only!" tvg-logo="" group-title="Music",Music Choice Video | Kidz Only!
+#EXTINF:-1 tvg-id="musicchoicevideo|kidzonly!.us" tvg-name="Music Choice Kidz Only!" tvg-logo="" group-title="Music",Music Choice Kidz Only!
 http://supersonictv.live:8080/611199/278562/13747
-#EXTINF:-1 tvg-id="musicchoicevideo|metal.us" tvg-name="Music Choice Video | Metal" tvg-logo="" group-title="Music",Music Choice Video | Metal
+#EXTINF:-1 tvg-id="musicchoicevideo|metal.us" tvg-name="Music Choice Metal" tvg-logo="" group-title="Music",Music Choice Metal
 http://supersonictv.live:8080/611199/278562/13744
-#EXTINF:-1 tvg-id="musicchoicevideo|popandcountry.us" tvg-name="Music Choice Video | Pop & Country" tvg-logo="" group-title="Music",Music Choice Video | Pop & Country
+#EXTINF:-1 tvg-id="musicchoicevideo|popandcountry.us" tvg-name="Music Choice Pop & Country" tvg-logo="" group-title="Music",Music Choice Pop & Country
 http://supersonictv.live:8080/611199/278562/13730
-#EXTINF:-1 tvg-id="musicchoicevideo|pophits.us" tvg-name="Music Choice Video | Pop Hits" tvg-logo="" group-title="Music",Music Choice Video | Pop Hits
+#EXTINF:-1 tvg-id="musicchoicevideo|pophits.us" tvg-name="Music Choice Pop Hits" tvg-logo="" group-title="Music",Music Choice Pop Hits
 http://supersonictv.live:8080/611199/278562/13729
-#EXTINF:-1 tvg-id="musicchoicevideo|randb.us" tvg-name="Music Choice Video | R&B" tvg-logo="" group-title="Music",Music Choice Video | R&B
+#EXTINF:-1 tvg-id="musicchoicevideo|randb.us" tvg-name="Music Choice R&B" tvg-logo="" group-title="Music",Music Choice R&B
 http://supersonictv.live:8080/611199/278562/13732
-#EXTINF:-1 tvg-id="musicchoicevideo|rap2k.us" tvg-name="Music Choice Video | Rap 2K" tvg-logo="" group-title="Music",Music Choice Video | Rap 2K
+#EXTINF:-1 tvg-id="musicchoicevideo|rap2k.us" tvg-name="Music Choice Rap 2K" tvg-logo="" group-title="Music",Music Choice Rap 2K
 http://supersonictv.live:8080/611199/278562/13741
-#EXTINF:-1 tvg-id="musicchoicevideo|rock.us" tvg-name="Music Choice Video | Rock" tvg-logo="" group-title="Music",Music Choice Video | Rock
+#EXTINF:-1 tvg-id="musicchoicevideo|rock.us" tvg-name="Music Choice Rock" tvg-logo="" group-title="Music",Music Choice Rock
 http://supersonictv.live:8080/611199/278562/13733
-#EXTINF:-1 tvg-id="musicchoicevideo|throwbackjamz.us" tvg-name="Music Choice Video | Throwback Jamz" tvg-logo="" group-title="Music",Music Choice Video | Throwback Jamz
+#EXTINF:-1 tvg-id="musicchoicevideo|throwbackjamz.us" tvg-name="Music Choice Throwback Jamz" tvg-logo="" group-title="Music",Music Choice Throwback Jamz
 http://supersonictv.live:8080/611199/278562/13740
-#EXTINF:-1 tvg-id="musicchoicevideo|today*scountry:cmaawards.us" tvg-name="Music Choice Video | Today*s Country: CMA Awards" tvg-logo="" group-title="Music",Music Choice Video | Today*s Country: CMA Awards
+#EXTINF:-1 tvg-id="musicchoicevideo|today*scountry:cmaawards.us" tvg-name="Music Choice Today*s Country: CMA Awards" tvg-logo="" group-title="Music",Music Choice Today*s Country: CMA Awards
 http://supersonictv.live:8080/611199/278562/13728
-#EXTINF:-1 tvg-id="musicchoicevideo|y2k.us" tvg-name="Music Choice Video | Y2K" tvg-logo="" group-title="Music",Music Choice Video | Y2K
+#EXTINF:-1 tvg-id="musicchoicevideo|y2k.us" tvg-name="Music Choice Y2K" tvg-logo="" group-title="Music",Music Choice Y2K
 http://supersonictv.live:8080/611199/278562/13736
-#EXTINF:-1 tvg-id="stingrayclassicrock.us" tvg-name="Stingray Classic Rock (1080p)" tvg-logo="" group-title="Music",Stingray Classic Rock (1080p)
+#EXTINF:-1 tvg-id="stingrayclassicrock.us" tvg-name="Stingray Classic Rock" tvg-logo="" group-title="Music",Stingray Classic Rock
 https://xumo-redbox.ott-channels.stingray.com/101/master.m3u8
-#EXTINF:-1 tvg-id="stingrayclassicrock.us" tvg-name="Stingray Classic Rock (1080p) [Not 24/7]" tvg-logo="" group-title="Music",Stingray Classic Rock (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="stingrayclassicrock.us" tvg-name="Stingray Classic Rock" tvg-logo="" group-title="Music",Stingray Classic Rock
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayclassicrock/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="stingraygreatesthits.us" tvg-name="Stingray Greatest Hits (1080p)" tvg-logo="" group-title="Music",Stingray Greatest Hits (1080p)
+#EXTINF:-1 tvg-id="stingraygreatesthits.us" tvg-name="Stingray Greatest Hits" tvg-logo="" group-title="Music",Stingray Greatest Hits
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraygreatesthits/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="stingraygreatesthits.us" tvg-name="Stingray Greatest Hits (1080p)" tvg-logo="" group-title="Music",Stingray Greatest Hits (1080p)
+#EXTINF:-1 tvg-id="stingraygreatesthits.us" tvg-name="Stingray Greatest Hits" tvg-logo="" group-title="Music",Stingray Greatest Hits
 https://xumo-redbox.ott-channels.stingray.com/155/master.m3u8
-#EXTINF:-1 tvg-id="stingrayhitlist.us" tvg-name="Stingray Hit List (1080p)" tvg-logo="" group-title="Music",Stingray Hit List (1080p)
+#EXTINF:-1 tvg-id="stingrayhitlist.us" tvg-name="Stingray Hit List" tvg-logo="" group-title="Music",Stingray Hit List
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayhitlist/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="stingrayhitlist.us" tvg-name="Stingray Hit List (1080p)" tvg-logo="" group-title="Music",Stingray Hit List (1080p)
+#EXTINF:-1 tvg-id="stingrayhitlist.us" tvg-name="Stingray Hit List" tvg-logo="" group-title="Music",Stingray Hit List
 https://xumo-redbox.ott-channels.stingray.com/107/master.m3u8
-#EXTINF:-1 tvg-id="stingrayhotcountry.us" tvg-name="Stingray Hot Country (1080p)" tvg-logo="" group-title="Music",Stingray Hot Country (1080p)
+#EXTINF:-1 tvg-id="stingrayhotcountry.us" tvg-name="Stingray Hot Country" tvg-logo="" group-title="Music",Stingray Hot Country
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayhotcountry/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="stingrayhotcountry.us" tvg-name="Stingray Hot Country (1080p)" tvg-logo="" group-title="Music",Stingray Hot Country (1080p)
+#EXTINF:-1 tvg-id="stingrayhotcountry.us" tvg-name="Stingray Hot Country" tvg-logo="" group-title="Music",Stingray Hot Country
 https://xumo-redbox.ott-channels.stingray.com/108/master.m3u8
-#EXTINF:-1 tvg-id="stingraynaturescape.us" tvg-name="Stingray Naturescape (360p)" tvg-logo="" group-title="Music",Stingray Naturescape (360p)
+#EXTINF:-1 tvg-id="stingraynaturescape.us" tvg-name="Stingray Naturescape" tvg-logo="" group-title="Music",Stingray Naturescape
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraynaturescape/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="stingraysoulstorm.us" tvg-name="Stingray Soul Storm (1080p)" tvg-logo="" group-title="Music",Stingray Soul Storm (1080p)
+#EXTINF:-1 tvg-id="stingraysoulstorm.us" tvg-name="Stingray Soul Storm" tvg-logo="" group-title="Music",Stingray Soul Storm
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraysoulstorm/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="stingraysoulstorm.us" tvg-name="Stingray Soul Storm (1080p)" tvg-logo="" group-title="Music",Stingray Soul Storm (1080p)
+#EXTINF:-1 tvg-id="stingraysoulstorm.us" tvg-name="Stingray Soul Storm" tvg-logo="" group-title="Music",Stingray Soul Storm
 https://xumo-redbox.ott-channels.stingray.com/134/master.m3u8
