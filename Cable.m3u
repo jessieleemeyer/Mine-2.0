@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ext" tvg-name="PBS Kids" tvg-logo="" group-title="Local",PBS Kids
 http://supersonictv.live:8080/880771/489382/21810
-#EXTINF:-1 tvg-id="ext" tvg-name="PBS Kids SD" tvg-logo="" group-title="Local",PBS Kids SD
-http://supersonictv.live:8080/880771/489382/78541
 #EXTINF:-1 tvg-id="ext" tvg-name="WAVE" tvg-logo="" group-title="Local",WAVE
 http://supersonictv.live:8080/880771/489382/71620
 #EXTINF:-1 tvg-id="ext" tvg-name="WBBM" tvg-logo="" group-title="Local",WBBM
@@ -35,7 +33,7 @@ http://supersonictv.live:8080/880771/489382/78512
 http://supersonictv.live:8080/880771/489382/78513
 #EXTINF:-1 tvg-id="ext" tvg-name="WVTV" tvg-logo="" group-title="Local",WVTV
 http://supersonictv.live:8080/880771/489382/71653
-#EXTINF:-1 tvg-id="ext" tvg-name="!YES Network" tvg-logo="" group-title="Cable",!YES Network
+#EXTINF:-1 tvg-id="ext" tvg-name="YES Network" tvg-logo="" group-title="Cable",YES Network
 http://supersonictv.live:8080/880771/489382/40438
 #EXTINF:-1 tvg-id="ext" tvg-name="A&E" tvg-logo="" group-title="Cable",A&E
 http://supersonictv.live:8080/880771/489382/22040
@@ -501,94 +499,94 @@ http://supersonictv.live:8080/880771/489382/13719
 http://supersonictv.live:8080/880771/489382/13721
 #EXTINF:-1 tvg-id="ext" tvg-name="Musica Urbana" tvg-logo="" group-title="Music",Musica Urbana
 http://supersonictv.live:8080/880771/489382/13720
-#EXTINF:-1 tvg-id="ext" tvg-name="Music Choice90*s" tvg-logo="" group-title="Music",Music Choice90*s
+#EXTINF:-1 tvg-id="ext" tvg-name="Music Choice 90*s" tvg-logo="" group-title="Music",Music Choice 90*s
 http://supersonictv.live:8080/880771/489382/13731
-#EXTINF:-1 tvg-id="ext" tvg-name="Music ChoiceAlternative" tvg-logo="" group-title="Music",Music ChoiceAlternative
+#EXTINF:-1 tvg-id="ext" tvg-name="Music Choice Alternative" tvg-logo="" group-title="Music",Music Choice Alternative
 http://supersonictv.live:8080/880771/489382/13745
-#EXTINF:-1 tvg-id="ext" tvg-name="Music ChoiceBrits + Hits" tvg-logo="" group-title="Music",Music ChoiceBrits + Hits
+#EXTINF:-1 tvg-id="ext" tvg-name="Music Choice Brits + Hits" tvg-logo="" group-title="Music",Music Choice Brits + Hits
 http://supersonictv.live:8080/880771/489382/13737
-#EXTINF:-1 tvg-id="ext" tvg-name="Music ChoiceDance/ EDM" tvg-logo="" group-title="Music",Music ChoiceDance/ EDM
+#EXTINF:-1 tvg-id="ext" tvg-name="Music Choice Dance/ EDM" tvg-logo="" group-title="Music",Music Choice Dance/ EDM
 http://supersonictv.live:8080/880771/489382/13735
-#EXTINF:-1 tvg-id="ext" tvg-name="Music ChoiceHip-Hop and R&B" tvg-logo="" group-title="Music",Music ChoiceHip-Hop and R&B
+#EXTINF:-1 tvg-id="ext" tvg-name="Music Choice Hip-Hop and R&B" tvg-logo="" group-title="Music",Music Choice Hip-Hop and R&B
 http://supersonictv.live:8080/880771/489382/13726
-#EXTINF:-1 tvg-id="ext" tvg-name="Music ChoiceHit List" tvg-logo="" group-title="Music",Music ChoiceHit List
+#EXTINF:-1 tvg-id="ext" tvg-name="Music Choice Hit List" tvg-logo="" group-title="Music",Music Choice Hit List
 http://supersonictv.live:8080/880771/489382/13725
-#EXTINF:-1 tvg-id="ext" tvg-name="Music ChoiceHoliday Hits" tvg-logo="" group-title="Music",Music ChoiceHoliday Hits
+#EXTINF:-1 tvg-id="ext" tvg-name="Music Choice Holiday Hits" tvg-logo="" group-title="Music",Music Choice Holiday Hits
 http://supersonictv.live:8080/880771/489382/13722
-#EXTINF:-1 tvg-id="ext" tvg-name="Music ChoiceHoliday Yule Logs" tvg-logo="" group-title="Music",Music ChoiceHoliday Yule Logs
+#EXTINF:-1 tvg-id="ext" tvg-name="Music Choice Holiday Yule Logs" tvg-logo="" group-title="Music",Music Choice Holiday Yule Logs
 http://supersonictv.live:8080/880771/489382/13723
-#EXTINF:-1 tvg-id="ext" tvg-name="Music ChoiceIndie" tvg-logo="" group-title="Music",Music ChoiceIndie
+#EXTINF:-1 tvg-id="ext" tvg-name="Music Choice Indie" tvg-logo="" group-title="Music",Music Choice Indie
 http://supersonictv.live:8080/880771/489382/13746
-#EXTINF:-1 tvg-id="ext" tvg-name="Music ChoiceKidz Bop" tvg-logo="" group-title="Music",Music ChoiceKidz Bop
+#EXTINF:-1 tvg-id="ext" tvg-name="Music Choice Kidz Bop" tvg-logo="" group-title="Music",Music Choice Kidz Bop
 http://supersonictv.live:8080/880771/489382/13748
-#EXTINF:-1 tvg-id="ext" tvg-name="Music ChoiceKidz Only!" tvg-logo="" group-title="Music",Music ChoiceKidz Only!
+#EXTINF:-1 tvg-id="ext" tvg-name="Music Choice Kidz Only!" tvg-logo="" group-title="Music",Music Choice Kidz Only!
 http://supersonictv.live:8080/880771/489382/13747
-#EXTINF:-1 tvg-id="ext" tvg-name="Music ChoiceMetal" tvg-logo="" group-title="Music",Music ChoiceMetal
+#EXTINF:-1 tvg-id="ext" tvg-name="Music Choice Metal" tvg-logo="" group-title="Music",Music Choice Metal
 http://supersonictv.live:8080/880771/489382/13744
-#EXTINF:-1 tvg-id="ext" tvg-name="Music ChoiceMexicana" tvg-logo="" group-title="Music",Music ChoiceMexicana
+#EXTINF:-1 tvg-id="ext" tvg-name="Music Choice Mexicana" tvg-logo="" group-title="Music",Music Choice Mexicana
 http://supersonictv.live:8080/880771/489382/13743
-#EXTINF:-1 tvg-id="ext" tvg-name="Music ChoicePop & Country" tvg-logo="" group-title="Music",Music ChoicePop & Country
+#EXTINF:-1 tvg-id="ext" tvg-name="Music Choice Pop & Country" tvg-logo="" group-title="Music",Music Choice Pop & Country
 http://supersonictv.live:8080/880771/489382/13730
-#EXTINF:-1 tvg-id="ext" tvg-name="Music ChoicePop Hits" tvg-logo="" group-title="Music",Music ChoicePop Hits
+#EXTINF:-1 tvg-id="ext" tvg-name="Music Choice Pop Hits" tvg-logo="" group-title="Music",Music Choice Pop Hits
 http://supersonictv.live:8080/880771/489382/13729
-#EXTINF:-1 tvg-id="ext" tvg-name="Music ChoicePop Latino" tvg-logo="" group-title="Music",Music ChoicePop Latino
+#EXTINF:-1 tvg-id="ext" tvg-name="Music Choice Pop Latino" tvg-logo="" group-title="Music",Music Choice Pop Latino
 http://supersonictv.live:8080/880771/489382/13738
-#EXTINF:-1 tvg-id="ext" tvg-name="Music ChoiceR&B" tvg-logo="" group-title="Music",Music ChoiceR&B
+#EXTINF:-1 tvg-id="ext" tvg-name="Music Choice R&B" tvg-logo="" group-title="Music",Music Choice R&B
 http://supersonictv.live:8080/880771/489382/13732
-#EXTINF:-1 tvg-id="ext" tvg-name="Music ChoiceR&B Soul" tvg-logo="" group-title="Music",Music ChoiceR&B Soul
+#EXTINF:-1 tvg-id="ext" tvg-name="Music Choice R&B Soul" tvg-logo="" group-title="Music",Music Choice R&B Soul
 http://supersonictv.live:8080/880771/489382/13734
-#EXTINF:-1 tvg-id="ext" tvg-name="Music ChoiceRap" tvg-logo="" group-title="Music",Music ChoiceRap
+#EXTINF:-1 tvg-id="ext" tvg-name="Music Choice Rap" tvg-logo="" group-title="Music",Music Choice Rap
 http://supersonictv.live:8080/880771/489382/13739
-#EXTINF:-1 tvg-id="ext" tvg-name="Music ChoiceRap 2K" tvg-logo="" group-title="Music",Music ChoiceRap 2K
+#EXTINF:-1 tvg-id="ext" tvg-name="Music Choice Rap 2K" tvg-logo="" group-title="Music",Music Choice Rap 2K
 http://supersonictv.live:8080/880771/489382/13741
-#EXTINF:-1 tvg-id="ext" tvg-name="Music ChoiceRock" tvg-logo="" group-title="Music",Music ChoiceRock
+#EXTINF:-1 tvg-id="ext" tvg-name="Music Choice Rock" tvg-logo="" group-title="Music",Music Choice Rock
 http://supersonictv.live:8080/880771/489382/13733
-#EXTINF:-1 tvg-id="ext" tvg-name="Music ChoiceTailgate Party" tvg-logo="" group-title="Music",Music ChoiceTailgate Party
+#EXTINF:-1 tvg-id="ext" tvg-name="Music Choice Tailgate Party" tvg-logo="" group-title="Music",Music Choice Tailgate Party
 http://supersonictv.live:8080/880771/489382/13724
-#EXTINF:-1 tvg-id="ext" tvg-name="Music ChoiceTeen Beats" tvg-logo="" group-title="Music",Music ChoiceTeen Beats
+#EXTINF:-1 tvg-id="ext" tvg-name="Music Choice Teen Beats" tvg-logo="" group-title="Music",Music Choice Teen Beats
 http://supersonictv.live:8080/880771/489382/13727
-#EXTINF:-1 tvg-id="ext" tvg-name="Music ChoiceThrowback Jamz" tvg-logo="" group-title="Music",Music ChoiceThrowback Jamz
+#EXTINF:-1 tvg-id="ext" tvg-name="Music Choice Throwback Jamz" tvg-logo="" group-title="Music",Music Choice Throwback Jamz
 http://supersonictv.live:8080/880771/489382/13740
-#EXTINF:-1 tvg-id="ext" tvg-name="Music ChoiceToday*s Country: CMA Awards" tvg-logo="" group-title="Music",Music ChoiceToday*s Country: CMA Awards
+#EXTINF:-1 tvg-id="ext" tvg-name="Music ChoiceToday*s Country: CMA Awards" tvg-logo="" group-title="Music",Music Choice Today*s Country: CMA Awards
 http://supersonictv.live:8080/880771/489382/13728
-#EXTINF:-1 tvg-id="ext" tvg-name="Music ChoiceToddler Tunes" tvg-logo="" group-title="Music",Music ChoiceToddler Tunes
+#EXTINF:-1 tvg-id="ext" tvg-name="Music Choice Toddler Tunes" tvg-logo="" group-title="Music",Music Choice Toddler Tunes
 http://supersonictv.live:8080/880771/489382/13749
-#EXTINF:-1 tvg-id="ext" tvg-name="Music ChoiceTropicales" tvg-logo="" group-title="Music",Music ChoiceTropicales
+#EXTINF:-1 tvg-id="ext" tvg-name="Music Choice Tropicales" tvg-logo="" group-title="Music",Music Choice Tropicales
 http://supersonictv.live:8080/880771/489382/13742
-#EXTINF:-1 tvg-id="ext" tvg-name="Music ChoiceY2K" tvg-logo="" group-title="Music",Music ChoiceY2K
+#EXTINF:-1 tvg-id="ext" tvg-name="Music Choice Y2K" tvg-logo="" group-title="Music",Music Choice Y2K
 http://supersonictv.live:8080/880771/489382/13736
 #EXTINF:-1 tvg-id="ext" tvg-name="Cinemax" tvg-logo="" group-title="Movies",Cinemax
 http://supersonictv.live:8080/880771/489382/22879
-#EXTINF:-1 tvg-id="ext" tvg-name="CINEMAX 5 STARMAX" tvg-logo="" group-title="Movies",CINEMAX 5 STARMAX
-http://supersonictv.live:8080/880771/489382/22878
-#EXTINF:-1 tvg-id="ext" tvg-name="CINEMAX ACTIONMAX" tvg-logo="" group-title="Movies",CINEMAX ACTIONMAX
-http://supersonictv.live:8080/880771/489382/22881
-#EXTINF:-1 tvg-id="ext" tvg-name="CINEMAX ACTIONMAX WEST" tvg-logo="" group-title="Movies",CINEMAX ACTIONMAX WEST
-http://supersonictv.live:8080/880771/489382/61185
-#EXTINF:-1 tvg-id="ext" tvg-name="CINEMAX MORE MAX" tvg-logo="" group-title="Movies",CINEMAX MORE MAX
-http://supersonictv.live:8080/880771/489382/22882
-#EXTINF:-1 tvg-id="ext" tvg-name="CINEMAX MOREMAX WEST" tvg-logo="" group-title="Movies",CINEMAX MOREMAX WEST
-http://supersonictv.live:8080/880771/489382/61186
-#EXTINF:-1 tvg-id="ext" tvg-name="CINEMAX MOVIE MAX" tvg-logo="" group-title="Movies",CINEMAX MOVIE MAX
-http://supersonictv.live:8080/880771/489382/22883
-#EXTINF:-1 tvg-id="ext" tvg-name="CINEMAX OUTER MAX" tvg-logo="" group-title="Movies",CINEMAX OUTER MAX
-http://supersonictv.live:8080/880771/489382/22884
-#EXTINF:-1 tvg-id="ext" tvg-name="CINEMAX THRILLER MAX" tvg-logo="" group-title="Movies",CINEMAX THRILLER MAX
-http://supersonictv.live:8080/880771/489382/22885
-#EXTINF:-1 tvg-id="ext" tvg-name="CINEMAX THRILLERMAX WEST" tvg-logo="" group-title="Movies",CINEMAX THRILLERMAX WEST
-http://supersonictv.live:8080/880771/489382/61187
 #EXTINF:-1 tvg-id="ext" tvg-name="Cinemax West" tvg-logo="" group-title="Movies",Cinemax West
 http://supersonictv.live:8080/880771/489382/22880
+#EXTINF:-1 tvg-id="ext" tvg-name="5 STARMAX" tvg-logo="" group-title="Movies",5 STARMAX
+http://supersonictv.live:8080/880771/489382/22878
+#EXTINF:-1 tvg-id="ext" tvg-name="ACTIONMAX" tvg-logo="" group-title="Movies",ACTIONMAX
+http://supersonictv.live:8080/880771/489382/22881
+#EXTINF:-1 tvg-id="ext" tvg-name="ACTIONMAX WEST" tvg-logo="" group-title="Movies",ACTIONMAX WEST
+http://supersonictv.live:8080/880771/489382/61185
+#EXTINF:-1 tvg-id="ext" tvg-name="MORE MAX" tvg-logo="" group-title="Movies",MORE MAX
+http://supersonictv.live:8080/880771/489382/22882
+#EXTINF:-1 tvg-id="ext" tvg-name="MOREMAX WEST" tvg-logo="" group-title="Movies",MOREMAX WEST
+http://supersonictv.live:8080/880771/489382/61186
+#EXTINF:-1 tvg-id="ext" tvg-name="MOVIE MAX" tvg-logo="" group-title="Movies",MOVIE MAX
+http://supersonictv.live:8080/880771/489382/22883
+#EXTINF:-1 tvg-id="ext" tvg-name="OUTER MAX" tvg-logo="" group-title="Movies",OUTER MAX
+http://supersonictv.live:8080/880771/489382/22884
+#EXTINF:-1 tvg-id="ext" tvg-name="THRILLER MAX" tvg-logo="" group-title="Movies",THRILLER MAX
+http://supersonictv.live:8080/880771/489382/22885
+#EXTINF:-1 tvg-id="ext" tvg-name="THRILLERMAX WEST" tvg-logo="" group-title="Movies",THRILLERMAX WEST
+http://supersonictv.live:8080/880771/489382/61187
 #EXTINF:-1 tvg-id="ext" tvg-name="HBO" tvg-logo="" group-title="Movies",HBO
 http://supersonictv.live:8080/880771/489382/22894
+#EXTINF:-1 tvg-id="ext" tvg-name="HBO Pacific" tvg-logo="" group-title="Movies",HBO Pacific
+http://supersonictv.live:8080/880771/489382/22899
 #EXTINF:-1 tvg-id="ext" tvg-name="HBO 2" tvg-logo="" group-title="Movies",HBO 2
 http://supersonictv.live:8080/880771/489382/22896
 #EXTINF:-1 tvg-id="ext" tvg-name="HBO Comedy" tvg-logo="" group-title="Movies",HBO Comedy
 http://supersonictv.live:8080/880771/489382/22897
 #EXTINF:-1 tvg-id="ext" tvg-name="HBO Family" tvg-logo="" group-title="Movies",HBO Family
 http://supersonictv.live:8080/880771/489382/22898
-#EXTINF:-1 tvg-id="ext" tvg-name="HBO Pacific" tvg-logo="" group-title="Movies",HBO Pacific
-http://supersonictv.live:8080/880771/489382/22899
 #EXTINF:-1 tvg-id="ext" tvg-name="HBO Signature" tvg-logo="" group-title="Movies",HBO Signature
 http://supersonictv.live:8080/880771/489382/22900
 #EXTINF:-1 tvg-id="ext" tvg-name="HBO West" tvg-logo="" group-title="Movies",HBO West
@@ -653,6 +651,8 @@ http://supersonictv.live:8080/880771/489382/77471
 http://supersonictv.live:8080/880771/489382/22917
 #EXTINF:-1 tvg-id="ext" tvg-name="StarZ" tvg-logo="" group-title="Movies",StarZ
 http://supersonictv.live:8080/880771/489382/22918
+#EXTINF:-1 tvg-id="ext" tvg-name="Starz West" tvg-logo="" group-title="Movies",Starz West
+http://supersonictv.live:8080/880771/489382/22919
 #EXTINF:-1 tvg-id="ext" tvg-name="Starz Cinema" tvg-logo="" group-title="Movies",Starz Cinema
 http://supersonictv.live:8080/880771/489382/22920
 #EXTINF:-1 tvg-id="ext" tvg-name="Starz Comedy" tvg-logo="" group-title="Movies",Starz Comedy
@@ -679,5 +679,3 @@ http://supersonictv.live:8080/880771/489382/22932
 http://supersonictv.live:8080/880771/489382/22923
 #EXTINF:-1 tvg-id="ext" tvg-name="Starz Kids & Family" tvg-logo="" group-title="Movies",Starz Kids & Family
 http://supersonictv.live:8080/880771/489382/22924
-#EXTINF:-1 tvg-id="ext" tvg-name="Starz West" tvg-logo="" group-title="Movies",Starz West
-http://supersonictv.live:8080/880771/489382/22919
